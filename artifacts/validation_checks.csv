@@ -1,0 +1,36 @@
+check_id,dataset,description,status,detail
+cabg.columns,cabg,All required columns present,pass,20 required columns found
+cabg.rows,cabg,Dataset is non-empty,pass,"1,937 rows; encoding cp1252"
+cabg.duplicates,cabg,No exact duplicate rows,pass,0 duplicate rows
+stroke.columns,stroke,All required columns present,pass,10 required columns found
+stroke.rows,stroke,Dataset is non-empty,pass,"2,188 rows; encoding cp1252"
+stroke.duplicates,stroke,No exact duplicate rows,pass,0 duplicate rows
+allcause.columns,allcause,All required columns present,pass,10 required columns found
+allcause.rows,allcause,Dataset is non-empty,pass,"1,057 rows; encoding utf-8"
+allcause.duplicates,allcause,No exact duplicate rows,pass,0 duplicate rows
+synthetic.columns,synthetic,All required columns present,pass,10 required columns found
+synthetic.rows,synthetic,Dataset is non-empty,pass,120 rows; encoding utf-8
+synthetic.duplicates,synthetic,No exact duplicate rows,pass,0 duplicate rows
+cabg.unique_key,cabg,One row per hospital x period x measure,pass,0 duplicate keys
+cabg.ids,cabg,Every row has a valid 9-digit Hospital ID,pass,0 missing IDs; 127 unique IDs
+cabg.measures,cabg,All measures recognised,pass,"CABG+Valve Operative Mortality, Isolated CABG 30-Day Readmission, Isolated CABG Operative Mortality, Isolated CABG Post-Operative Stroke"
+cabg.raaer_range,cabg,"Risk-adjusted rates within [0, 100] %",pass,"min 0.00, max 97.55"
+cabg.ci_order,cabg,Lower CI <= RAAER <= Upper CI,pass,0 rows violate CI ordering
+cabg.events_le_cases,cabg,Adverse events <= eligible cases,pass,0 violations
+cabg.readmission_coverage,cabg,Readmission periods have comparable hospital coverage,warn,2018-2019: 123 hospitals; 2019-2020: 123 hospitals; 2020-2021: 2 hospitals; 2021-2022: 120 hospitals; 2022-2023: 119 hospitals -> sparse: 2020-2021
+cabg.rolling_windows,cabg,Two-year periods are overlapping rolling windows (statewide cases = sum of single years),pass,"2019-2020: 29,877 vs 2019+2020 = 29,877; 2022-2023: 31,086 vs 2022+2023 = 31,094. Consecutive two-year periods share one calendar year of patients."
+stroke.unique_key,stroke,One row per hospital x period x measure,pass,0 duplicate keys
+stroke.ids,stroke,Hospital rows have valid OSHPD IDs,pass,0 missing; 288 unique
+stroke.rate_range,stroke,"Risk-adjusted rates within [0, 100] %",pass,"min 0.00, max 29.72"
+stroke.events_le_cases,stroke,Deaths/readmissions <= cases (after correction),pass,0 violations remain; 545 rows corrected by column swap
+stroke.column_swap,stroke,Source count columns consistent across periods,warn,545 rows in 2013-2014 had transposed count columns in the source file (corrected in memory).
+stroke.missing_rates,stroke,Missing hospital rates are kept as NaN,pass,10 hospital-measure rows without a published rate (not imputed)
+allcause.unique_key,allcause,One row per year x stratum x county,pass,0 duplicate keys
+allcause.single_coding_system,allcause,Each row uses exactly one coding system,pass,                min   max; coding_system            ; ICD-10         2016  2024; ICD-9          2011  2015
+allcause.rate_consistency,allcause,Published rate agrees with readmits / admits (rounding tolerance 0.5 pp),pass,max abs difference 0.050 pp; mean 0.009 pp
+allcause.rate_range,allcause,"Rates within [0, 100] %",pass,"min 0.00, max 40.00"
+allcause.small_denominators,allcause,"County rates based on >= 1,000 admissions",warn,"117 county-years below threshold (e.g. Alpine, Colusa, Del Norte, Inyo, Lassen, Mariposa); flagged in dashboard rankings"
+synthetic.flag,synthetic,Every synthetic row has Synthetic_Record_Flag = True,pass,120/120 flagged
+synthetic.id_prefix,synthetic,Synthetic IDs use the SYNTH_ prefix,pass,all IDs start with SYNTH_
+synthetic.no_overlap,synthetic,No synthetic ID collides with a real hospital ID,pass,0 collisions
+synthetic.numeric,synthetic,Synthetic model inputs are numeric and finite,pass,"prev_readmit_rate, prev_stroke_rate, prev_cabg_volume, synthetic_label_next_rate"

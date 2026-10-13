@@ -1,0 +1,60 @@
+{
+  "n_records": 120,
+  "all_flagged_synthetic": true,
+  "schema_features": [
+    "prev_readmit_rate",
+    "prev_stroke_rate",
+    "prev_cabg_volume"
+  ],
+  "unused_synthetic_columns": [
+    "Operative_Mortality_Rate_Pct"
+  ],
+  "all_predictions_finite": true,
+  "predictions_in_0_100": true,
+  "deterministic": true,
+  "records_with_any_input_outside_training_range": 2,
+  "inputs_outside_training_range_by_feature": {
+    "prev_readmit_rate": 2,
+    "prev_stroke_rate": 0,
+    "prev_cabg_volume": 0
+  },
+  "agreement_with_synthetic_labels": [
+    {
+      "model": "mean_baseline",
+      "label": "Training-mean baseline",
+      "MAE": 2.891568548387097,
+      "RMSE": 3.602034040886217,
+      "R2": -0.00021890330303575567,
+      "Bias": 0.053287634408600876,
+      "n": 120
+    },
+    {
+      "model": "persistence",
+      "label": "Persistence baseline",
+      "MAE": 2.60525,
+      "RMSE": 3.1737999044258185,
+      "R2": 0.2234695005886297,
+      "Bias": -0.36758333333333354,
+      "n": 120
+    },
+    {
+      "model": "linear_regression",
+      "label": "Linear Regression",
+      "MAE": 1.959124701747649,
+      "RMSE": 2.6156249599850296,
+      "R2": 0.4725875486332727,
+      "Bias": -0.24047633204680888,
+      "n": 120
+    },
+    {
+      "model": "random_forest",
+      "label": "Random Forest",
+      "MAE": 2.2372685350585235,
+      "RMSE": 2.8846501142237186,
+      "R2": 0.3585161592889803,
+      "Bias": -0.13256066210151415,
+      "n": 120
+    }
+  ],
+  "interpretation": "Agreement with synthetic labels only shows the pipeline runs consistently on schema-compatible inputs. It is not evidence of real-world accuracy."
+}

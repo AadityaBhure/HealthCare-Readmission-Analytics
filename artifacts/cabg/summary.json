@@ -1,0 +1,59 @@
+{
+  "recommended_model": "linear_regression",
+  "rf_best_params": {
+    "model__min_samples_leaf": 10,
+    "model__max_depth": 5,
+    "model__max_features": 1.0
+  },
+  "train_summary": {
+    "n_train": 124,
+    "n_test": 118,
+    "train_hospitals": 122,
+    "test_hospitals": 118,
+    "train_target_periods": [
+      "2019-2020",
+      "2020-2021"
+    ],
+    "test_target_periods": [
+      "2022-2023"
+    ],
+    "train_input_periods": [
+      "2018-2019",
+      "2019-2020"
+    ],
+    "test_input_periods": [
+      "2021-2022"
+    ],
+    "feature_ranges": {
+      "prev_readmit_rate": {
+        "min": 5.25,
+        "max": 41.26,
+        "median": 12.355,
+        "p05": 6.8405,
+        "p95": 21.630499999999994
+      },
+      "prev_stroke_rate": {
+        "min": 0.0,
+        "max": 5.84,
+        "median": 1.685,
+        "p05": 0.0,
+        "p95": 4.260499999999998
+      },
+      "prev_cabg_volume": {
+        "min": 23.0,
+        "max": 1817.0,
+        "median": 186.0,
+        "p05": 61.650000000000006,
+        "p95": 708.4499999999996
+      }
+    },
+    "target_train_mean": 13.296370967741934
+  },
+  "n_excluded": 2,
+  "n_pooled": 242,
+  "n_nonoverlap": 120,
+  "lag_correlation": {
+    "one_step_overlapping": 0.7184763867673031,
+    "non_overlapping": 0.47204708105937393
+  }
+}

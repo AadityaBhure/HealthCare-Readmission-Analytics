@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="40" viewBox="0 0 260 40">
+  <rect x="1" y="4" width="32" height="32" rx="9" fill="#0E2A44" stroke="#22D3EE" stroke-opacity="0.55"/>
+  <path d="M6 21 h6 l3 -7 l4 13 l3 -9 l2 3 h7" fill="none" stroke="#22D3EE" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="42" y="19" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E6EDF7">CA Readmission</text>
+  <text x="42" y="34" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#7D8BA3" letter-spacing="1.6">ANALYTICS</text>
+</svg>

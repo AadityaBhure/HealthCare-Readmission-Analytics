@@ -1,0 +1,16 @@
+# Runtime + pipeline + report + tests. Versions are pinned so that the committed
+# scikit-learn models load identically locally, in GitHub Actions and on Streamlit Cloud.
+# Python 3.12 or newer is required (CI and the recommended Streamlit Cloud setting use 3.12).
+streamlit==1.65.0
+plotly==7.1.0
+pandas==3.0.6
+numpy==2.5.4
+scikit-learn==1.9.1
+scipy==1.18.1
+joblib==1.6.0
+pyarrow==25.0.1
+requests==2.34.2
+matplotlib==3.11.2
+python-docx==1.2.0
+reportlab==5.0.1
+pytest==9.1.1

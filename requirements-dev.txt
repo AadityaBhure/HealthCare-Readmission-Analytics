@@ -1,0 +1,4 @@
+# Optional developer tools (not needed to run the pipeline or the dashboard)
+-r requirements.txt
+playwright==1.63.0   # tools/capture_screenshots.py (uses an installed Edge/Chrome)
+pymupdf==1.28.2      # rendering report pages for visual checks

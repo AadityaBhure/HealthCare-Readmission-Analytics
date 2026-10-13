@@ -1,0 +1,164 @@
+{
+  "periods": [
+    "2011-2012",
+    "2012-2013",
+    "2013-2014",
+    "2014-2015"
+  ],
+  "hospitals": 288,
+  "counties": 46,
+  "readmission_vs_mortality_correlation": {
+    "2011-2012": {
+      "pearson_r": -0.08122866910455817,
+      "n": 274
+    },
+    "2012-2013": {
+      "pearson_r": 0.04618594457808715,
+      "n": 271
+    },
+    "2013-2014": {
+      "pearson_r": 0.029745134789117004,
+      "n": 269
+    },
+    "2014-2015": {
+      "pearson_r": -0.1229948179888229,
+      "n": 265
+    }
+  },
+  "rating_counts": [
+    {
+      "period": "2011-2012",
+      "measure": "readmit",
+      "As Expected": 255,
+      "Better": 12,
+      "Worse": 7
+    },
+    {
+      "period": "2012-2013",
+      "measure": "readmit",
+      "As Expected": 261,
+      "Better": 3,
+      "Worse": 7
+    },
+    {
+      "period": "2013-2014",
+      "measure": "readmit",
+      "As Expected": 260,
+      "Better": 5,
+      "Worse": 4
+    },
+    {
+      "period": "2014-2015",
+      "measure": "readmit",
+      "As Expected": 256,
+      "Better": 3,
+      "Worse": 6
+    },
+    {
+      "period": "2011-2012",
+      "measure": "mortality",
+      "As Expected": 257,
+      "Better": 9,
+      "Worse": 10
+    },
+    {
+      "period": "2012-2013",
+      "measure": "mortality",
+      "As Expected": 256,
+      "Better": 9,
+      "Worse": 9
+    },
+    {
+      "period": "2013-2014",
+      "measure": "mortality",
+      "As Expected": 242,
+      "Better": 15,
+      "Worse": 17
+    },
+    {
+      "period": "2014-2015",
+      "measure": "mortality",
+      "As Expected": 242,
+      "Better": 11,
+      "Worse": 14
+    }
+  ],
+  "distribution": [
+    {
+      "period": "2011-2012",
+      "readmit_rate_count": 274.0,
+      "readmit_rate_mean": 12.62,
+      "readmit_rate_std": 3.77,
+      "readmit_rate_min": 0.0,
+      "readmit_rate_25%": 10.62,
+      "readmit_rate_50%": 12.5,
+      "readmit_rate_75%": 14.43,
+      "readmit_rate_max": 26.14,
+      "mortality_rate_count": 276.0,
+      "mortality_rate_mean": 10.62,
+      "mortality_rate_std": 3.4,
+      "mortality_rate_min": 0.0,
+      "mortality_rate_25%": 8.59,
+      "mortality_rate_50%": 10.4,
+      "mortality_rate_75%": 12.61,
+      "mortality_rate_max": 24.57
+    },
+    {
+      "period": "2012-2013",
+      "readmit_rate_count": 271.0,
+      "readmit_rate_mean": 12.31,
+      "readmit_rate_std": 3.52,
+      "readmit_rate_min": 2.2,
+      "readmit_rate_25%": 10.3,
+      "readmit_rate_50%": 12.08,
+      "readmit_rate_75%": 14.26,
+      "readmit_rate_max": 25.99,
+      "mortality_rate_count": 274.0,
+      "mortality_rate_mean": 10.25,
+      "mortality_rate_std": 3.44,
+      "mortality_rate_min": 0.0,
+      "mortality_rate_25%": 8.2,
+      "mortality_rate_50%": 10.2,
+      "mortality_rate_75%": 12.1,
+      "mortality_rate_max": 27.65
+    },
+    {
+      "period": "2013-2014",
+      "readmit_rate_count": 269.0,
+      "readmit_rate_mean": 11.78,
+      "readmit_rate_std": 3.11,
+      "readmit_rate_min": 2.9,
+      "readmit_rate_25%": 9.92,
+      "readmit_rate_50%": 11.82,
+      "readmit_rate_75%": 13.82,
+      "readmit_rate_max": 22.2,
+      "mortality_rate_count": 274.0,
+      "mortality_rate_mean": 9.93,
+      "mortality_rate_std": 3.79,
+      "mortality_rate_min": 0.0,
+      "mortality_rate_25%": 7.95,
+      "mortality_rate_50%": 9.57,
+      "mortality_rate_75%": 11.55,
+      "mortality_rate_max": 28.68
+    },
+    {
+      "period": "2014-2015",
+      "readmit_rate_count": 265.0,
+      "readmit_rate_mean": 11.68,
+      "readmit_rate_std": 3.08,
+      "readmit_rate_min": 2.03,
+      "readmit_rate_25%": 9.76,
+      "readmit_rate_50%": 12.0,
+      "readmit_rate_75%": 13.59,
+      "readmit_rate_max": 20.5,
+      "mortality_rate_count": 267.0,
+      "mortality_rate_mean": 10.05,
+      "mortality_rate_std": 3.76,
+      "mortality_rate_min": 0.0,
+      "mortality_rate_25%": 7.89,
+      "mortality_rate_50%": 9.74,
+      "mortality_rate_75%": 11.8,
+      "mortality_rate_max": 29.72
+    }
+  ]
+}

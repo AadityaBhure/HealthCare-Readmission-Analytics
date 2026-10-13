@@ -1,0 +1,18 @@
+measure_code,measure,period,period_start,period_years,rate,events,cases,hospitals
+cabg_valve_mortality,CABG+Valve Operative Mortality,2018-2019,2018,2,5.17,215.0,4161.0,123
+cabg_valve_mortality,CABG+Valve Operative Mortality,2019-2020,2019,2,5.56,196.0,3523.0,123
+cabg_valve_mortality,CABG+Valve Operative Mortality,2021-2022,2021,2,5.66,178.0,3143.0,120
+cabg_valve_mortality,CABG+Valve Operative Mortality,2022-2023,2022,2,5.35,183.0,3422.0,119
+iso_mortality,Isolated CABG Operative Mortality,2019,2019,1,2.19,290.0,13252.0,123
+iso_mortality,Isolated CABG Operative Mortality,2020,2020,1,2.64,289.0,10949.0,120
+iso_mortality,Isolated CABG Operative Mortality,2022,2022,1,2.46,309.0,12564.0,118
+iso_mortality,Isolated CABG Operative Mortality,2023,2023,1,2.02,264.0,13043.0,119
+postop_stroke,Isolated CABG Post-Operative Stroke,2018-2019,2018,2,1.69,439.0,26042.0,123
+postop_stroke,Isolated CABG Post-Operative Stroke,2019-2020,2019,2,1.59,386.0,24201.0,123
+postop_stroke,Isolated CABG Post-Operative Stroke,2021-2022,2021,2,1.53,367.0,24015.0,120
+postop_stroke,Isolated CABG Post-Operative Stroke,2022-2023,2022,2,1.38,354.0,25607.0,119
+readmission,Isolated CABG 30-Day Readmission,2018-2019,2018,2,12.15,2693.0,22167.0,123
+readmission,Isolated CABG 30-Day Readmission,2019-2020,2019,2,11.77,2395.0,20346.0,123
+readmission,Isolated CABG 30-Day Readmission,2020-2021,2020,2,11.36,2127.0,18716.0,2
+readmission,Isolated CABG 30-Day Readmission,2021-2022,2021,2,11.27,2225.0,19747.0,120
+readmission,Isolated CABG 30-Day Readmission,2022-2023,2022,2,11.16,2324.0,20825.0,119

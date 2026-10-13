@@ -1,0 +1,3 @@
+hospital_id,input_period,target_period,input_start,target_start,horizon_years,design,prev_readmit_rate,prev_stroke_rate,prev_cabg_volume,prev_iso_mortality_final_year,prev_cabg_valve_mortality_rate,prev_expected_readmit_rate,next_readmit_rate,target_cases,target_statewide_rate,features_complete,primary_features_complete,reason
+106560529,2020-2021,2021-2022,2020,2021,1,one-step rolling window (overlapping 1 year),27.29,,99.0,,,10.84,16.41,80.0,11.27,False,False,missing primary feature(s) in input window (no post-operative stroke measure published)
+106580996,2020-2021,2021-2022,2020,2021,1,one-step rolling window (overlapping 1 year),12.0,,155.0,,,11.53,10.65,95.0,11.27,False,False,missing primary feature(s) in input window (no post-operative stroke measure published)

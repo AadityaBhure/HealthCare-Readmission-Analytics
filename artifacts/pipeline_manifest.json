@@ -1,0 +1,25 @@
+{
+  "run_utc": "2026-10-13T07:27:45+00:00",
+  "mode": "full",
+  "duration_seconds": 25.9,
+  "python": "3.14.2",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "versions": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "streamlit": "1.65.0"
+  },
+  "data_sha256": {
+    "cabg": "e42406d31c93317a7a5baff436052ecd97b911188188ed20cca62b0cde7b147c",
+    "stroke": "2327c6adb2f6608d334cc23cc04f5fdf6f8738d7cb2079ac6c06d303a858e2a2",
+    "allcause": "17e8610b80ed451ecf3484e19a83685249ce48bb1fffa425bed660a4ae745729",
+    "synthetic": "8585469a7fe21353059686bcb9fdb78c8c24297aa5c46eb19b6a1eca9931db1e"
+  },
+  "validation": {
+    "pass": 32,
+    "warn": 3,
+    "fail": 0
+  },
+  "cabg_recommended_model": "linear_regression"
+}

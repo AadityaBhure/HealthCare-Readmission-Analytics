@@ -1,0 +1,5 @@
+design,model,reference,mean_mae_diff,sd_mae_diff,folds,share_folds_model_better
+one-step (pooled grouped CV),linear_regression,persistence,-0.23378913039786617,0.06563748216977476,25,1.0
+one-step (pooled grouped CV),random_forest,persistence,-0.1939373766944808,0.05866173421013896,25,1.0
+non-overlapping horizon (grouped CV),linear_regression,persistence,-0.5738595948120124,0.2083595873656969,25,1.0
+non-overlapping horizon (grouped CV),random_forest,persistence,-0.569839566228504,0.2168021210555323,25,1.0

@@ -1,0 +1,13 @@
+volume_tercile,model,MAE,n,volume_range
+Low volume,mean_baseline,4.705431451612903,40,6-86 cases
+Low volume,persistence,3.194,40,6-86 cases
+Low volume,linear_regression,3.351819751153317,40,6-86 cases
+Low volume,random_forest,3.5818525504565373,40,6-86 cases
+Medium volume,mean_baseline,3.8083229942100902,39,88-156 cases
+Medium volume,persistence,2.6241025641025644,39,88-156 cases
+Medium volume,linear_regression,2.688789209737133,39,88-156 cases
+Medium volume,random_forest,2.8041158117877174,39,88-156 cases
+High volume,mean_baseline,3.2229880066170384,39,158-1238 cases
+High volume,persistence,1.625897435897436,39,158-1238 cases
+High volume,linear_regression,1.5665896112966822,39,158-1238 cases
+High volume,random_forest,1.8158783658933793,39,158-1238 cases

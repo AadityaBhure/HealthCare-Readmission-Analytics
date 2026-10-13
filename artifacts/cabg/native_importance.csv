@@ -1,0 +1,7 @@
+model,feature,value,kind
+linear_regression,prev_cabg_volume,-0.7470193790694444,standardised coefficient (pp per 1 SD; volume on log scale)
+linear_regression,prev_readmit_rate,3.0821189734759136,standardised coefficient (pp per 1 SD; volume on log scale)
+linear_regression,prev_stroke_rate,-0.1257795489832323,standardised coefficient (pp per 1 SD; volume on log scale)
+random_forest,prev_cabg_volume,0.08106615839852856,impurity importance (share of variance reduction)
+random_forest,prev_readmit_rate,0.8686594692074197,impurity importance (share of variance reduction)
+random_forest,prev_stroke_rate,0.05027437239405173,impurity importance (share of variance reduction)

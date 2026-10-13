@@ -1,0 +1,14 @@
+# Normalise source files, but keep data and binary artifacts byte-for-byte identical
+# (raw CSV hashes are recorded by the pipeline).
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.csv -text
+*.json -text
+*.geojson -text
+*.joblib binary
+*.png binary
+*.docx binary
+*.pdf binary

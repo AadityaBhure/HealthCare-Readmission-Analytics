@@ -1,0 +1,50 @@
+[
+  {
+    "area": "Population",
+    "text": "California's all-cause unplanned 30-day readmission rate was 15.95% in 2024 (ICD-10), up 0.99 percentage points from 2023 and +1.47 pp since 2016, the first ICD-10 year (14.48%)."
+  },
+  {
+    "area": "Population",
+    "text": "By expected payer (2024), the highest rate was MediCare (17.02%) and the lowest Self-Pay (6.98%). These are descriptive associations, not causal effects."
+  },
+  {
+    "area": "Population",
+    "text": "By age group (2024), the highest rate was 45 to 64 years (16.44%) and the lowest 18 to 44 years (13.47%); 65 years and above was 16.36%."
+  },
+  {
+    "area": "Population",
+    "text": "Among 50 counties with at least 1,000 admissions in 2024, rates ranged from 10.19% (Siskiyou) to 18.78% (Butte)."
+  },
+  {
+    "area": "CABG",
+    "text": "Statewide isolated CABG 30-day readmission moved from 12.15% (2018-2019) to 11.16% (2022-2023)."
+  },
+  {
+    "area": "CABG model",
+    "text": "On the held-out 2022-2023 window (n=118 hospitals), Linear Regression (MAE 2.54 pp) is statistically indistinguishable from the persistence baseline (MAE 2.49 pp); bootstrap 95% CI of the MAE difference [-0.23, +0.34] pp. Random Forest MAE was 2.74 pp."
+  },
+  {
+    "area": "CABG model",
+    "text": "Rolling two-year windows share a calendar year, which inflates persistence. When input and target windows do not overlap, persistence MAE rises to 3.96 pp while Linear Regression reaches 3.52 pp (better in 88% of grouped-CV folds)."
+  },
+  {
+    "area": "CABG model",
+    "text": "Permutation importance: 'prev_readmit_rate' dominates (MAE +1.76 pp when shuffled); previous post-operative stroke rate and case volume add little predictive signal."
+  },
+  {
+    "area": "Stroke",
+    "text": "Statewide ischemic stroke 30-day readmission (risk-adjusted) went from 12.80% (2011-2012) to 11.80% (2014-2015)."
+  },
+  {
+    "area": "Stroke",
+    "text": "Statewide ischemic stroke 30-day mortality (risk-adjusted) went from 10.55% (2011-2012) to 9.81% (2014-2015)."
+  },
+  {
+    "area": "Stroke",
+    "text": "Hospital-level stroke readmission and mortality rates are nearly uncorrelated (Pearson r between -0.12 and +0.05 across periods): a hospital's mortality performance says little about its readmission performance."
+  },
+  {
+    "area": "Stroke model",
+    "text": "Stroke model on the 2014-2015 hold-out (n=259): Linear Regression MAE 1.85 pp vs persistence 1.98 pp (-6.4%). Bootstrap 95% CI of the MAE difference [-0.27, +0.01] pp: the difference is not statistically reliable at the 95% level (the interval includes zero), although Linear Regression had lower error in 97% of bootstrap resamples."
+  }
+]

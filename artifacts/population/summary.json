@@ -1,0 +1,165 @@
+{
+  "latest_year": 2024,
+  "latest_rate": 15.95,
+  "latest_admits": 1855359.0,
+  "latest_readmits": 295972.0,
+  "latest_coding_system": "ICD-10",
+  "previous_year_rate": 14.96,
+  "yoy_change_pp": 0.9899999999999984,
+  "icd10_first_year": 2016,
+  "icd10_first_rate": 14.48,
+  "icd10_change_pp": 1.4699999999999989,
+  "icd10_min_year": 2021,
+  "icd10_min_rate": 14.42,
+  "icd9_years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "icd10_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "transition_year": 2015,
+  "n_counties": 58,
+  "min_county_admits": 1000,
+  "counties_ranked_latest": 50,
+  "counties_below_threshold_latest": 8,
+  "highest_county": {
+    "county": "Butte",
+    "rate": 18.78,
+    "admits": 19879.0
+  },
+  "lowest_county": {
+    "county": "Siskiyou",
+    "rate": 10.19,
+    "admits": 1766.0
+  },
+  "county_rate_iqr_latest": [
+    14.782499999999999,
+    16.425
+  ],
+  "strata_latest": {
+    "Age": [
+      {
+        "name": "45 to 64 years",
+        "rate": 16.44,
+        "admits": 514798.0
+      },
+      {
+        "name": "65 years and above",
+        "rate": 16.36,
+        "admits": 1064031.0
+      },
+      {
+        "name": "18 to 44 years",
+        "rate": 13.47,
+        "admits": 276530.0
+      }
+    ],
+    "Expected Payer": [
+      {
+        "name": "MediCare",
+        "rate": 17.02,
+        "admits": 1070818.0
+      },
+      {
+        "name": "Medi-Cal",
+        "rate": 16.75,
+        "admits": 393893.0
+      },
+      {
+        "name": "Private",
+        "rate": 12.48,
+        "admits": 328903.0
+      },
+      {
+        "name": "Other",
+        "rate": 12.16,
+        "admits": 47068.0
+      },
+      {
+        "name": "Self-Pay",
+        "rate": 6.98,
+        "admits": 14677.0
+      }
+    ],
+    "Race-Ethnicity": [
+      {
+        "name": "African-American",
+        "rate": 19.51,
+        "admits": 172328.0
+      },
+      {
+        "name": "Multiracial",
+        "rate": 17.75,
+        "admits": 19365.0
+      },
+      {
+        "name": "Native American",
+        "rate": 16.78,
+        "admits": 6345.0
+      },
+      {
+        "name": "Asian/Pacific Islander",
+        "rate": 15.73,
+        "admits": 172268.0
+      },
+      {
+        "name": "Hispanic",
+        "rate": 15.63,
+        "admits": 520701.0
+      },
+      {
+        "name": "White",
+        "rate": 15.59,
+        "admits": 887499.0
+      },
+      {
+        "name": "Other/Unknown",
+        "rate": 14.32,
+        "admits": 76853.0
+      }
+    ],
+    "Sex": [
+      {
+        "name": "Male",
+        "rate": 16.6,
+        "admits": 932093.0
+      },
+      {
+        "name": "Female",
+        "rate": 15.3,
+        "admits": 923266.0
+      }
+    ]
+  },
+  "admits_change_2019_2020_pct": -13.013957280234568,
+  "era_summary": [
+    {
+      "coding_system": "ICD-10",
+      "years": "2016-2024",
+      "mean_rate_full_years": 14.785555555555554,
+      "min_rate": 14.42,
+      "max_rate": 15.95,
+      "mean_annual_admits": 1777170.5555555555
+    },
+    {
+      "coding_system": "ICD-9",
+      "years": "2011-2015",
+      "mean_rate_full_years": 13.75,
+      "min_rate": 13.53,
+      "max_rate": 14.0,
+      "mean_annual_admits": 1886941.0
+    }
+  ]
+}

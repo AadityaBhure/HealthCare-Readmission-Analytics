@@ -1,0 +1,22 @@
+dataset,step,detail,rows_affected
+cabg,duplicates,Removed 0 exact duplicate rows,0.0
+cabg,missing_markers,"Converted '.' (not reported) to NaN in rate/count fields; 11 rows had no RAAER (all 'CABG+Valve Operative Mortality', rating 'Not Applicable'). Missing values were NOT set to 0.",11.0
+cabg,numeric_parsing,"Removed thousands separators (e.g. '31,086') and cast counts/rates to float.",
+cabg,text_normalisation,"Collapsed embedded line breaks/double spaces in County, Hospital and Rating (e.g. 'San\nBernardino', 'Contra  Costa'); mapped Windows-1252 en dashes to '-'; fixed rating typo 'Not Appplicable' -> 'Not Applicable'.",
+cabg,hospital_identity,168 reported name variants map to 127 stable Hospital IDs; the most recent name per ID is used for display. Hospital ID (not name) is the panel key.,
+cabg,range_check,"RAAER outside [0, 100] set to NaN: 0 rows",0.0
+cabg,events_le_cases,Rows with adverse events > eligible cases: 0,0.0
+stroke,duplicates,Removed 0 exact duplicate rows,0.0
+stroke,statewide_rows,Identified 8 'Statewide' summary rows; their county placeholder 'AAAA' / blank and ID '.' were set to NaN.,8.0
+stroke,missing_rates,10 hospital-measure rows have no published rate/counts; kept as NaN (not 0).,10.0
+stroke,column_swap_fix,Period 2013-2014: 100% of rows had '# of Deaths/Readmissions' > '# of Cases' (impossible). The two count columns are systematically transposed in this period; they were swapped back. Risk-adjusted rates were unaffected. Verified: after the swap the observed rate correlates with the risk-adjusted rate at the same level as in other periods.,545.0
+stroke,hospital_identity,396 reported names map to 288 OSHPD IDs; most recent name used for display.,
+stroke,location_parsing,"Parsed 'Location 1' '(lat, lon)' text into numeric latitude/longitude.",
+allcause,column_names,Stripped trailing spaces from column names (e.g. '30-day Readmits (ICD-9) ').,
+allcause,duplicates,Removed 0 exact duplicate rows,0.0
+allcause,icd_eras,ICD-9 fields populated for 375 rows (years 2011-2015); ICD-10 fields for 682 rows (2016-2024). Combined into one tidy table with an explicit 'coding_system' column; the two eras are never pooled without that label.,
+allcause,rate_parsing,"Parsed rates such as '14%', '13.80%' into percentage points; removed thousands separators from ICD-10 counts (e.g. '1,877,198').",
+allcause,suppressed_values,"1 row(s) report admissions but no readmissions/rate (small-cell suppression, e.g. Alpine 2017); left as NaN.",1.0
+allcause,transition_year,"2015 is the final ICD-9 year. Its statewide admissions are ~25% below the prior year, consistent with ICD-9 coding ending on 1 Oct 2015 (no ICD-10 rows exist for that year in this file). It is flagged 'coding_transition_year' and treated as a partial year.",
+synthetic,schema_mapping,"Mapped synthetic columns onto the CABG model feature schema: Previous_CABG_Readmission_Rate_Pct -> prev_readmit_rate, Postoperative_Stroke_Rate_Pct -> prev_stroke_rate, CABG_Case_Volume -> prev_cabg_volume. 'Operative_Mortality_Rate_Pct' has no aligned real-data counterpart in the primary model and is reported but not used.",
+synthetic,isolation,"All synthetic rows are tagged is_synthetic=True and are excluded from training, testing and every real-data statistic.",

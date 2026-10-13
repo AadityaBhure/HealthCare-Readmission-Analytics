@@ -1,0 +1,7 @@
+model,feature,importance_mae_increase,importance_sd
+linear_regression,prev_readmit_rate,0.8675249571352659,0.08542889992990595
+linear_regression,prev_mortality_rate,-0.000469013060866789,0.00031822832259245773
+linear_regression,prev_stroke_volume,-0.0014128387799761332,0.0045729483345294236
+random_forest,prev_readmit_rate,0.8561619298275094,0.08700180615059844
+random_forest,prev_mortality_rate,-0.0021253123436745605,0.004181708974401002
+random_forest,prev_stroke_volume,-0.010465432633829087,0.01703203275605802

@@ -1,0 +1,122 @@
+{
+  "experiment": "stroke_next_period_readmission",
+  "features": [
+    "prev_readmit_rate",
+    "prev_mortality_rate",
+    "prev_stroke_volume"
+  ],
+  "feature_info": {
+    "prev_readmit_rate": {
+      "description": "Previous-window ischemic stroke 30-day readmission risk-adjusted rate",
+      "unit": "%"
+    },
+    "prev_mortality_rate": {
+      "description": "Previous-window ischemic stroke 30-day mortality risk-adjusted rate",
+      "unit": "%"
+    },
+    "prev_stroke_volume": {
+      "description": "Previous-window ischemic stroke cases eligible for the readmission measure (log-transformed inside the model)",
+      "unit": "cases"
+    }
+  },
+  "target": "next_readmit_rate",
+  "target_info": {
+    "description": "Next rolling window ischemic stroke 30-day readmission risk-adjusted rate (hospital-level, not an individual patient probability)",
+    "unit": "%"
+  },
+  "models": {
+    "mean_baseline": "Training-mean baseline",
+    "persistence": "Persistence baseline",
+    "linear_regression": "Linear Regression",
+    "random_forest": "Random Forest"
+  },
+  "recommended_model": "linear_regression",
+  "recommended_model_rule": "lowest mean MAE in hospital-grouped 5-fold CV on the training transitions",
+  "rf_best_params": {
+    "model__min_samples_leaf": 20,
+    "model__max_depth": 3,
+    "model__max_features": 1.0
+  },
+  "train_summary": {
+    "n_train": 532,
+    "n_test": 259,
+    "train_hospitals": 270,
+    "test_hospitals": 259,
+    "train_target_periods": [
+      "2012-2013",
+      "2013-2014"
+    ],
+    "test_target_periods": [
+      "2014-2015"
+    ],
+    "train_input_periods": [
+      "2011-2012",
+      "2012-2013"
+    ],
+    "test_input_periods": [
+      "2013-2014"
+    ],
+    "feature_ranges": {
+      "prev_readmit_rate": {
+        "min": 0.0,
+        "max": 25.99,
+        "median": 12.39,
+        "p05": 6.733,
+        "p95": 18.346999999999998
+      },
+      "prev_mortality_rate": {
+        "min": 0.0,
+        "max": 27.65,
+        "median": 10.335,
+        "p05": 5.3355,
+        "p95": 15.144999999999998
+      },
+      "prev_stroke_volume": {
+        "min": 31.0,
+        "max": 821.0,
+        "median": 202.5,
+        "p05": 45.55,
+        "p95": 553.8
+      }
+    },
+    "target_train_mean": 11.997443609022556
+  },
+  "test_metrics": [
+    {
+      "model": "mean_baseline",
+      "MAE": 2.3380604987371902,
+      "RMSE": 2.9824319350513693,
+      "R2": -0.006693772654473795,
+      "n_test": 259
+    },
+    {
+      "model": "persistence",
+      "MAE": 1.9806563706563707,
+      "RMSE": 2.759865770895221,
+      "R2": 0.13795046788312726,
+      "n_test": 259
+    },
+    {
+      "model": "linear_regression",
+      "MAE": 1.8533902590114293,
+      "RMSE": 2.453376119488538,
+      "R2": 0.3187844273786459,
+      "n_test": 259
+    },
+    {
+      "model": "random_forest",
+      "MAE": 1.8915810516270426,
+      "RMSE": 2.521816175511081,
+      "R2": 0.2802475494167329,
+      "n_test": 259
+    }
+  ],
+  "sklearn_version": "1.9.1",
+  "created_utc": "2026-10-13T07:27:44+00:00",
+  "data_sha256": {
+    "cabg": "e42406d31c93317a7a5baff436052ecd97b911188188ed20cca62b0cde7b147c",
+    "stroke": "2327c6adb2f6608d334cc23cc04f5fdf6f8738d7cb2079ac6c06d303a858e2a2",
+    "allcause": "17e8610b80ed451ecf3484e19a83685249ce48bb1fffa425bed660a4ae745729",
+    "synthetic": "8585469a7fe21353059686bcb9fdb78c8c24297aa5c46eb19b6a1eca9931db1e"
+  }
+}

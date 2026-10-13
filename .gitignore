@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*.docx
+
+# Streamlit secrets (never commit credentials)
+.streamlit/secrets.toml
+
+# Local scratch
+*.log
+tmp/
+
+# NOTE: data/raw, data/processed, models/, artifacts/ and reports/ are committed on purpose,
+# so Streamlit Community Cloud can serve the evaluated models without re-training.

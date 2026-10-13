@@ -1,0 +1,1092 @@
+hospital_id,period,period_start,period_end,readmit_rate,readmit_events,readmit_cases,readmit_rating,mortality_rate,mortality_events,mortality_cases,mortality_rating,hospital_name,county,latitude,longitude
+106010735,2011-2012,2011,2012,18.66,18.0,92.0,As Expected,12.22,12.0,95.0,As Expected,Alameda Hospital,Alameda,37.762953,-122.25362
+106010735,2012-2013,2012,2013,17.96,22.0,117.0,As Expected,10.03,13.0,123.0,As Expected,Alameda Hospital,Alameda,37.762953,-122.25362
+106010735,2013-2014,2013,2014,16.56,18.0,109.0,As Expected,10.28,16.0,124.0,As Expected,Alameda Hospital,Alameda,37.762953,-122.25362
+106010735,2014-2015,2014,2015,16.59,15.0,86.0,As Expected,6.33,8.0,93.0,As Expected,Alameda Hospital,Alameda,37.762953,-122.25362
+106010739,2011-2012,2011,2012,11.91,34.0,281.0,As Expected,9.82,24.0,287.0,As Expected,Alta Bates Summit Medical Center - Alta Bates Campus,Alameda,37.85633,-122.25784
+106010739,2012-2013,2012,2013,9.02,26.0,296.0,As Expected,6.3,15.0,300.0,As Expected,Alta Bates Summit Medical Center - Alta Bates Campus,Alameda,37.85633,-122.25784
+106010739,2013-2014,2013,2014,9.02,29.0,325.0,As Expected,4.77,15.0,346.0,Better,Alta Bates Summit Medical Center - Alta Bates Campus,Alameda,37.85633,-122.25784
+106010739,2014-2015,2014,2015,9.45,27.0,288.0,As Expected,6.18,17.0,297.0,As Expected,Alta Bates Summit Medical Center - Alta Bates Campus,Alameda,37.85633,-122.25784
+106010805,2011-2012,2011,2012,13.4,51.0,376.0,As Expected,12.36,53.0,399.0,As Expected,Eden Medical Center,Alameda,37.69871,-122.08753
+106010846,2011-2012,2011,2012,11.04,20.0,199.0,As Expected,14.63,9.0,205.0,As Expected,Highland Hospital,Alameda,37.79917,-122.2312
+106010846,2012-2013,2012,2013,8.21,14.0,183.0,As Expected,12.94,9.0,188.0,As Expected,Highland Hospital,Alameda,37.79917,-122.2312
+106010846,2013-2014,2013,2014,15.36,26.0,182.0,As Expected,14.94,13.0,201.0,As Expected,Highland Hospital,Alameda,37.79917,-122.2312
+106010846,2014-2015,2014,2015,15.16,24.0,172.0,As Expected,11.25,8.0,177.0,As Expected,Highland Hospital,Alameda,37.79917,-122.2312
+106010856,2011-2012,2011,2012,12.12,75.0,542.0,As Expected,7.45,44.0,563.0,Better,Kaiser Foundation Hospital - Oakland Campus,Alameda,37.82425,-122.25792
+106010856,2012-2013,2012,2013,10.78,64.0,504.0,As Expected,8.16,49.0,529.0,As Expected,Kaiser Foundation Hospital - Oakland Campus,Alameda,37.82425,-122.25792
+106010856,2013-2014,2013,2014,11.82,55.0,393.0,As Expected,9.01,42.0,415.0,As Expected,Kaiser Foundation Hospital - Oakland Campus,Alameda,37.82425,-122.25792
+106010856,2014-2015,2014,2015,14.63,23.0,130.0,As Expected,9.86,13.0,137.0,As Expected,Kaiser Foundation Hospital - Oakland Campus,Alameda,37.82425,-122.25792
+106010858,2011-2012,2011,2012,12.27,49.0,369.0,As Expected,10.72,49.0,384.0,As Expected,Kaiser Foundation Hospital - Hayward,Alameda,37.62593,-122.09338
+106010858,2012-2013,2012,2013,9.4,43.0,397.0,As Expected,10.69,59.0,419.0,As Expected,Kaiser Foundation Hospital - Hayward,Alameda,37.62593,-122.09338
+106010858,2013-2014,2013,2014,10.21,31.0,264.0,As Expected,11.34,42.0,282.0,As Expected,Kaiser Foundation Hospital - Hayward,Alameda,37.62593,-122.09338
+106010858,2014-2015,2014,2015,12.28,10.0,77.0,As Expected,11.02,12.0,83.0,As Expected,Kaiser Foundation Hospital - Hayward,Alameda,37.62593,-122.09338
+106010937,2011-2012,2011,2012,10.17,54.0,441.0,As Expected,9.25,44.0,462.0,As Expected,Alta Bates Summit Medical Center,Alameda,37.82106,-122.26257
+106010937,2012-2013,2012,2013,11.73,59.0,441.0,As Expected,9.53,41.0,462.0,As Expected,Alta Bates Summit Medical Center,Alameda,37.82106,-122.26257
+106010937,2013-2014,2013,2014,11.39,57.0,449.0,As Expected,11.44,49.0,490.0,As Expected,Alta Bates Summit Medical Center,Alameda,37.82106,-122.26257
+106010937,2014-2015,2014,2015,10.53,56.0,468.0,As Expected,9.86,43.0,488.0,As Expected,Alta Bates Summit Medical Center,Alameda,37.82106,-122.26257
+106010967,2011-2012,2011,2012,17.48,18.0,102.0,As Expected,11.73,12.0,108.0,As Expected,Saint Rose Hospital,Alameda,37.63291,-122.08962
+106010967,2012-2013,2012,2013,21.1,22.0,107.0,Worse,14.0,13.0,113.0,As Expected,Saint Rose Hospital,Alameda,37.63291,-122.08962
+106010967,2013-2014,2013,2014,21.77,21.0,94.0,Worse,10.61,8.0,99.0,As Expected,Saint Rose Hospital,Alameda,37.63291,-122.08962
+106010967,2014-2015,2014,2015,13.78,11.0,84.0,As Expected,12.04,8.0,89.0,As Expected,Saint Rose Hospital,Alameda,37.63291,-122.08962
+106010987,2011-2012,2011,2012,14.18,51.0,342.0,As Expected,9.41,42.0,357.0,As Expected,Washington Hospital - Fremont,Alameda,37.55847,-121.98006
+106010987,2012-2013,2012,2013,13.0,44.0,330.0,As Expected,8.74,35.0,347.0,As Expected,Washington Hospital - Fremont,Alameda,37.55847,-121.98006
+106010987,2013-2014,2013,2014,10.31,33.0,316.0,As Expected,8.12,30.0,343.0,As Expected,Washington Hospital - Fremont,Alameda,37.55847,-121.98006
+106010987,2014-2015,2014,2015,12.04,36.0,299.0,As Expected,9.87,37.0,324.0,As Expected,Washington Hospital - Fremont,Alameda,37.55847,-121.98006
+106013619,2011-2012,2011,2012,8.92,8.0,71.0,As Expected,10.22,8.0,76.0,As Expected,San Leandro Hospital,Alameda,37.71364,-122.14067
+106013619,2012-2013,2012,2013,5.36,4.0,65.0,As Expected,12.69,9.0,68.0,As Expected,San Leandro Hospital,Alameda,37.71364,-122.14067
+106013619,2013-2014,2013,2014,7.13,5.0,63.0,As Expected,13.5,10.0,72.0,As Expected,San Leandro Hospital,Alameda,37.71364,-122.14067
+106013619,2014-2015,2014,2015,7.2,4.0,50.0,As Expected,11.54,5.0,53.0,As Expected,San Leandro Hospital,Alameda,37.71364,-122.14067
+106014050,2011-2012,2011,2012,18.09,19.0,115.0,As Expected,9.36,10.0,119.0,As Expected,Valleycare Medical Center,Alameda,37.69206,-121.88095
+106014050,2012-2013,2012,2013,10.57,10.0,111.0,As Expected,9.02,7.0,112.0,As Expected,Valleycare Medical Center,Alameda,37.69206,-121.88095
+106014050,2013-2014,2013,2014,5.41,6.0,120.0,As Expected,9.67,11.0,124.0,As Expected,Valleycare Medical Center,Alameda,37.69206,-121.88095
+106014050,2014-2015,2014,2015,8.0,7.0,95.0,As Expected,8.55,9.0,99.0,As Expected,Valleycare Medical Center,Alameda,37.69206,-121.88095
+106014132,2014-2015,2014,2015,9.45,7.0,71.0,As Expected,18.46,19.0,80.0,Worse,Kaiser Foundation Hospital - Fremont,Alameda,37.55055,-121.97483
+106014233,2012-2013,2012,2013,11.66,45.0,374.0,As Expected,10.86,49.0,399.0,As Expected,Eden Medical Center,Alameda,37.6983769,-122.0874055
+106014233,2013-2014,2013,2014,12.27,53.0,422.0,As Expected,10.96,54.0,459.0,As Expected,Eden Medical Center,Alameda,37.6983769,-122.0874055
+106014233,2014-2015,2014,2015,13.42,58.0,410.0,As Expected,10.4,46.0,427.0,As Expected,Eden Medical Center,Alameda,37.6983769,-122.0874055
+106014326,2013-2014,2013,2014,15.04,25.0,142.0,As Expected,7.66,13.0,176.0,As Expected,Kaiser Foundation Hospital - Oakland/Richmond,Alameda,37.82402,-122.25791
+106014326,2014-2015,2014,2015,12.27,61.0,417.0,As Expected,7.12,33.0,435.0,As Expected,Kaiser Foundation Hospital - Oakland/Richmond,Alameda,37.82402,-122.25791
+106014337,2013-2014,2013,2014,12.35,8.0,57.0,As Expected,8.59,8.0,71.0,As Expected,Kaiser Foundation Hospital - San Leandro,Alameda,37.70611,-122.16917
+106014337,2014-2015,2014,2015,9.67,15.0,140.0,As Expected,13.13,25.0,147.0,As Expected,Kaiser Foundation Hospital - San Leandro,Alameda,37.70611,-122.16917
+106034002,2011-2012,2011,2012,5.43,5.0,100.0,As Expected,11.34,14.0,105.0,As Expected,Sutter Amador Hospital,Amador,38.34743,-120.77272
+106034002,2012-2013,2012,2013,7.83,8.0,107.0,As Expected,11.5,13.0,111.0,As Expected,Sutter Amador Hospital,Amador,38.34743,-120.77272
+106034002,2013-2014,2013,2014,14.47,13.0,102.0,As Expected,12.52,15.0,117.0,As Expected,Sutter Amador Hospital,Amador,38.34743,-120.77272
+106034002,2014-2015,2014,2015,18.09,19.0,119.0,As Expected,11.78,17.0,128.0,As Expected,Sutter Amador Hospital,Amador,38.34743,-120.77272
+106040875,2011-2012,2011,2012,9.72,12.0,137.0,As Expected,7.11,12.0,139.0,As Expected,Feather River Hospital,Butte,39.75641,-121.57218
+106040875,2012-2013,2012,2013,12.08,15.0,135.0,As Expected,7.63,10.0,136.0,As Expected,Feather River Hospital,Butte,39.75641,-121.57218
+106040875,2013-2014,2013,2014,10.7,13.0,131.0,As Expected,9.11,13.0,137.0,As Expected,Feather River Hospital,Butte,39.75641,-121.57218
+106040875,2014-2015,2014,2015,11.66,12.0,107.0,As Expected,8.22,12.0,109.0,As Expected,Feather River Hospital,Butte,39.75641,-121.57218
+106040937,2011-2012,2011,2012,15.3,24.0,174.0,As Expected,8.13,10.0,176.0,As Expected,Oroville Hospital,Butte,39.50485,-121.5428
+106040937,2012-2013,2012,2013,16.88,26.0,166.0,As Expected,6.25,8.0,172.0,As Expected,Oroville Hospital,Butte,39.50485,-121.5428
+106040937,2013-2014,2013,2014,18.55,40.0,212.0,Worse,7.56,14.0,228.0,As Expected,Oroville Hospital,Butte,39.50485,-121.5428
+106040937,2014-2015,2014,2015,17.62,45.0,238.0,Worse,7.56,13.0,244.0,As Expected,Oroville Hospital,Butte,39.50485,-121.5428
+106040962,2011-2012,2011,2012,9.88,36.0,411.0,As Expected,8.03,41.0,435.0,As Expected,Enloe Medical Center - Esplanade,Butte,39.74224,-121.84922
+106040962,2012-2013,2012,2013,11.2,43.0,438.0,As Expected,9.48,52.0,464.0,As Expected,Enloe Medical Center - Esplanade,Butte,39.74224,-121.84922
+106040962,2013-2014,2013,2014,11.73,47.0,454.0,As Expected,11.12,63.0,489.0,As Expected,Enloe Medical Center - Esplanade,Butte,39.74224,-121.84922
+106040962,2014-2015,2014,2015,11.54,38.0,374.0,As Expected,11.94,52.0,397.0,As Expected,Enloe Medical Center - Esplanade,Butte,39.74224,-121.84922
+106050932,2011-2012,2011,2012,15.31,7.0,51.0,As Expected,12.82,9.0,56.0,As Expected,Mark Twain Medical Center,Calaveras,38.19021,-120.67105
+106050932,2012-2013,2012,2013,24.68,9.0,41.0,As Expected,15.1,7.0,46.0,As Expected,Mark Twain Medical Center,Calaveras,38.19021,-120.67105
+106050932,2013-2014,2013,2014,17.7,6.0,41.0,As Expected,11.49,5.0,44.0,As Expected,Mark Twain Medical Center,Calaveras,38.19021,-120.67105
+106050932,2014-2015,2014,2015,6.16,2.0,37.0,As Expected,12.32,5.0,39.0,As Expected,Mark Twain Medical Center,Calaveras,38.19021,-120.67105
+106070904,2011-2012,2011,2012,12.93,34.0,238.0,As Expected,10.43,27.0,251.0,As Expected,Doctors Medical Center - San Pablo,Contra Costa,37.95279,-122.33866
+106070904,2012-2013,2012,2013,12.39,33.0,238.0,As Expected,8.25,20.0,249.0,As Expected,Doctors Medical Center - San Pablo,Contra Costa,37.95279,-122.33866
+106070904,2013-2014,2013,2014,12.14,28.0,209.0,As Expected,9.04,20.0,221.0,As Expected,Doctors Medical Center - San Pablo,Contra Costa,37.95279,-122.33866
+106070904,2014-2015,2014,2015,13.06,13.0,95.0,As Expected,10.81,10.0,99.0,As Expected,Doctors Medical Center - San Pablo,Contra Costa,37.95279,-122.33866
+106070924,2011-2012,2011,2012,12.39,12.0,105.0,As Expected,13.94,7.0,111.0,As Expected,Contra Costa Regional Medical Center,Contra Costa,38.00646,-122.13101
+106070924,2012-2013,2012,2013,17.38,17.0,109.0,As Expected,14.21,6.0,113.0,As Expected,Contra Costa Regional Medical Center,Contra Costa,38.00646,-122.13101
+106070924,2013-2014,2013,2014,17.16,16.0,102.0,As Expected,13.86,6.0,114.0,As Expected,Contra Costa Regional Medical Center,Contra Costa,38.00646,-122.13101
+106070924,2014-2015,2014,2015,12.46,14.0,113.0,As Expected,8.74,5.0,115.0,As Expected,Contra Costa Regional Medical Center,Contra Costa,38.00646,-122.13101
+106070934,2011-2012,2011,2012,13.93,27.0,172.0,As Expected,7.73,17.0,180.0,As Expected,Sutter Delta Medical Center,Contra Costa,37.98222,-121.8054
+106070934,2012-2013,2012,2013,13.99,25.0,163.0,As Expected,6.48,10.0,167.0,As Expected,Sutter Delta Medical Center,Contra Costa,37.98222,-121.8054
+106070934,2013-2014,2013,2014,9.26,15.0,143.0,As Expected,6.67,9.0,151.0,As Expected,Sutter Delta Medical Center,Contra Costa,37.98222,-121.8054
+106070934,2014-2015,2014,2015,8.91,13.0,125.0,As Expected,7.26,9.0,127.0,As Expected,Sutter Delta Medical Center,Contra Costa,37.98222,-121.8054
+106070988,2011-2012,2011,2012,10.67,37.0,368.0,As Expected,8.69,55.0,408.0,As Expected,John Muir Medical Center - Walnut Creek Campus,Contra Costa,37.91434,-122.04183
+106070988,2012-2013,2012,2013,10.51,42.0,408.0,As Expected,9.18,64.0,444.0,As Expected,John Muir Medical Center - Walnut Creek Campus,Contra Costa,37.91434,-122.04183
+106070988,2013-2014,2013,2014,10.74,48.0,439.0,As Expected,9.41,64.0,484.0,As Expected,John Muir Medical Center - Walnut Creek Campus,Contra Costa,37.91434,-122.04183
+106070988,2014-2015,2014,2015,11.19,46.0,416.0,As Expected,8.72,54.0,445.0,As Expected,John Muir Medical Center - Walnut Creek Campus,Contra Costa,37.91434,-122.04183
+106070990,2011-2012,2011,2012,11.01,39.0,324.0,As Expected,9.16,45.0,344.0,As Expected,Kaiser Foundation Hospital - Walnut Creek,Contra Costa,37.8923,-122.05828
+106070990,2012-2013,2012,2013,11.38,42.0,326.0,As Expected,9.39,46.0,346.0,As Expected,Kaiser Foundation Hospital - Walnut Creek,Contra Costa,37.8923,-122.05828
+106070990,2013-2014,2013,2014,10.95,40.0,335.0,As Expected,7.69,36.0,356.0,As Expected,Kaiser Foundation Hospital - Walnut Creek,Contra Costa,37.8923,-122.05828
+106070990,2014-2015,2014,2015,10.72,36.0,316.0,As Expected,7.96,36.0,327.0,As Expected,Kaiser Foundation Hospital - Walnut Creek,Contra Costa,37.8923,-122.05828
+106071018,2011-2012,2011,2012,13.57,42.0,282.0,As Expected,9.33,32.0,300.0,As Expected,John Muir Medical Center - Concord Campus,Contra Costa,37.98615,-122.03874
+106071018,2012-2013,2012,2013,13.14,42.0,293.0,As Expected,8.83,30.0,307.0,As Expected,John Muir Medical Center - Concord Campus,Contra Costa,37.98615,-122.03874
+106071018,2013-2014,2013,2014,10.94,35.0,300.0,As Expected,8.13,28.0,326.0,As Expected,John Muir Medical Center - Concord Campus,Contra Costa,37.98615,-122.03874
+106071018,2014-2015,2014,2015,7.8,24.0,290.0,As Expected,8.62,26.0,305.0,As Expected,John Muir Medical Center - Concord Campus,Contra Costa,37.98615,-122.03874
+106074017,2011-2012,2011,2012,12.11,13.0,114.0,As Expected,9.55,12.0,123.0,As Expected,San Ramon Regional Medical Center,Contra Costa,37.77713,-121.96076
+106074017,2012-2013,2012,2013,12.4,16.0,132.0,As Expected,9.62,17.0,144.0,As Expected,San Ramon Regional Medical Center,Contra Costa,37.77713,-121.96076
+106074017,2013-2014,2013,2014,8.31,14.0,177.0,As Expected,9.27,23.0,197.0,As Expected,San Ramon Regional Medical Center,Contra Costa,37.77713,-121.96076
+106074017,2014-2015,2014,2015,10.55,20.0,185.0,As Expected,9.43,26.0,198.0,As Expected,San Ramon Regional Medical Center,Contra Costa,37.77713,-121.96076
+106074097,2011-2012,2011,2012,8.79,19.0,197.0,As Expected,10.25,28.0,208.0,As Expected,Kaiser Foundation Hospital - Antioch,Contra Costa,37.951975,-121.776854
+106074097,2012-2013,2012,2013,11.69,35.0,257.0,As Expected,7.62,27.0,270.0,As Expected,Kaiser Foundation Hospital - Antioch,Contra Costa,37.951975,-121.776854
+106074097,2013-2014,2013,2014,13.28,43.0,278.0,As Expected,10.0,39.0,302.0,As Expected,Kaiser Foundation Hospital - Antioch,Contra Costa,37.951975,-121.776854
+106074097,2014-2015,2014,2015,11.89,33.0,250.0,As Expected,10.79,36.0,267.0,As Expected,Kaiser Foundation Hospital - Antioch,Contra Costa,37.951975,-121.776854
+106084001,2011-2012,2011,2012,10.62,8.0,83.0,As Expected,6.39,6.0,87.0,As Expected,Sutter Coast Hospital,Del Norte,41.77278,-124.19514
+106084001,2012-2013,2012,2013,13.49,12.0,104.0,As Expected,9.55,11.0,111.0,As Expected,Sutter Coast Hospital,Del Norte,41.77278,-124.19514
+106084001,2013-2014,2013,2014,9.21,8.0,100.0,As Expected,8.07,10.0,109.0,As Expected,Sutter Coast Hospital,Del Norte,41.77278,-124.19514
+106084001,2014-2015,2014,2015,5.04,4.0,77.0,As Expected,4.86,6.0,83.0,As Expected,Sutter Coast Hospital,Del Norte,41.77278,-124.19514
+106090793,2011-2012,2011,2012,6.09,2.0,36.0,As Expected,14.26,5.0,39.0,As Expected,Barton Memorial Hospital,El Dorado,38.91224,-119.99784
+106090793,2012-2013,2012,2013,,,,,8.39,2.0,31.0,As Expected,Barton Memorial Hospital,El Dorado,38.91224,-119.99784
+106090933,2011-2012,2011,2012,9.36,15.0,160.0,As Expected,11.5,31.0,177.0,As Expected,Marshall Medical Center,El Dorado,38.72557326,-120.7909638
+106090933,2012-2013,2012,2013,10.07,16.0,163.0,As Expected,9.84,26.0,177.0,As Expected,Marshall Medical Center,El Dorado,38.72557326,-120.7909638
+106090933,2013-2014,2013,2014,7.7,13.0,178.0,As Expected,9.2,22.0,189.0,As Expected,Marshall Medical Center,El Dorado,38.72557326,-120.7909638
+106090933,2014-2015,2014,2015,10.14,14.0,152.0,As Expected,12.76,21.0,158.0,As Expected,Marshall Medical Center,El Dorado,38.72557326,-120.7909638
+106100005,2011-2012,2011,2012,12.61,20.0,166.0,As Expected,10.29,13.0,169.0,As Expected,Clovis Community Medical Center,Fresno,36.83745,-119.66072
+106100005,2012-2013,2012,2013,10.93,22.0,213.0,As Expected,12.19,23.0,218.0,As Expected,Clovis Community Medical Center,Fresno,36.83745,-119.66072
+106100005,2013-2014,2013,2014,10.29,29.0,291.0,As Expected,12.72,37.0,313.0,As Expected,Clovis Community Medical Center,Fresno,36.83745,-119.66072
+106100005,2014-2015,2014,2015,9.89,28.0,291.0,As Expected,9.94,26.0,298.0,As Expected,Clovis Community Medical Center,Fresno,36.83745,-119.66072
+106100717,2011-2012,2011,2012,14.26,94.0,639.0,As Expected,12.48,62.0,677.0,As Expected,Community Regional Medical Center - Fresno,Fresno,36.74253,-119.78324
+106100717,2012-2013,2012,2013,13.48,94.0,690.0,As Expected,13.92,70.0,728.0,Worse,Community Regional Medical Center - Fresno,Fresno,36.74253,-119.78324
+106100717,2013-2014,2013,2014,12.79,93.0,727.0,As Expected,14.57,76.0,801.0,Worse,Community Regional Medical Center - Fresno,Fresno,36.74253,-119.78324
+106100717,2014-2015,2014,2015,13.41,95.0,706.0,As Expected,13.16,71.0,746.0,Worse,Community Regional Medical Center - Fresno,Fresno,36.74253,-119.78324
+106100797,2014-2015,2014,2015,12.69,3.0,30.0,As Expected,9.63,2.0,30.0,As Expected,Adventist Medical Center - Reedley,Fresno,36.60789,-119.45145
+106100899,2011-2012,2011,2012,13.74,104.0,749.0,As Expected,12.6,101.0,793.0,As Expected,Saint Agnes Medical Center,Fresno,36.8370782,-119.7649963
+106100899,2012-2013,2012,2013,12.48,86.0,682.0,As Expected,12.05,89.0,714.0,As Expected,Saint Agnes Medical Center,Fresno,36.8370782,-119.7649963
+106100899,2013-2014,2013,2014,12.96,88.0,657.0,As Expected,11.9,87.0,716.0,As Expected,Saint Agnes Medical Center,Fresno,36.8370782,-119.7649963
+106100899,2014-2015,2014,2015,11.61,71.0,587.0,As Expected,9.88,65.0,624.0,As Expected,Saint Agnes Medical Center,Fresno,36.8370782,-119.7649963
+106104062,2011-2012,2011,2012,11.08,36.0,300.0,As Expected,12.29,42.0,319.0,As Expected,Kaiser Foundation Hospital - Fresno,Fresno,36.84246,-119.7832
+106104062,2012-2013,2012,2013,10.34,34.0,301.0,As Expected,11.64,38.0,316.0,As Expected,Kaiser Foundation Hospital - Fresno,Fresno,36.84246,-119.7832
+106104062,2013-2014,2013,2014,8.95,27.0,281.0,As Expected,12.28,41.0,305.0,As Expected,Kaiser Foundation Hospital - Fresno,Fresno,36.84246,-119.7832
+106104062,2014-2015,2014,2015,8.98,26.0,274.0,As Expected,11.31,35.0,286.0,As Expected,Kaiser Foundation Hospital - Fresno,Fresno,36.84246,-119.7832
+106121002,2011-2012,2011,2012,22.39,9.0,51.0,As Expected,17.79,8.0,51.0,As Expected,Mad River Community Hospital,Humboldt,40.90351,-124.09038
+106121002,2012-2013,2012,2013,10.58,4.0,46.0,As Expected,18.24,10.0,48.0,As Expected,Mad River Community Hospital,Humboldt,40.90351,-124.09038
+106121002,2013-2014,2013,2014,6.87,3.0,54.0,As Expected,11.79,7.0,60.0,As Expected,Mad River Community Hospital,Humboldt,40.90351,-124.09038
+106121002,2014-2015,2014,2015,20.24,8.0,48.0,As Expected,7.42,3.0,50.0,As Expected,Mad River Community Hospital,Humboldt,40.90351,-124.09038
+106121051,2011-2012,2011,2012,11.56,4.0,37.0,As Expected,15.82,10.0,41.0,As Expected,Redwood Memorial Hospital,Humboldt,40.58267,-124.13549
+106121051,2012-2013,2012,2013,18.53,5.0,31.0,As Expected,17.64,8.0,34.0,As Expected,Redwood Memorial Hospital,Humboldt,40.58267,-124.13549
+106121051,2013-2014,2013,2014,,,,,19.17,6.0,33.0,As Expected,Redwood Memorial Hospital,Humboldt,40.58267,-124.13549
+106121080,2011-2012,2011,2012,8.56,15.0,173.0,As Expected,12.74,29.0,192.0,As Expected,Saint Joseph Hospital - Eureka,Humboldt,40.7832,-124.14216
+106121080,2012-2013,2012,2013,9.12,16.0,174.0,As Expected,8.7,17.0,185.0,As Expected,Saint Joseph Hospital - Eureka,Humboldt,40.7832,-124.14216
+106121080,2013-2014,2013,2014,4.93,9.0,179.0,Better,9.07,18.0,198.0,As Expected,Saint Joseph Hospital - Eureka,Humboldt,40.7832,-124.14216
+106121080,2014-2015,2014,2015,7.16,12.0,165.0,As Expected,7.97,14.0,173.0,As Expected,Saint Joseph Hospital - Eureka,Humboldt,40.7832,-124.14216
+106130699,2011-2012,2011,2012,14.43,29.0,191.0,As Expected,12.92,23.0,204.0,As Expected,El Centro Regional Medical Center,Imperial,32.78138,-115.49824
+106130699,2012-2013,2012,2013,14.75,33.0,207.0,As Expected,8.04,14.0,218.0,As Expected,El Centro Regional Medical Center,Imperial,32.78138,-115.49824
+106130699,2013-2014,2013,2014,11.77,27.0,213.0,As Expected,6.14,12.0,226.0,As Expected,El Centro Regional Medical Center,Imperial,32.78138,-115.49824
+106130699,2014-2015,2014,2015,9.83,19.0,183.0,As Expected,6.86,13.0,188.0,As Expected,El Centro Regional Medical Center,Imperial,32.78138,-115.49824
+106130760,2011-2012,2011,2012,12.45,17.0,147.0,As Expected,7.13,8.0,152.0,As Expected,Pioneers Memorial Healthcare District,Imperial,32.96003,-115.55183
+106130760,2012-2013,2012,2013,12.08,14.0,126.0,As Expected,8.26,8.0,133.0,As Expected,Pioneers Memorial Healthcare District,Imperial,32.96003,-115.55183
+106130760,2013-2014,2013,2014,13.71,22.0,155.0,As Expected,7.35,9.0,164.0,As Expected,Pioneers Memorial Healthcare District,Imperial,32.96003,-115.55183
+106130760,2014-2015,2014,2015,16.45,23.0,140.0,As Expected,6.12,7.0,144.0,As Expected,Pioneers Memorial Healthcare District,Imperial,32.96003,-115.55183
+106150706,2011-2012,2011,2012,19.71,6.0,30.0,As Expected,16.07,6.0,34.0,As Expected,Delano Regional Medical Center,Kern,35.76143,-119.23706
+106150722,2011-2012,2011,2012,12.29,36.0,282.0,As Expected,14.09,34.0,298.0,As Expected,Bakersfield Memorial Hospital,Kern,35.39051,-119.00658
+106150722,2012-2013,2012,2013,13.61,43.0,310.0,As Expected,14.13,36.0,326.0,As Expected,Bakersfield Memorial Hospital,Kern,35.39051,-119.00658
+106150722,2013-2014,2013,2014,12.77,41.0,330.0,As Expected,12.27,36.0,361.0,As Expected,Bakersfield Memorial Hospital,Kern,35.39051,-119.00658
+106150722,2014-2015,2014,2015,9.67,28.0,310.0,As Expected,11.82,28.0,327.0,As Expected,Bakersfield Memorial Hospital,Kern,35.39051,-119.00658
+106150736,2011-2012,2011,2012,6.76,3.0,51.0,As Expected,10.42,1.0,51.0,As Expected,Kern Medical Center,Kern,35.380833,-118.967222
+106150736,2012-2013,2012,2013,8.76,3.0,40.0,As Expected,0.0,0.0,40.0,As Expected,Kern Medical Center,Kern,35.380833,-118.967222
+106150736,2013-2014,2013,2014,9.6,5.0,50.0,As Expected,0.0,0.0,50.0,As Expected,Kern Medical Center,Kern,35.380833,-118.967222
+106150736,2014-2015,2014,2015,8.63,4.0,45.0,As Expected,13.42,2.0,47.0,As Expected,Kern Medical Center,Kern,35.380833,-118.967222
+106150761,2011-2012,2011,2012,16.03,25.0,166.0,As Expected,15.48,27.0,180.0,As Expected,Mercy Hospital - Bakersfield,Kern,35.37323,-119.02715
+106150761,2012-2013,2012,2013,15.48,28.0,195.0,As Expected,12.23,26.0,208.0,As Expected,Mercy Hospital - Bakersfield,Kern,35.37323,-119.02715
+106150761,2013-2014,2013,2014,15.45,33.0,231.0,As Expected,9.33,22.0,251.0,As Expected,Mercy Hospital - Bakersfield,Kern,35.37323,-119.02715
+106150761,2014-2015,2014,2015,11.27,18.0,179.0,As Expected,10.21,16.0,189.0,As Expected,Mercy Hospital - Bakersfield,Kern,35.37323,-119.02715
+106150782,2011-2012,2011,2012,7.19,2.0,32.0,As Expected,24.57,9.0,36.0,Worse,Ridgecrest Regional Hospital,Kern,35.6404,-117.66996
+106150782,2012-2013,2012,2013,,,,,15.01,5.0,30.0,As Expected,Ridgecrest Regional Hospital,Kern,35.6404,-117.66996
+106150782,2013-2014,2013,2014,,,,,17.88,8.0,34.0,As Expected,Ridgecrest Regional Hospital,Kern,35.6404,-117.66996
+106150782,2014-2015,2014,2015,6.81,2.0,36.0,As Expected,22.56,10.0,39.0,Worse,Ridgecrest Regional Hospital,Kern,35.6404,-117.66996
+106150788,2011-2012,2011,2012,13.32,81.0,643.0,As Expected,14.77,76.0,672.0,Worse,San Joaquin Community Hospital,Kern,35.383064,-119.018775
+106150788,2012-2013,2012,2013,14.0,89.0,669.0,As Expected,12.78,70.0,694.0,As Expected,San Joaquin Community Hospital,Kern,35.383064,-119.018775
+106150788,2013-2014,2013,2014,12.32,67.0,560.0,As Expected,14.08,70.0,606.0,Worse,San Joaquin Community Hospital,Kern,35.383064,-119.018775
+106150788,2014-2015,2014,2015,11.13,53.0,482.0,As Expected,15.39,63.0,506.0,Worse,San Joaquin Community Hospital,Kern,35.383064,-119.018775
+106154101,2011-2012,2011,2012,10.79,10.0,97.0,As Expected,5.3,4.0,100.0,As Expected,Bakersfield Heart Hospital,Kern,35.38619,-119.04314
+106154101,2012-2013,2012,2013,6.76,5.0,79.0,As Expected,4.14,3.0,80.0,As Expected,Bakersfield Heart Hospital,Kern,35.38619,-119.04314
+106154101,2013-2014,2013,2014,13.87,11.0,85.0,As Expected,12.31,9.0,90.0,As Expected,Bakersfield Heart Hospital,Kern,35.38619,-119.04314
+106154101,2014-2015,2014,2015,13.35,9.0,66.0,As Expected,18.6,11.0,71.0,As Expected,Bakersfield Heart Hospital,Kern,35.38619,-119.04314
+106164029,2011-2012,2011,2012,13.27,28.0,198.0,As Expected,11.07,24.0,216.0,As Expected,Adventist Medical Center,Kings,36.3256247,-119.6683912
+106164029,2012-2013,2012,2013,11.21,22.0,199.0,As Expected,12.42,23.0,211.0,As Expected,Adventist Medical Center,Kings,36.3256247,-119.6683912
+106164029,2013-2014,2013,2014,9.59,21.0,229.0,As Expected,12.58,22.0,248.0,As Expected,Adventist Medical Center,Kings,36.3256247,-119.6683912
+106164029,2014-2015,2014,2015,10.23,24.0,245.0,As Expected,11.15,22.0,260.0,As Expected,Adventist Medical Center,Kings,36.3256247,-119.6683912
+106171395,2011-2012,2011,2012,3.27,2.0,56.0,Better,12.24,10.0,57.0,As Expected,Sutter Lakeside Hospital,Lake,39.10232,-122.91003
+106171395,2012-2013,2012,2013,7.43,4.0,55.0,As Expected,11.96,9.0,56.0,As Expected,Sutter Lakeside Hospital,Lake,39.10232,-122.91003
+106171395,2013-2014,2013,2014,7.22,4.0,58.0,As Expected,9.93,7.0,63.0,As Expected,Sutter Lakeside Hospital,Lake,39.10232,-122.91003
+106171395,2014-2015,2014,2015,7.55,3.0,43.0,As Expected,16.49,8.0,48.0,As Expected,Sutter Lakeside Hospital,Lake,39.10232,-122.91003
+106190017,2011-2012,2011,2012,10.4,12.0,96.0,As Expected,4.63,5.0,100.0,As Expected,Alhambra Hospital Medical Center,Los Angeles,34.08988,-118.1449
+106190017,2012-2013,2012,2013,8.23,9.0,97.0,As Expected,7.53,8.0,101.0,As Expected,Alhambra Hospital Medical Center,Los Angeles,34.08988,-118.1449
+106190017,2013-2014,2013,2014,11.2,13.0,104.0,As Expected,6.85,7.0,110.0,As Expected,Alhambra Hospital Medical Center,Los Angeles,34.08988,-118.1449
+106190017,2014-2015,2014,2015,17.57,17.0,94.0,As Expected,5.61,4.0,96.0,As Expected,Alhambra Hospital Medical Center,Los Angeles,34.08988,-118.1449
+106190034,2011-2012,2011,2012,14.61,61.0,414.0,As Expected,12.32,41.0,431.0,As Expected,Antelope Valley Hospital,Los Angeles,34.68928,-118.15767
+106190034,2012-2013,2012,2013,13.3,57.0,434.0,As Expected,12.61,47.0,460.0,As Expected,Antelope Valley Hospital,Los Angeles,34.68928,-118.15767
+106190034,2013-2014,2013,2014,15.25,60.0,400.0,As Expected,15.8,56.0,438.0,Worse,Antelope Valley Hospital,Los Angeles,34.68928,-118.15767
+106190034,2014-2015,2014,2015,16.56,62.0,386.0,Worse,19.14,58.0,413.0,Worse,Antelope Valley Hospital,Los Angeles,34.68928,-118.15767
+106190053,2011-2012,2011,2012,11.55,26.0,189.0,As Expected,10.12,18.0,198.0,As Expected,Saint Mary Medical Center --Long Beach,Los Angeles,33.7802376,-118.1866412
+106190053,2012-2013,2012,2013,11.54,24.0,177.0,As Expected,8.84,14.0,185.0,As Expected,Saint Mary Medical Center --Long Beach,Los Angeles,33.7802376,-118.1866412
+106190053,2013-2014,2013,2014,14.24,31.0,178.0,As Expected,9.29,17.0,197.0,As Expected,Saint Mary Medical Center --Long Beach,Los Angeles,33.7802376,-118.1866412
+106190053,2014-2015,2014,2015,13.93,32.0,192.0,As Expected,8.23,15.0,198.0,As Expected,Saint Mary Medical Center --Long Beach,Los Angeles,33.7802376,-118.1866412
+106190081,2011-2012,2011,2012,12.6,20.0,146.0,As Expected,13.65,19.0,159.0,As Expected,Beverly Hospital,Los Angeles,34.01614,-118.10132
+106190081,2012-2013,2012,2013,15.6,27.0,148.0,As Expected,11.52,19.0,161.0,As Expected,Beverly Hospital,Los Angeles,34.01614,-118.10132
+106190081,2013-2014,2013,2014,12.64,20.0,143.0,As Expected,9.88,14.0,154.0,As Expected,Beverly Hospital,Los Angeles,34.01614,-118.10132
+106190081,2014-2015,2014,2015,9.8,12.0,115.0,As Expected,10.2,12.0,124.0,As Expected,Beverly Hospital,Los Angeles,34.01614,-118.10132
+106190110,2011-2012,2011,2012,18.84,30.0,136.0,As Expected,7.07,8.0,142.0,As Expected,Southern California Hospital At Culver City,Los Angeles,34.02328,-118.39724
+106190110,2012-2013,2012,2013,18.62,21.0,103.0,As Expected,5.22,4.0,108.0,As Expected,Southern California Hospital At Culver City,Los Angeles,34.02328,-118.39724
+106190110,2013-2014,2013,2014,16.57,18.0,96.0,As Expected,2.51,2.0,101.0,Better,Southern California Hospital At Culver City,Los Angeles,34.02328,-118.39724
+106190110,2014-2015,2014,2015,18.21,22.0,109.0,As Expected,4.7,4.0,111.0,As Expected,Southern California Hospital At Culver City,Los Angeles,34.02328,-118.39724
+106190125,2011-2012,2011,2012,14.06,27.0,182.0,As Expected,7.91,9.0,188.0,As Expected,California Hospital Medical Center - Los Angeles,Los Angeles,34.03721,-118.26551
+106190125,2012-2013,2012,2013,13.87,35.0,243.0,As Expected,9.58,13.0,252.0,As Expected,California Hospital Medical Center - Los Angeles,Los Angeles,34.03721,-118.26551
+106190125,2013-2014,2013,2014,13.53,44.0,318.0,As Expected,13.03,24.0,345.0,As Expected,California Hospital Medical Center - Los Angeles,Los Angeles,34.03721,-118.26551
+106190125,2014-2015,2014,2015,14.66,46.0,318.0,As Expected,10.86,19.0,331.0,As Expected,California Hospital Medical Center - Los Angeles,Los Angeles,34.03721,-118.26551
+106190148,2011-2012,2011,2012,16.59,102.0,488.0,Worse,7.28,20.0,503.0,As Expected,Centinela Hospital Medical Center,Los Angeles,33.94917,-118.34788
+106190148,2012-2013,2012,2013,16.65,85.0,406.0,Worse,6.65,15.0,414.0,As Expected,Centinela Hospital Medical Center,Los Angeles,33.94917,-118.34788
+106190148,2013-2014,2013,2014,14.76,76.0,410.0,As Expected,5.82,14.0,428.0,As Expected,Centinela Hospital Medical Center,Los Angeles,33.94917,-118.34788
+106190148,2014-2015,2014,2015,15.36,75.0,381.0,Worse,8.82,20.0,390.0,As Expected,Centinela Hospital Medical Center,Los Angeles,33.94917,-118.34788
+106190197,2011-2012,2011,2012,8.43,4.0,49.0,As Expected,0.0,0.0,49.0,As Expected,Community and Mission Hospital of Huntington Park - Slauson,Los Angeles,33.98929,-118.22466
+106190197,2012-2013,2012,2013,15.22,6.0,38.0,As Expected,5.34,1.0,38.0,As Expected,Community and Mission Hospital of Huntington Park - Slauson,Los Angeles,33.98929,-118.22466
+106190197,2013-2014,2013,2014,11.34,4.0,35.0,As Expected,8.55,2.0,38.0,As Expected,Community and Mission Hospital of Huntington Park - Slauson,Los Angeles,33.98929,-118.22466
+106190197,2014-2015,2014,2015,,,,,7.89,2.0,31.0,As Expected,Community and Mission Hospital of Huntington Park - Slauson,Los Angeles,33.98929,-118.22466
+106190198,2011-2012,2011,2012,18.38,14.0,57.0,As Expected,3.37,2.0,59.0,As Expected,Los Angeles Community Hospital,Los Angeles,34.01897,-118.1875
+106190198,2012-2013,2012,2013,15.46,7.0,37.0,As Expected,3.55,1.0,38.0,As Expected,Los Angeles Community Hospital,Los Angeles,34.01897,-118.1875
+106190198,2013-2014,2013,2014,11.82,4.0,31.0,As Expected,6.17,1.0,31.0,As Expected,Los Angeles Community Hospital,Los Angeles,34.01897,-118.1875
+106190200,2011-2012,2011,2012,14.67,24.0,155.0,As Expected,6.0,11.0,160.0,As Expected,San Gabriel Valley Medical Center,Los Angeles,34.1024,-118.10503
+106190200,2012-2013,2012,2013,10.19,15.0,139.0,As Expected,7.0,11.0,142.0,As Expected,San Gabriel Valley Medical Center,Los Angeles,34.1024,-118.10503
+106190200,2013-2014,2013,2014,10.7,14.0,120.0,As Expected,7.37,12.0,129.0,As Expected,San Gabriel Valley Medical Center,Los Angeles,34.1024,-118.10503
+106190200,2014-2015,2014,2015,12.9,21.0,144.0,As Expected,6.85,14.0,150.0,As Expected,San Gabriel Valley Medical Center,Los Angeles,34.1024,-118.10503
+106190240,2011-2012,2011,2012,15.09,49.0,307.0,As Expected,11.46,30.0,323.0,As Expected,Lakewood Regional Medical Center,Los Angeles,33.86016,-118.14837
+106190240,2012-2013,2012,2013,17.07,66.0,374.0,Worse,12.92,38.0,400.0,As Expected,Lakewood Regional Medical Center,Los Angeles,33.86016,-118.14837
+106190240,2013-2014,2013,2014,15.41,55.0,343.0,As Expected,12.01,30.0,368.0,As Expected,Lakewood Regional Medical Center,Los Angeles,33.86016,-118.14837
+106190240,2014-2015,2014,2015,13.59,38.0,267.0,As Expected,12.54,24.0,278.0,As Expected,Lakewood Regional Medical Center,Los Angeles,33.86016,-118.14837
+106190243,2011-2012,2011,2012,15.11,39.0,244.0,As Expected,10.68,26.0,255.0,As Expected,Pih Hospital - Downey,Los Angeles,33.93515,-118.13196
+106190243,2012-2013,2012,2013,13.62,35.0,241.0,As Expected,10.47,25.0,252.0,As Expected,Pih Hospital - Downey,Los Angeles,33.93515,-118.13196
+106190243,2013-2014,2013,2014,9.35,18.0,193.0,As Expected,12.04,20.0,206.0,As Expected,Pih Hospital - Downey,Los Angeles,33.93515,-118.13196
+106190243,2014-2015,2014,2015,10.05,16.0,156.0,As Expected,12.11,17.0,163.0,As Expected,Pih Hospital - Downey,Los Angeles,33.93515,-118.13196
+106190256,2011-2012,2011,2012,8.81,4.0,38.0,As Expected,0.0,0.0,38.0,As Expected,East Los Angeles Doctors Hospital,Los Angeles,34.02383,-118.18377
+106190280,2011-2012,2011,2012,16.22,8.0,38.0,As Expected,2.67,2.0,39.0,Better,Encino Hospital Medical Center,Los Angeles,34.15686,-118.48662
+106190280,2012-2013,2012,2013,14.81,8.0,41.0,As Expected,3.95,3.0,43.0,As Expected,Encino Hospital Medical Center,Los Angeles,34.15686,-118.48662
+106190280,2013-2014,2013,2014,,,,,3.32,2.0,34.0,As Expected,Encino Hospital Medical Center,Los Angeles,34.15686,-118.48662
+106190298,2011-2012,2011,2012,17.2,20.0,123.0,As Expected,12.11,15.0,128.0,As Expected,Foothill Presbyterian Hospital - Johnston Memorial,Los Angeles,34.13384,-117.87244
+106190298,2012-2013,2012,2013,14.91,14.0,106.0,As Expected,9.16,9.0,110.0,As Expected,Foothill Presbyterian Hospital - Johnston Memorial,Los Angeles,34.13384,-117.87244
+106190298,2013-2014,2013,2014,15.5,12.0,91.0,As Expected,13.04,10.0,101.0,As Expected,Foothill Presbyterian Hospital - Johnston Memorial,Los Angeles,34.13384,-117.87244
+106190298,2014-2015,2014,2015,9.52,8.0,94.0,As Expected,14.8,10.0,97.0,As Expected,Foothill Presbyterian Hospital - Johnston Memorial,Los Angeles,34.13384,-117.87244
+106190307,2011-2012,2011,2012,12.35,13.0,88.0,As Expected,2.6,2.0,88.0,Better,"Pacific Alliance Medical Center, Inc.",Los Angeles,34.06464,-118.23905
+106190307,2012-2013,2012,2013,8.1,9.0,97.0,As Expected,4.71,3.0,97.0,As Expected,"Pacific Alliance Medical Center, Inc.",Los Angeles,34.06464,-118.23905
+106190307,2013-2014,2013,2014,5.83,7.0,112.0,As Expected,5.11,4.0,116.0,As Expected,"Pacific Alliance Medical Center, Inc.",Los Angeles,34.06464,-118.23905
+106190307,2014-2015,2014,2015,8.13,9.0,102.0,As Expected,3.46,3.0,102.0,As Expected,"Pacific Alliance Medical Center, Inc.",Los Angeles,34.06464,-118.23905
+106190315,2011-2012,2011,2012,15.64,54.0,304.0,As Expected,4.35,14.0,315.0,Better,Garfield Medical Center,Los Angeles,34.06826,-118.12302
+106190315,2012-2013,2012,2013,14.25,51.0,319.0,As Expected,5.76,21.0,330.0,Better,Garfield Medical Center,Los Angeles,34.06826,-118.12302
+106190315,2013-2014,2013,2014,15.06,48.0,293.0,As Expected,6.7,25.0,316.0,Better,Garfield Medical Center,Los Angeles,34.06826,-118.12302
+106190315,2014-2015,2014,2015,17.07,48.0,267.0,Worse,7.22,22.0,280.0,As Expected,Garfield Medical Center,Los Angeles,34.06826,-118.12302
+106190323,2011-2012,2011,2012,14.17,51.0,330.0,As Expected,10.03,48.0,359.0,As Expected,Glendale Adventist Medical Center - Wilson Terrace,Los Angeles,34.14951,-118.23109
+106190323,2012-2013,2012,2013,13.53,53.0,367.0,As Expected,8.79,38.0,383.0,As Expected,Glendale Adventist Medical Center - Wilson Terrace,Los Angeles,34.14951,-118.23109
+106190323,2013-2014,2013,2014,12.17,50.0,382.0,As Expected,6.31,34.0,409.0,Better,Glendale Adventist Medical Center - Wilson Terrace,Los Angeles,34.14951,-118.23109
+106190323,2014-2015,2014,2015,11.8,44.0,347.0,As Expected,6.06,32.0,365.0,Better,Glendale Adventist Medical Center - Wilson Terrace,Los Angeles,34.14951,-118.23109
+106190352,2011-2012,2011,2012,24.27,12.0,42.0,As Expected,4.84,2.0,43.0,As Expected,Greater El Monte Community Hospital,Los Angeles,34.04827,-118.04257
+106190352,2012-2013,2012,2013,23.72,11.0,42.0,As Expected,5.97,2.0,42.0,As Expected,Greater El Monte Community Hospital,Los Angeles,34.04827,-118.04257
+106190382,2011-2012,2011,2012,20.08,54.0,247.0,Worse,8.42,22.0,256.0,As Expected,Hollywood Presbyterian Medical Center,Los Angeles,34.09557,-118.29163
+106190382,2012-2013,2012,2013,20.13,56.0,253.0,Worse,9.62,30.0,272.0,As Expected,Hollywood Presbyterian Medical Center,Los Angeles,34.09557,-118.29163
+106190382,2013-2014,2013,2014,16.83,38.0,229.0,As Expected,8.53,21.0,252.0,As Expected,Hollywood Presbyterian Medical Center,Los Angeles,34.09557,-118.29163
+106190382,2014-2015,2014,2015,14.11,30.0,218.0,As Expected,9.17,17.0,228.0,As Expected,Hollywood Presbyterian Medical Center,Los Angeles,34.09557,-118.29163
+106190385,2011-2012,2011,2012,12.17,46.0,352.0,As Expected,9.31,34.0,371.0,As Expected,Providence Holy Cross Medical Center,Los Angeles,34.2791,-118.45951
+106190385,2012-2013,2012,2013,12.73,52.0,376.0,As Expected,8.12,32.0,387.0,As Expected,Providence Holy Cross Medical Center,Los Angeles,34.2791,-118.45951
+106190385,2013-2014,2013,2014,13.41,52.0,355.0,As Expected,11.38,43.0,375.0,As Expected,Providence Holy Cross Medical Center,Los Angeles,34.2791,-118.45951
+106190385,2014-2015,2014,2015,15.08,45.0,293.0,As Expected,12.43,38.0,310.0,As Expected,Providence Holy Cross Medical Center,Los Angeles,34.2791,-118.45951
+106190392,2011-2012,2011,2012,14.69,30.0,191.0,As Expected,8.44,14.0,202.0,As Expected,Good Samaritan Hospital - Los Angeles,Los Angeles,34.05324,-118.26522
+106190392,2012-2013,2012,2013,14.25,28.0,182.0,As Expected,5.89,11.0,188.0,As Expected,Good Samaritan Hospital - Los Angeles,Los Angeles,34.05324,-118.26522
+106190392,2013-2014,2013,2014,14.27,28.0,187.0,As Expected,7.39,13.0,198.0,As Expected,Good Samaritan Hospital - Los Angeles,Los Angeles,34.05324,-118.26522
+106190392,2014-2015,2014,2015,15.25,28.0,181.0,As Expected,6.69,10.0,188.0,As Expected,Good Samaritan Hospital - Los Angeles,Los Angeles,34.05324,-118.26522
+106190400,2011-2012,2011,2012,11.42,58.0,503.0,As Expected,10.23,56.0,514.0,As Expected,Huntington Memorial Hospital,Los Angeles,34.13565,-118.1518
+106190400,2012-2013,2012,2013,11.81,59.0,499.0,As Expected,9.8,53.0,513.0,As Expected,Huntington Memorial Hospital,Los Angeles,34.13565,-118.1518
+106190400,2013-2014,2013,2014,11.19,59.0,522.0,As Expected,8.14,49.0,559.0,As Expected,Huntington Memorial Hospital,Los Angeles,34.13565,-118.1518
+106190400,2014-2015,2014,2015,12.81,62.0,474.0,As Expected,7.09,35.0,487.0,As Expected,Huntington Memorial Hospital,Los Angeles,34.13565,-118.1518
+106190413,2011-2012,2011,2012,15.1,26.0,174.0,As Expected,7.48,13.0,177.0,As Expected,Citrus Valley Medical Center - Inter Community Campus,Los Angeles,34.08993,-117.89264
+106190413,2012-2013,2012,2013,14.59,23.0,157.0,As Expected,5.4,7.0,158.0,As Expected,Citrus Valley Medical Center - Inter Community Campus,Los Angeles,34.08993,-117.89264
+106190413,2013-2014,2013,2014,14.44,20.0,137.0,As Expected,8.43,10.0,146.0,As Expected,Citrus Valley Medical Center - Inter Community Campus,Los Angeles,34.08993,-117.89264
+106190413,2014-2015,2014,2015,14.34,14.0,102.0,As Expected,9.0,10.0,107.0,As Expected,Citrus Valley Medical Center - Inter Community Campus,Los Angeles,34.08993,-117.89264
+106190422,2011-2012,2011,2012,12.09,68.0,571.0,As Expected,9.38,61.0,596.0,As Expected,Torrance Memorial Medical Center,Los Angeles,33.81258,-118.34388
+106190422,2012-2013,2012,2013,15.14,81.0,543.0,As Expected,10.79,68.0,568.0,As Expected,Torrance Memorial Medical Center,Los Angeles,33.81258,-118.34388
+106190422,2013-2014,2013,2014,14.58,79.0,552.0,As Expected,10.19,67.0,614.0,As Expected,Torrance Memorial Medical Center,Los Angeles,33.81258,-118.34388
+106190422,2014-2015,2014,2015,15.51,80.0,544.0,Worse,8.85,53.0,576.0,As Expected,Torrance Memorial Medical Center,Los Angeles,33.81258,-118.34388
+106190429,2011-2012,2011,2012,10.75,45.0,418.0,As Expected,10.64,33.0,443.0,As Expected,Kaiser Foundation Hospital - Sunset,Los Angeles,34.09823,-118.29545
+106190429,2012-2013,2012,2013,13.26,54.0,400.0,As Expected,10.53,29.0,419.0,As Expected,Kaiser Foundation Hospital - Sunset,Los Angeles,34.09823,-118.29545
+106190429,2013-2014,2013,2014,11.39,46.0,375.0,As Expected,10.84,38.0,413.0,As Expected,Kaiser Foundation Hospital - Sunset,Los Angeles,34.09823,-118.29545
+106190429,2014-2015,2014,2015,10.46,42.0,372.0,As Expected,9.11,35.0,397.0,As Expected,Kaiser Foundation Hospital - Sunset,Los Angeles,34.09823,-118.29545
+106190431,2011-2012,2011,2012,15.98,46.0,256.0,As Expected,12.79,26.0,268.0,As Expected,Kaiser Foundation Hospital - South Bay,Los Angeles,33.789,-118.29415
+106190431,2012-2013,2012,2013,13.98,42.0,250.0,As Expected,12.29,30.0,267.0,As Expected,Kaiser Foundation Hospital - South Bay,Los Angeles,33.789,-118.29415
+106190431,2013-2014,2013,2014,14.16,47.0,283.0,As Expected,10.58,31.0,316.0,As Expected,Kaiser Foundation Hospital - South Bay,Los Angeles,33.789,-118.29415
+106190431,2014-2015,2014,2015,14.97,43.0,259.0,As Expected,11.28,25.0,274.0,As Expected,Kaiser Foundation Hospital - South Bay,Los Angeles,33.789,-118.29415
+106190432,2011-2012,2011,2012,13.5,35.0,260.0,As Expected,13.04,30.0,269.0,As Expected,Kaiser Foundation Hospital - Panorama City,Los Angeles,34.21975,-118.43009
+106190432,2012-2013,2012,2013,14.67,34.0,238.0,As Expected,18.28,34.0,250.0,Worse,Kaiser Foundation Hospital - Panorama City,Los Angeles,34.21975,-118.43009
+106190432,2013-2014,2013,2014,10.71,26.0,236.0,As Expected,17.85,34.0,252.0,Worse,Kaiser Foundation Hospital - Panorama City,Los Angeles,34.21975,-118.43009
+106190432,2014-2015,2014,2015,5.35,10.0,178.0,Better,16.7,27.0,184.0,Worse,Kaiser Foundation Hospital - Panorama City,Los Angeles,34.21975,-118.43009
+106190434,2011-2012,2011,2012,15.19,52.0,309.0,As Expected,12.56,26.0,319.0,As Expected,Kaiser Foundation Hospital - West Los Angeles,Los Angeles,34.03793,-118.37568
+106190434,2012-2013,2012,2013,13.86,47.0,310.0,As Expected,9.74,17.0,313.0,As Expected,Kaiser Foundation Hospital - West Los Angeles,Los Angeles,34.03793,-118.37568
+106190434,2013-2014,2013,2014,12.75,60.0,429.0,As Expected,9.1,25.0,454.0,As Expected,Kaiser Foundation Hospital - West Los Angeles,Los Angeles,34.03793,-118.37568
+106190434,2014-2015,2014,2015,11.02,58.0,483.0,As Expected,9.13,31.0,494.0,As Expected,Kaiser Foundation Hospital - West Los Angeles,Los Angeles,34.03793,-118.37568
+106190470,2011-2012,2011,2012,13.39,68.0,519.0,As Expected,11.7,59.0,550.0,As Expected,Providence Little Company of Mary Medical Center - Torrance,Los Angeles,33.83767,-118.35708
+106190470,2012-2013,2012,2013,13.55,69.0,512.0,As Expected,11.75,55.0,550.0,As Expected,Providence Little Company of Mary Medical Center - Torrance,Los Angeles,33.83767,-118.35708
+106190470,2013-2014,2013,2014,13.31,74.0,537.0,As Expected,10.26,48.0,587.0,As Expected,Providence Little Company of Mary Medical Center - Torrance,Los Angeles,33.83767,-118.35708
+106190470,2014-2015,2014,2015,13.35,77.0,547.0,As Expected,9.9,44.0,567.0,As Expected,Providence Little Company of Mary Medical Center - Torrance,Los Angeles,33.83767,-118.35708
+106190475,2011-2012,2011,2012,14.29,8.0,58.0,As Expected,13.63,11.0,64.0,As Expected,Community Hospital Long Beach,Los Angeles,33.78871,-118.14578
+106190475,2012-2013,2012,2013,5.67,3.0,49.0,As Expected,7.21,4.0,50.0,As Expected,Community Hospital Long Beach,Los Angeles,33.78871,-118.14578
+106190475,2013-2014,2013,2014,5.96,3.0,48.0,As Expected,9.43,5.0,54.0,As Expected,Community Hospital Long Beach,Los Angeles,33.78871,-118.14578
+106190475,2014-2015,2014,2015,3.66,2.0,49.0,As Expected,8.29,5.0,53.0,As Expected,Community Hospital Long Beach,Los Angeles,33.78871,-118.14578
+106190500,2011-2012,2011,2012,14.07,14.0,93.0,As Expected,6.44,6.0,93.0,As Expected,Marina Del Rey Hospital,Los Angeles,33.98125,-118.43971
+106190500,2012-2013,2012,2013,11.31,9.0,82.0,As Expected,8.16,6.0,83.0,As Expected,Marina Del Rey Hospital,Los Angeles,33.98125,-118.43971
+106190500,2013-2014,2013,2014,8.97,6.0,65.0,As Expected,11.06,7.0,69.0,As Expected,Marina Del Rey Hospital,Los Angeles,33.98125,-118.43971
+106190500,2014-2015,2014,2015,13.28,10.0,68.0,As Expected,13.11,8.0,72.0,As Expected,Marina Del Rey Hospital,Los Angeles,33.98125,-118.43971
+106190517,2011-2012,2011,2012,11.88,35.0,296.0,As Expected,6.68,25.0,310.0,Better,Providence Tarzana Medical Center,Los Angeles,34.16985,-118.53136
+106190517,2012-2013,2012,2013,13.71,35.0,248.0,As Expected,7.31,23.0,260.0,As Expected,Providence Tarzana Medical Center,Los Angeles,34.16985,-118.53136
+106190517,2013-2014,2013,2014,12.53,28.0,215.0,As Expected,6.8,19.0,232.0,As Expected,Providence Tarzana Medical Center,Los Angeles,34.16985,-118.53136
+106190517,2014-2015,2014,2015,10.58,25.0,228.0,As Expected,8.41,24.0,246.0,As Expected,Providence Tarzana Medical Center,Los Angeles,34.16985,-118.53136
+106190521,2011-2012,2011,2012,11.45,14.0,103.0,As Expected,6.77,4.0,108.0,As Expected,Memorial Hospital of Gardena,Los Angeles,33.89246,-118.29493
+106190521,2012-2013,2012,2013,15.28,14.0,87.0,As Expected,5.73,3.0,90.0,As Expected,Memorial Hospital of Gardena,Los Angeles,33.89246,-118.29493
+106190521,2013-2014,2013,2014,13.77,14.0,89.0,As Expected,9.24,5.0,97.0,As Expected,Memorial Hospital of Gardena,Los Angeles,33.89246,-118.29493
+106190521,2014-2015,2014,2015,13.91,17.0,97.0,As Expected,8.53,6.0,100.0,As Expected,Memorial Hospital of Gardena,Los Angeles,33.89246,-118.29493
+106190522,2011-2012,2011,2012,18.17,36.0,201.0,As Expected,9.56,17.0,210.0,As Expected,Glendale Memorial Hospital and Medical Center,Los Angeles,34.1284,-118.25769
+106190522,2012-2013,2012,2013,15.83,23.0,149.0,As Expected,8.53,11.0,155.0,As Expected,Glendale Memorial Hospital and Medical Center,Los Angeles,34.1284,-118.25769
+106190522,2013-2014,2013,2014,13.82,20.0,136.0,As Expected,4.98,6.0,144.0,As Expected,Glendale Memorial Hospital and Medical Center,Los Angeles,34.1284,-118.25769
+106190522,2014-2015,2014,2015,14.19,19.0,129.0,As Expected,5.5,6.0,132.0,As Expected,Glendale Memorial Hospital and Medical Center,Los Angeles,34.1284,-118.25769
+106190524,2011-2012,2011,2012,14.42,8.0,43.0,As Expected,6.14,3.0,45.0,As Expected,Mission Community Hospital - Panorama Campus,Los Angeles,34.22138,-118.45639
+106190524,2012-2013,2012,2013,11.16,6.0,43.0,As Expected,2.5,1.0,44.0,As Expected,Mission Community Hospital - Panorama Campus,Los Angeles,34.22138,-118.45639
+106190524,2013-2014,2013,2014,12.51,7.0,47.0,As Expected,5.34,3.0,48.0,As Expected,Mission Community Hospital - Panorama Campus,Los Angeles,34.22138,-118.45639
+106190524,2014-2015,2014,2015,9.61,4.0,39.0,As Expected,9.54,4.0,39.0,As Expected,Mission Community Hospital - Panorama Campus,Los Angeles,34.22138,-118.45639
+106190525,2011-2012,2011,2012,17.48,103.0,611.0,Worse,13.65,66.0,651.0,As Expected,Long Beach Memorial Medical Center,Los Angeles,33.80801,-118.1852
+106190525,2012-2013,2012,2013,13.81,84.0,632.0,As Expected,11.99,62.0,669.0,As Expected,Long Beach Memorial Medical Center,Los Angeles,33.80801,-118.1852
+106190525,2013-2014,2013,2014,12.2,79.0,643.0,As Expected,9.71,52.0,688.0,As Expected,Long Beach Memorial Medical Center,Los Angeles,33.80801,-118.1852
+106190525,2014-2015,2014,2015,12.0,76.0,596.0,As Expected,8.55,48.0,613.0,As Expected,Long Beach Memorial Medical Center,Los Angeles,33.80801,-118.1852
+106190529,2011-2012,2011,2012,15.27,88.0,560.0,As Expected,10.92,68.0,582.0,As Expected,Methodist Hospital of Southern California,Los Angeles,34.13603,-118.03879
+106190529,2012-2013,2012,2013,13.55,78.0,545.0,As Expected,11.73,78.0,567.0,As Expected,Methodist Hospital of Southern California,Los Angeles,34.13603,-118.03879
+106190529,2013-2014,2013,2014,12.48,67.0,511.0,As Expected,8.21,52.0,545.0,As Expected,Methodist Hospital of Southern California,Los Angeles,34.13603,-118.03879
+106190529,2014-2015,2014,2015,13.35,66.0,457.0,As Expected,6.76,38.0,476.0,Better,Methodist Hospital of Southern California,Los Angeles,34.13603,-118.03879
+106190534,2011-2012,2011,2012,16.23,19.0,99.0,As Expected,9.5,10.0,102.0,As Expected,Olympia Medical Center,Los Angeles,34.05754,-118.36008
+106190534,2012-2013,2012,2013,14.74,14.0,78.0,As Expected,5.63,5.0,80.0,As Expected,Olympia Medical Center,Los Angeles,34.05754,-118.36008
+106190534,2013-2014,2013,2014,15.89,11.0,57.0,As Expected,3.82,3.0,62.0,As Expected,Olympia Medical Center,Los Angeles,34.05754,-118.36008
+106190534,2014-2015,2014,2015,16.01,10.0,53.0,As Expected,2.97,2.0,55.0,As Expected,Olympia Medical Center,Los Angeles,34.05754,-118.36008
+106190547,2011-2012,2011,2012,11.98,7.0,56.0,As Expected,8.23,4.0,60.0,As Expected,Monterey Park Hospital,Los Angeles,34.05308,-118.13665
+106190547,2012-2013,2012,2013,10.61,5.0,44.0,As Expected,8.44,5.0,49.0,As Expected,Monterey Park Hospital,Los Angeles,34.05308,-118.13665
+106190547,2013-2014,2013,2014,11.95,6.0,49.0,As Expected,4.36,2.0,55.0,As Expected,Monterey Park Hospital,Los Angeles,34.05308,-118.13665
+106190547,2014-2015,2014,2015,13.29,8.0,58.0,As Expected,7.32,4.0,60.0,As Expected,Monterey Park Hospital,Los Angeles,34.05308,-118.13665
+106190555,2011-2012,2011,2012,15.8,124.0,741.0,Worse,6.11,56.0,773.0,Better,Cedars Sinai Medical Center,Los Angeles,34.07681,-118.38061
+106190555,2012-2013,2012,2013,16.28,122.0,727.0,Worse,6.51,56.0,759.0,Better,Cedars Sinai Medical Center,Los Angeles,34.07681,-118.38061
+106190555,2013-2014,2013,2014,14.55,110.0,718.0,As Expected,6.84,60.0,782.0,Better,Cedars Sinai Medical Center,Los Angeles,34.07681,-118.38061
+106190555,2014-2015,2014,2015,12.54,92.0,678.0,As Expected,5.41,47.0,707.0,Better,Cedars Sinai Medical Center,Los Angeles,34.07681,-118.38061
+106190568,2011-2012,2011,2012,11.58,38.0,337.0,As Expected,9.08,39.0,353.0,As Expected,Northridge Hospital Medical Center,Los Angeles,34.22075,-118.53186
+106190568,2012-2013,2012,2013,10.83,33.0,306.0,As Expected,9.52,34.0,315.0,As Expected,Northridge Hospital Medical Center,Los Angeles,34.22075,-118.53186
+106190568,2013-2014,2013,2014,12.0,38.0,314.0,As Expected,11.73,43.0,342.0,As Expected,Northridge Hospital Medical Center,Los Angeles,34.22075,-118.53186
+106190568,2014-2015,2014,2015,12.23,30.0,244.0,As Expected,12.12,35.0,264.0,As Expected,Northridge Hospital Medical Center,Los Angeles,34.22075,-118.53186
+106190587,2011-2012,2011,2012,15.71,9.0,44.0,As Expected,11.65,5.0,45.0,As Expected,College Medical Center,Los Angeles,33.80759,-118.19355
+106190587,2012-2013,2012,2013,12.42,6.0,35.0,As Expected,5.28,2.0,35.0,As Expected,College Medical Center,Los Angeles,33.80759,-118.19355
+106190587,2013-2014,2013,2014,6.37,3.0,35.0,As Expected,3.89,2.0,37.0,As Expected,College Medical Center,Los Angeles,33.80759,-118.19355
+106190587,2014-2015,2014,2015,5.57,2.0,31.0,As Expected,3.75,2.0,32.0,As Expected,College Medical Center,Los Angeles,33.80759,-118.19355
+106190630,2011-2012,2011,2012,13.36,73.0,556.0,As Expected,9.23,54.0,580.0,As Expected,Pomona Valley Hospital Medical Center,Los Angeles,34.07852,-117.75234
+106190630,2012-2013,2012,2013,11.63,61.0,552.0,As Expected,11.13,61.0,578.0,As Expected,Pomona Valley Hospital Medical Center,Los Angeles,34.07852,-117.75234
+106190630,2013-2014,2013,2014,10.42,54.0,533.0,As Expected,9.45,54.0,576.0,As Expected,Pomona Valley Hospital Medical Center,Los Angeles,34.07852,-117.75234
+106190630,2014-2015,2014,2015,13.94,71.0,526.0,As Expected,9.86,61.0,557.0,As Expected,Pomona Valley Hospital Medical Center,Los Angeles,34.07852,-117.75234
+106190631,2011-2012,2011,2012,13.07,72.0,517.0,As Expected,9.89,63.0,538.0,As Expected,Presbyterian Intercommunity Hospital,Los Angeles,33.96775,-118.04671
+106190631,2012-2013,2012,2013,9.98,56.0,542.0,As Expected,10.15,62.0,560.0,As Expected,Presbyterian Intercommunity Hospital,Los Angeles,33.96775,-118.04671
+106190631,2013-2014,2013,2014,12.16,73.0,583.0,As Expected,8.94,65.0,628.0,As Expected,Presbyterian Intercommunity Hospital,Los Angeles,33.96775,-118.04671
+106190631,2014-2015,2014,2015,12.65,72.0,548.0,As Expected,9.12,66.0,574.0,As Expected,Presbyterian Intercommunity Hospital,Los Angeles,33.96775,-118.04671
+106190636,2011-2012,2011,2012,12.32,27.0,223.0,As Expected,11.33,22.0,234.0,As Expected,Citrus Valley Medical Center - Queen of the Valley Campus,Los Angeles,34.06242,-117.94528
+106190636,2012-2013,2012,2013,15.04,43.0,296.0,As Expected,9.46,25.0,305.0,As Expected,Citrus Valley Medical Center - Queen of the Valley Campus,Los Angeles,34.06242,-117.94528
+106190636,2013-2014,2013,2014,13.87,46.0,353.0,As Expected,8.25,25.0,370.0,As Expected,Citrus Valley Medical Center - Queen of the Valley Campus,Los Angeles,34.06242,-117.94528
+106190636,2014-2015,2014,2015,12.99,39.0,320.0,As Expected,10.73,30.0,330.0,As Expected,Citrus Valley Medical Center - Queen of the Valley Campus,Los Angeles,34.06242,-117.94528
+106190673,2011-2012,2011,2012,15.61,12.0,74.0,As Expected,12.54,11.0,78.0,As Expected,San Dimas Community Hospital,Los Angeles,34.09922,-117.83218
+106190673,2012-2013,2012,2013,18.75,12.0,67.0,As Expected,13.81,8.0,68.0,As Expected,San Dimas Community Hospital,Los Angeles,34.09922,-117.83218
+106190673,2013-2014,2013,2014,13.71,7.0,55.0,As Expected,7.59,3.0,55.0,As Expected,San Dimas Community Hospital,Los Angeles,34.09922,-117.83218
+106190673,2014-2015,2014,2015,11.69,6.0,49.0,As Expected,4.57,2.0,49.0,As Expected,San Dimas Community Hospital,Los Angeles,34.09922,-117.83218
+106190680,2011-2012,2011,2012,18.0,31.0,179.0,As Expected,12.99,29.0,189.0,As Expected,Providence Little Company of Mary Medical Center - San Pedro,Los Angeles,33.73798,-118.30557
+106190680,2012-2013,2012,2013,13.8,20.0,147.0,As Expected,7.24,13.0,154.0,As Expected,Providence Little Company of Mary Medical Center - San Pedro,Los Angeles,33.73798,-118.30557
+106190680,2013-2014,2013,2014,15.34,22.0,145.0,As Expected,9.55,16.0,155.0,As Expected,Providence Little Company of Mary Medical Center - San Pedro,Los Angeles,33.73798,-118.30557
+106190680,2014-2015,2014,2015,17.2,24.0,145.0,As Expected,12.38,19.0,151.0,As Expected,Providence Little Company of Mary Medical Center - San Pedro,Los Angeles,33.73798,-118.30557
+106190687,2011-2012,2011,2012,17.64,32.0,193.0,As Expected,6.48,16.0,199.0,Better,Santa Monica - UCLA Medical Center and Orthopedic Hospital,Los Angeles,34.02755,-118.48623
+106190687,2012-2013,2012,2013,17.05,30.0,188.0,As Expected,7.3,17.0,195.0,As Expected,Santa Monica - UCLA Medical Center and Orthopedic Hospital,Los Angeles,34.02755,-118.48623
+106190687,2013-2014,2013,2014,13.93,25.0,183.0,As Expected,4.69,9.0,200.0,Better,Santa Monica - UCLA Medical Center and Orthopedic Hospital,Los Angeles,34.02755,-118.48623
+106190687,2014-2015,2014,2015,13.04,23.0,182.0,As Expected,3.1,5.0,184.0,Better,Santa Monica - UCLA Medical Center and Orthopedic Hospital,Los Angeles,34.02755,-118.48623
+106190696,2011-2012,2011,2012,24.98,8.0,31.0,As Expected,5.01,2.0,33.0,As Expected,Pacifica Hospital of the Valley,Los Angeles,34.24088,-118.39555
+106190696,2012-2013,2012,2013,,,,,4.42,1.0,30.0,As Expected,Pacifica Hospital of the Valley,Los Angeles,34.24088,-118.39555
+106190696,2013-2014,2013,2014,22.2,6.0,32.0,As Expected,6.3,1.0,34.0,As Expected,Pacifica Hospital of the Valley,Los Angeles,34.24088,-118.39555
+106190708,2011-2012,2011,2012,12.33,9.0,64.0,As Expected,8.36,9.0,66.0,As Expected,Sherman Oaks Hospital,Los Angeles,34.15995,-118.4488
+106190708,2012-2013,2012,2013,12.81,8.0,54.0,As Expected,5.84,5.0,57.0,As Expected,Sherman Oaks Hospital,Los Angeles,34.15995,-118.4488
+106190708,2013-2014,2013,2014,13.75,8.0,55.0,As Expected,1.51,1.0,57.0,Better,Sherman Oaks Hospital,Los Angeles,34.15995,-118.4488
+106190708,2014-2015,2014,2015,14.84,10.0,68.0,As Expected,1.61,1.0,68.0,Better,Sherman Oaks Hospital,Los Angeles,34.15995,-118.4488
+106190754,2011-2012,2011,2012,15.61,39.0,211.0,As Expected,7.36,15.0,223.0,As Expected,Saint Francis Medical Center,Los Angeles,33.93085,-118.20415
+106190754,2012-2013,2012,2013,13.56,31.0,200.0,As Expected,5.39,8.0,208.0,As Expected,Saint Francis Medical Center,Los Angeles,33.93085,-118.20415
+106190754,2013-2014,2013,2014,11.63,31.0,240.0,As Expected,8.03,16.0,262.0,As Expected,Saint Francis Medical Center,Los Angeles,33.93085,-118.20415
+106190754,2014-2015,2014,2015,11.03,38.0,304.0,As Expected,9.63,31.0,329.0,As Expected,Saint Francis Medical Center,Los Angeles,33.93085,-118.20415
+106190756,2011-2012,2011,2012,12.45,20.0,160.0,As Expected,9.06,20.0,170.0,As Expected,Providence Saint John’s Health Center,Los Angeles,34.0298085,-118.478687
+106190756,2012-2013,2012,2013,9.84,15.0,154.0,As Expected,7.83,14.0,159.0,As Expected,Providence Saint John’s Health Center,Los Angeles,34.0298085,-118.478687
+106190756,2013-2014,2013,2014,10.3,16.0,156.0,As Expected,4.46,8.0,162.0,Better,Providence Saint John’s Health Center,Los Angeles,34.0298085,-118.478687
+106190756,2014-2015,2014,2015,11.04,16.0,145.0,As Expected,9.23,15.0,148.0,As Expected,Providence Saint John’s Health Center,Los Angeles,34.0298085,-118.478687
+106190758,2011-2012,2011,2012,14.61,79.0,556.0,As Expected,9.77,69.0,588.0,As Expected,Providence Saint Joseph Medical Center,Los Angeles,34.1559,-118.32711
+106190758,2012-2013,2012,2013,13.68,69.0,507.0,As Expected,10.79,71.0,538.0,As Expected,Providence Saint Joseph Medical Center,Los Angeles,34.1559,-118.32711
+106190758,2013-2014,2013,2014,11.48,56.0,498.0,As Expected,9.84,67.0,553.0,As Expected,Providence Saint Joseph Medical Center,Los Angeles,34.1559,-118.32711
+106190758,2014-2015,2014,2015,10.83,53.0,501.0,As Expected,8.78,55.0,524.0,As Expected,Providence Saint Joseph Medical Center,Los Angeles,34.1559,-118.32711
+106190762,2011-2012,2011,2012,13.84,25.0,171.0,As Expected,4.43,6.0,174.0,Better,Saint Vincent Medical Center,Los Angeles,34.06311,-118.27302
+106190762,2012-2013,2012,2013,13.19,19.0,142.0,As Expected,5.58,6.0,146.0,As Expected,Saint Vincent Medical Center,Los Angeles,34.06311,-118.27302
+106190762,2013-2014,2013,2014,12.97,19.0,148.0,As Expected,4.82,6.0,158.0,As Expected,Saint Vincent Medical Center,Los Angeles,34.06311,-118.27302
+106190762,2014-2015,2014,2015,14.08,19.0,133.0,As Expected,6.27,7.0,136.0,As Expected,Saint Vincent Medical Center,Los Angeles,34.06311,-118.27302
+106190766,2014-2015,2014,2015,,,,,0.0,0.0,30.0,As Expected,Coast Plaza Hospital,Los Angeles,33.91264,-118.09906
+106190784,2011-2012,2011,2012,19.21,12.0,51.0,As Expected,6.14,3.0,53.0,As Expected,Temple Community Hospital,Los Angeles,34.07534,-118.28366
+106190784,2012-2013,2012,2013,18.64,12.0,56.0,As Expected,5.39,3.0,58.0,As Expected,Temple Community Hospital,Los Angeles,34.07534,-118.28366
+106190784,2013-2014,2013,2014,8.51,4.0,44.0,As Expected,2.31,1.0,45.0,As Expected,Temple Community Hospital,Los Angeles,34.07534,-118.28366
+106190796,2011-2012,2011,2012,13.73,61.0,451.0,As Expected,8.53,53.0,482.0,As Expected,Ronald Reagan UCLA Medical Center,Los Angeles,34.068889,-118.445
+106190796,2012-2013,2012,2013,14.87,63.0,417.0,As Expected,8.46,59.0,457.0,As Expected,Ronald Reagan UCLA Medical Center,Los Angeles,34.068889,-118.445
+106190796,2013-2014,2013,2014,14.73,65.0,413.0,As Expected,6.81,49.0,461.0,Better,Ronald Reagan UCLA Medical Center,Los Angeles,34.068889,-118.445
+106190796,2014-2015,2014,2015,12.22,56.0,432.0,As Expected,6.33,41.0,450.0,Better,Ronald Reagan UCLA Medical Center,Los Angeles,34.068889,-118.445
+106190812,2011-2012,2011,2012,15.04,32.0,193.0,As Expected,11.31,26.0,209.0,As Expected,Valley Presbyterian Hospital,Los Angeles,34.19399,-118.46196
+106190812,2012-2013,2012,2013,10.38,24.0,208.0,As Expected,10.02,24.0,224.0,As Expected,Valley Presbyterian Hospital,Los Angeles,34.19399,-118.46196
+106190812,2013-2014,2013,2014,13.29,30.0,207.0,As Expected,9.56,23.0,238.0,As Expected,Valley Presbyterian Hospital,Los Angeles,34.19399,-118.46196
+106190812,2014-2015,2014,2015,16.39,30.0,175.0,As Expected,6.33,11.0,181.0,As Expected,Valley Presbyterian Hospital,Los Angeles,34.19399,-118.46196
+106190818,2011-2012,2011,2012,19.62,20.0,115.0,As Expected,10.34,11.0,116.0,As Expected,University of Southern California Verdugo Hills Hospital,Los Angeles,34.20557,-118.2152
+106190818,2012-2013,2012,2013,16.36,16.0,113.0,As Expected,12.13,14.0,115.0,As Expected,University of Southern California Verdugo Hills Hospital,Los Angeles,34.20557,-118.2152
+106190818,2013-2014,2013,2014,16.42,17.0,119.0,As Expected,14.76,18.0,126.0,As Expected,University of Southern California Verdugo Hills Hospital,Los Angeles,34.20557,-118.2152
+106190818,2014-2015,2014,2015,14.89,13.0,99.0,As Expected,15.7,17.0,104.0,As Expected,University of Southern California Verdugo Hills Hospital,Los Angeles,34.20557,-118.2152
+106190859,2011-2012,2011,2012,15.09,25.0,188.0,As Expected,12.38,28.0,209.0,As Expected,West Hills Hospital and Medical Center,Los Angeles,34.20365,-118.6294
+106190859,2012-2013,2012,2013,14.89,28.0,209.0,As Expected,12.14,33.0,233.0,As Expected,West Hills Hospital and Medical Center,Los Angeles,34.20365,-118.6294
+106190859,2013-2014,2013,2014,13.12,25.0,211.0,As Expected,11.75,32.0,241.0,As Expected,West Hills Hospital and Medical Center,Los Angeles,34.20365,-118.6294
+106190859,2014-2015,2014,2015,14.83,26.0,199.0,As Expected,7.64,17.0,212.0,As Expected,West Hills Hospital and Medical Center,Los Angeles,34.20365,-118.6294
+106190878,2011-2012,2011,2012,15.07,77.0,416.0,As Expected,6.8,29.0,432.0,Better,White Memorial Medical Center,Los Angeles,34.051,-118.21739
+106190878,2012-2013,2012,2013,14.69,69.0,385.0,As Expected,5.54,21.0,398.0,Better,White Memorial Medical Center,Los Angeles,34.051,-118.21739
+106190878,2013-2014,2013,2014,15.33,58.0,330.0,As Expected,6.39,21.0,350.0,Better,White Memorial Medical Center,Los Angeles,34.051,-118.21739
+106190878,2014-2015,2014,2015,15.36,49.0,278.0,As Expected,8.84,24.0,288.0,As Expected,White Memorial Medical Center,Los Angeles,34.051,-118.21739
+106190883,2011-2012,2011,2012,11.9,14.0,107.0,As Expected,4.6,5.0,110.0,As Expected,Whittier Hospital Medical Center,Los Angeles,33.95379,-118.00303
+106190883,2012-2013,2012,2013,11.91,13.0,99.0,As Expected,3.32,3.0,101.0,Better,Whittier Hospital Medical Center,Los Angeles,33.95379,-118.00303
+106190883,2013-2014,2013,2014,12.9,12.0,87.0,As Expected,7.58,5.0,91.0,As Expected,Whittier Hospital Medical Center,Los Angeles,33.95379,-118.00303
+106190883,2014-2015,2014,2015,13.55,12.0,92.0,As Expected,3.78,2.0,93.0,As Expected,Whittier Hospital Medical Center,Los Angeles,33.95379,-118.00303
+106190949,2011-2012,2011,2012,15.93,35.0,220.0,As Expected,8.41,21.0,234.0,As Expected,Henry Mayo Newhall Hospital,Los Angeles,34.39637,-118.55324
+106190949,2012-2013,2012,2013,15.23,40.0,260.0,As Expected,7.33,23.0,274.0,As Expected,Henry Mayo Newhall Hospital,Los Angeles,34.39637,-118.55324
+106190949,2013-2014,2013,2014,14.11,38.0,275.0,As Expected,7.58,22.0,296.0,As Expected,Henry Mayo Newhall Hospital,Los Angeles,34.39637,-118.55324
+106190949,2014-2015,2014,2015,14.92,31.0,218.0,As Expected,7.11,13.0,224.0,As Expected,Henry Mayo Newhall Hospital,Los Angeles,34.39637,-118.55324
+106191227,2011-2012,2011,2012,13.62,35.0,286.0,As Expected,10.39,9.0,297.0,As Expected,Los Angeles County/Harbor - UCLA Medical Center,Los Angeles,33.83149,-118.29332
+106191227,2012-2013,2012,2013,13.37,35.0,282.0,As Expected,11.64,12.0,292.0,As Expected,Los Angeles County/Harbor - UCLA Medical Center,Los Angeles,33.83149,-118.29332
+106191227,2013-2014,2013,2014,13.27,33.0,265.0,As Expected,12.85,17.0,284.0,As Expected,Los Angeles County/Harbor - UCLA Medical Center,Los Angeles,33.83149,-118.29332
+106191227,2014-2015,2014,2015,12.32,23.0,204.0,As Expected,9.18,9.0,215.0,As Expected,Los Angeles County/Harbor - UCLA Medical Center,Los Angeles,33.83149,-118.29332
+106191228,2011-2012,2011,2012,18.05,31.0,192.0,As Expected,21.86,18.0,211.0,Worse,Los Angeles County/University of Southern California Medical Center,Los Angeles,34.05982,-118.21031
+106191228,2012-2013,2012,2013,13.45,26.0,217.0,As Expected,27.65,28.0,242.0,Worse,Los Angeles County/University of Southern California Medical Center,Los Angeles,34.05982,-118.21031
+106191228,2013-2014,2013,2014,10.3,19.0,199.0,As Expected,18.97,23.0,232.0,Worse,Los Angeles County/University of Southern California Medical Center,Los Angeles,34.05982,-118.21031
+106191228,2014-2015,2014,2015,13.0,24.0,188.0,As Expected,13.56,15.0,200.0,As Expected,Los Angeles County/University of Southern California Medical Center,Los Angeles,34.05982,-118.21031
+106191231,2011-2012,2011,2012,10.32,15.0,168.0,As Expected,8.22,3.0,171.0,As Expected,Los Angeles County/Olive View - UCLA Medical Center,Los Angeles,34.32418,-118.45255
+106191231,2012-2013,2012,2013,11.17,15.0,157.0,As Expected,8.19,3.0,160.0,As Expected,Los Angeles County/Olive View - UCLA Medical Center,Los Angeles,34.32418,-118.45255
+106191231,2013-2014,2013,2014,9.6,12.0,147.0,As Expected,2.18,1.0,149.0,As Expected,Los Angeles County/Olive View - UCLA Medical Center,Los Angeles,34.32418,-118.45255
+106191231,2014-2015,2014,2015,13.05,13.0,109.0,As Expected,2.09,1.0,110.0,As Expected,Los Angeles County/Olive View - UCLA Medical Center,Los Angeles,34.32418,-118.45255
+106191450,2011-2012,2011,2012,10.38,30.0,272.0,As Expected,8.55,31.0,281.0,As Expected,Kaiser Foundation Hospital - Woodland Hills,Los Angeles,34.17198,-118.58829
+106191450,2012-2013,2012,2013,10.08,29.0,257.0,As Expected,10.58,38.0,274.0,As Expected,Kaiser Foundation Hospital - Woodland Hills,Los Angeles,34.17198,-118.58829
+106191450,2013-2014,2013,2014,8.81,28.0,293.0,As Expected,10.28,38.0,322.0,As Expected,Kaiser Foundation Hospital - Woodland Hills,Los Angeles,34.17198,-118.58829
+106191450,2014-2015,2014,2015,8.32,29.0,323.0,As Expected,6.77,23.0,329.0,As Expected,Kaiser Foundation Hospital - Woodland Hills,Los Angeles,34.17198,-118.58829
+106194219,2011-2012,2011,2012,9.05,5.0,60.0,As Expected,15.7,11.0,68.0,As Expected,Keck Hospital of University of Southern California,Los Angeles,34.06284,-118.20287
+106194219,2012-2013,2012,2013,6.7,4.0,64.0,As Expected,10.24,6.0,69.0,As Expected,Keck Hospital of University of Southern California,Los Angeles,34.06284,-118.20287
+106194219,2013-2014,2013,2014,10.59,4.0,38.0,As Expected,2.48,1.0,40.0,As Expected,Keck Hospital of University of Southern California,Los Angeles,34.06284,-118.20287
+106196035,2011-2012,2011,2012,14.27,46.0,316.0,As Expected,12.0,30.0,323.0,As Expected,Kaiser Foundation Hospital - Baldwin Park,Los Angeles,34.06348,-117.986
+106196035,2012-2013,2012,2013,11.66,49.0,393.0,As Expected,14.27,41.0,403.0,As Expected,Kaiser Foundation Hospital - Baldwin Park,Los Angeles,34.06348,-117.986
+106196035,2013-2014,2013,2014,12.6,60.0,450.0,As Expected,12.4,42.0,474.0,As Expected,Kaiser Foundation Hospital - Baldwin Park,Los Angeles,34.06348,-117.986
+106196035,2014-2015,2014,2015,12.61,49.0,365.0,As Expected,10.54,30.0,378.0,As Expected,Kaiser Foundation Hospital - Baldwin Park,Los Angeles,34.06348,-117.986
+106196403,2011-2012,2011,2012,13.83,52.0,353.0,As Expected,9.87,22.0,367.0,As Expected,Kaiser Foundation Hospital - Downey,Los Angeles,33.9171234,-118.1290216
+106196403,2012-2013,2012,2013,12.61,45.0,329.0,As Expected,10.43,24.0,342.0,As Expected,Kaiser Foundation Hospital - Downey,Los Angeles,33.9171234,-118.1290216
+106196403,2013-2014,2013,2014,9.81,41.0,399.0,As Expected,9.47,25.0,431.0,As Expected,Kaiser Foundation Hospital - Downey,Los Angeles,33.9171234,-118.1290216
+106196403,2014-2015,2014,2015,11.18,52.0,464.0,As Expected,9.59,29.0,472.0,As Expected,Kaiser Foundation Hospital - Downey,Los Angeles,33.9171234,-118.1290216
+106196405,2011-2012,2011,2012,11.71,19.0,172.0,As Expected,12.52,19.0,181.0,As Expected,Palmdale Regional Medical Center,Los Angeles,34.5843754,-118.1443461
+106196405,2012-2013,2012,2013,12.17,19.0,160.0,As Expected,11.61,14.0,166.0,As Expected,Palmdale Regional Medical Center,Los Angeles,34.5843754,-118.1443461
+106196405,2013-2014,2013,2014,13.98,24.0,170.0,As Expected,11.09,12.0,181.0,As Expected,Palmdale Regional Medical Center,Los Angeles,34.5843754,-118.1443461
+106196405,2014-2015,2014,2015,13.47,21.0,162.0,As Expected,12.4,12.0,166.0,As Expected,Palmdale Regional Medical Center,Los Angeles,34.5843754,-118.1443461
+106201281,2011-2012,2011,2012,13.15,8.0,61.0,As Expected,18.0,10.0,67.0,As Expected,Madera Community Hospital,Madera,36.94535,-120.04561
+106201281,2012-2013,2012,2013,11.28,6.0,58.0,As Expected,21.69,7.0,63.0,As Expected,Madera Community Hospital,Madera,36.94535,-120.04561
+106201281,2013-2014,2013,2014,10.87,6.0,57.0,As Expected,28.68,11.0,66.0,Worse,Madera Community Hospital,Madera,36.94535,-120.04561
+106201281,2014-2015,2014,2015,12.48,7.0,54.0,As Expected,27.74,10.0,56.0,Worse,Madera Community Hospital,Madera,36.94535,-120.04561
+106210992,2011-2012,2011,2012,7.82,15.0,198.0,As Expected,8.88,21.0,208.0,As Expected,Kaiser Foundation Hospital - San Rafael,Marin,38.0041,-122.55376
+106210992,2012-2013,2012,2013,9.96,20.0,201.0,As Expected,6.06,17.0,209.0,Better,Kaiser Foundation Hospital - San Rafael,Marin,38.0041,-122.55376
+106210992,2013-2014,2013,2014,8.06,15.0,189.0,As Expected,7.16,18.0,199.0,As Expected,Kaiser Foundation Hospital - San Rafael,Marin,38.0041,-122.55376
+106210992,2014-2015,2014,2015,7.05,10.0,145.0,As Expected,11.78,20.0,153.0,As Expected,Kaiser Foundation Hospital - San Rafael,Marin,38.0041,-122.55376
+106211006,2011-2012,2011,2012,12.82,31.0,245.0,As Expected,9.24,33.0,255.0,As Expected,Marin General Hospital,Marin,37.94651,-122.53715
+106211006,2012-2013,2012,2013,10.77,23.0,226.0,As Expected,10.05,31.0,239.0,As Expected,Marin General Hospital,Marin,37.94651,-122.53715
+106211006,2013-2014,2013,2014,10.48,23.0,240.0,As Expected,7.98,28.0,268.0,As Expected,Marin General Hospital,Marin,37.94651,-122.53715
+106211006,2014-2015,2014,2015,7.09,14.0,221.0,As Expected,7.89,24.0,235.0,As Expected,Marin General Hospital,Marin,37.94651,-122.53715
+106214034,2011-2012,2011,2012,2.42,1.0,39.0,As Expected,14.69,10.0,42.0,As Expected,Novato Community Hospital,Marin,38.09749,-122.55887
+106214034,2012-2013,2012,2013,10.03,5.0,48.0,As Expected,14.56,9.0,51.0,As Expected,Novato Community Hospital,Marin,38.09749,-122.55887
+106214034,2013-2014,2013,2014,14.04,7.0,54.0,As Expected,8.0,4.0,60.0,As Expected,Novato Community Hospital,Marin,38.09749,-122.55887
+106214034,2014-2015,2014,2015,12.52,6.0,53.0,As Expected,2.61,1.0,53.0,As Expected,Novato Community Hospital,Marin,38.09749,-122.55887
+106230949,2011-2012,2011,2012,0.0,0.0,31.0,As Expected,8.52,4.0,31.0,As Expected,Frank R. Howard Memorial Hospital,Mendocino,39.40079,-123.34973
+106230949,2012-2013,2012,2013,2.86,1.0,40.0,As Expected,7.5,4.0,40.0,As Expected,Frank R. Howard Memorial Hospital,Mendocino,39.40079,-123.34973
+106230949,2013-2014,2013,2014,5.47,2.0,40.0,As Expected,8.86,4.0,43.0,As Expected,Frank R. Howard Memorial Hospital,Mendocino,39.40079,-123.34973
+106230949,2014-2015,2014,2015,9.62,3.0,33.0,As Expected,7.76,4.0,33.0,As Expected,Frank R. Howard Memorial Hospital,Mendocino,39.40079,-123.34973
+106231013,2011-2012,2011,2012,25.28,10.0,47.0,As Expected,10.04,5.0,49.0,As Expected,Mendocino Coast District Hospital,Mendocino,39.4326,-123.80068
+106231013,2012-2013,2012,2013,12.25,3.0,30.0,As Expected,10.89,5.0,31.0,As Expected,Mendocino Coast District Hospital,Mendocino,39.4326,-123.80068
+106231013,2013-2014,2013,2014,,,,,16.97,6.0,30.0,As Expected,Mendocino Coast District Hospital,Mendocino,39.4326,-123.80068
+106231013,2014-2015,2014,2015,17.23,4.0,30.0,As Expected,16.31,5.0,32.0,As Expected,Mendocino Coast District Hospital,Mendocino,39.4326,-123.80068
+106231396,2011-2012,2011,2012,10.22,9.0,98.0,As Expected,13.14,14.0,104.0,As Expected,Ukiah Valley Medical Center,Mendocino,39.1528,-123.20363
+106231396,2012-2013,2012,2013,17.46,17.0,104.0,As Expected,14.96,20.0,113.0,As Expected,Ukiah Valley Medical Center,Mendocino,39.1528,-123.20363
+106231396,2013-2014,2013,2014,12.15,12.0,100.0,As Expected,15.94,25.0,118.0,Worse,Ukiah Valley Medical Center,Mendocino,39.1528,-123.20363
+106231396,2014-2015,2014,2015,5.04,4.0,83.0,As Expected,17.85,20.0,92.0,Worse,Ukiah Valley Medical Center,Mendocino,39.1528,-123.20363
+106240942,2011-2012,2011,2012,11.34,31.0,251.0,As Expected,10.92,38.0,273.0,As Expected,Mercy Medical Center - Merced,Merced,37.3402309,-120.4651815
+106240942,2012-2013,2012,2013,10.3,29.0,258.0,As Expected,8.22,32.0,275.0,As Expected,Mercy Medical Center - Merced,Merced,37.3402309,-120.4651815
+106240942,2013-2014,2013,2014,10.52,30.0,267.0,As Expected,7.94,26.0,292.0,As Expected,Mercy Medical Center - Merced,Merced,37.3402309,-120.4651815
+106240942,2014-2015,2014,2015,12.08,29.0,237.0,As Expected,9.73,20.0,245.0,As Expected,Mercy Medical Center - Merced,Merced,37.3402309,-120.4651815
+106270744,2011-2012,2011,2012,14.04,38.0,294.0,As Expected,10.39,32.0,312.0,As Expected,Community Hospital Monterey Peninsula,Monterey,36.59827,-121.92488
+106270744,2012-2013,2012,2013,15.18,43.0,315.0,As Expected,11.33,35.0,335.0,As Expected,Community Hospital Monterey Peninsula,Monterey,36.59827,-121.92488
+106270744,2013-2014,2013,2014,10.86,35.0,357.0,As Expected,9.56,35.0,396.0,As Expected,Community Hospital Monterey Peninsula,Monterey,36.59827,-121.92488
+106270744,2014-2015,2014,2015,9.62,28.0,311.0,As Expected,8.39,27.0,327.0,As Expected,Community Hospital Monterey Peninsula,Monterey,36.59827,-121.92488
+106270875,2011-2012,2011,2012,12.37,36.0,288.0,As Expected,7.13,19.0,294.0,As Expected,Salinas Valley Memorial Hospital,Monterey,36.66022,-121.6481
+106270875,2012-2013,2012,2013,11.61,36.0,312.0,As Expected,6.46,20.0,324.0,Better,Salinas Valley Memorial Hospital,Monterey,36.66022,-121.6481
+106270875,2013-2014,2013,2014,10.23,31.0,306.0,As Expected,9.2,31.0,333.0,As Expected,Salinas Valley Memorial Hospital,Monterey,36.66022,-121.6481
+106270875,2014-2015,2014,2015,10.48,31.0,298.0,As Expected,10.39,32.0,312.0,As Expected,Salinas Valley Memorial Hospital,Monterey,36.66022,-121.6481
+106274043,2011-2012,2011,2012,8.77,4.0,52.0,As Expected,12.35,2.0,53.0,As Expected,Natividad Medical Center,Monterey,36.69686,-121.6297
+106274043,2012-2013,2012,2013,10.38,5.0,57.0,As Expected,0.0,0.0,57.0,As Expected,Natividad Medical Center,Monterey,36.69686,-121.6297
+106274043,2013-2014,2013,2014,8.99,4.0,54.0,As Expected,0.0,0.0,55.0,As Expected,Natividad Medical Center,Monterey,36.69686,-121.6297
+106274043,2014-2015,2014,2015,10.74,4.0,45.0,As Expected,9.03,2.0,45.0,As Expected,Natividad Medical Center,Monterey,36.69686,-121.6297
+106281047,2011-2012,2011,2012,15.4,28.0,172.0,As Expected,14.22,35.0,189.0,As Expected,Queen of the Valley Hospital,Napa,38.32363,-122.296
+106281047,2012-2013,2012,2013,11.01,18.0,157.0,As Expected,16.67,34.0,175.0,Worse,Queen of the Valley Hospital,Napa,38.32363,-122.296
+106281047,2013-2014,2013,2014,8.48,16.0,181.0,As Expected,13.18,35.0,209.0,As Expected,Queen of the Valley Hospital,Napa,38.32363,-122.296
+106281047,2014-2015,2014,2015,11.21,19.0,169.0,As Expected,12.78,28.0,185.0,As Expected,Queen of the Valley Hospital,Napa,38.32363,-122.296
+106281078,2011-2012,2011,2012,12.08,10.0,81.0,As Expected,8.39,7.0,87.0,As Expected,Saint Helena Hospital,Napa,38.53937349,-122.473003
+106281078,2012-2013,2012,2013,10.36,6.0,57.0,As Expected,11.53,9.0,63.0,As Expected,Saint Helena Hospital,Napa,38.53937349,-122.473003
+106281078,2013-2014,2013,2014,16.01,7.0,45.0,As Expected,7.84,5.0,46.0,As Expected,Saint Helena Hospital,Napa,38.53937349,-122.473003
+106281078,2014-2015,2014,2015,13.32,4.0,31.0,As Expected,9.93,4.0,33.0,As Expected,Saint Helena Hospital,Napa,38.53937349,-122.473003
+106291023,2011-2012,2011,2012,12.75,21.0,187.0,As Expected,9.75,26.0,198.0,As Expected,Sierra Nevada Memorial Hospital,Nevada,39.22932,-121.04748
+106291023,2012-2013,2012,2013,16.48,23.0,156.0,As Expected,11.21,25.0,166.0,As Expected,Sierra Nevada Memorial Hospital,Nevada,39.22932,-121.04748
+106291023,2013-2014,2013,2014,8.23,11.0,156.0,As Expected,11.39,23.0,174.0,As Expected,Sierra Nevada Memorial Hospital,Nevada,39.22932,-121.04748
+106291023,2014-2015,2014,2015,10.28,13.0,146.0,As Expected,13.4,23.0,157.0,As Expected,Sierra Nevada Memorial Hospital,Nevada,39.22932,-121.04748
+106300225,2011-2012,2011,2012,14.67,28.0,201.0,As Expected,9.77,20.0,208.0,As Expected,Orange Coast Memorial Medical Center,Orange,33.70162,-117.95524
+106300225,2012-2013,2012,2013,14.41,29.0,204.0,As Expected,7.6,16.0,208.0,As Expected,Orange Coast Memorial Medical Center,Orange,33.70162,-117.95524
+106300225,2013-2014,2013,2014,15.0,26.0,180.0,As Expected,10.95,19.0,193.0,As Expected,Orange Coast Memorial Medical Center,Orange,33.70162,-117.95524
+106300225,2014-2015,2014,2015,19.09,31.0,166.0,Worse,12.03,16.0,168.0,As Expected,Orange Coast Memorial Medical Center,Orange,33.70162,-117.95524
+106301098,2011-2012,2011,2012,20.2,49.0,248.0,Worse,10.58,22.0,255.0,As Expected,AHMC Anaheim Regional Medical Center,Orange,33.84725,-117.93248
+106301098,2012-2013,2012,2013,15.21,32.0,221.0,As Expected,11.09,17.0,227.0,As Expected,AHMC Anaheim Regional Medical Center,Orange,33.84725,-117.93248
+106301098,2013-2014,2013,2014,11.97,24.0,208.0,As Expected,9.52,15.0,221.0,As Expected,AHMC Anaheim Regional Medical Center,Orange,33.84725,-117.93248
+106301098,2014-2015,2014,2015,16.23,27.0,173.0,As Expected,9.45,14.0,180.0,As Expected,AHMC Anaheim Regional Medical Center,Orange,33.84725,-117.93248
+106301132,2011-2012,2011,2012,8.71,32.0,361.0,Better,10.1,28.0,370.0,As Expected,Kaiser Foundation Hospital â€“ Orange County â€“ Lakeview,Orange,33.85295,-117.81603
+106301132,2012-2013,2012,2013,9.28,19.0,200.0,As Expected,9.35,14.0,204.0,As Expected,Kaiser Foundation Hospital â€“ Orange County â€“ Lakeview,Orange,33.85295,-117.81603
+106301175,2011-2012,2011,2012,12.79,60.0,440.0,As Expected,8.0,39.0,464.0,As Expected,Fountain Valley Regional Hospital and Medical Center - Euclid,Orange,33.71546,-117.93694
+106301175,2012-2013,2012,2013,11.13,56.0,456.0,As Expected,6.88,35.0,480.0,Better,Fountain Valley Regional Hospital and Medical Center - Euclid,Orange,33.71546,-117.93694
+106301175,2013-2014,2013,2014,10.45,49.0,429.0,As Expected,8.4,47.0,480.0,As Expected,Fountain Valley Regional Hospital and Medical Center - Euclid,Orange,33.71546,-117.93694
+106301175,2014-2015,2014,2015,10.11,41.0,393.0,As Expected,9.84,44.0,418.0,As Expected,Fountain Valley Regional Hospital and Medical Center - Euclid,Orange,33.71546,-117.93694
+106301205,2011-2012,2011,2012,13.0,92.0,777.0,As Expected,9.53,84.0,812.0,As Expected,Hoag Memorial Hospital Presbyterian,Orange,33.62526,-117.92949
+106301205,2012-2013,2012,2013,13.59,101.0,813.0,As Expected,8.72,76.0,846.0,As Expected,Hoag Memorial Hospital Presbyterian,Orange,33.62526,-117.92949
+106301205,2013-2014,2013,2014,12.53,92.0,799.0,As Expected,9.33,91.0,869.0,As Expected,Hoag Memorial Hospital Presbyterian,Orange,33.62526,-117.92949
+106301205,2014-2015,2014,2015,13.2,94.0,760.0,As Expected,8.65,77.0,781.0,As Expected,Hoag Memorial Hospital Presbyterian,Orange,33.62526,-117.92949
+106301209,2011-2012,2011,2012,14.33,10.0,62.0,As Expected,8.2,6.0,65.0,As Expected,Huntington Beach Hospital,Orange,33.70442,-117.98895
+106301209,2012-2013,2012,2013,16.93,10.0,54.0,As Expected,6.83,4.0,55.0,As Expected,Huntington Beach Hospital,Orange,33.70442,-117.98895
+106301209,2013-2014,2013,2014,12.88,8.0,60.0,As Expected,3.48,2.0,64.0,As Expected,Huntington Beach Hospital,Orange,33.70442,-117.98895
+106301209,2014-2015,2014,2015,9.64,5.0,53.0,As Expected,2.7,1.0,53.0,As Expected,Huntington Beach Hospital,Orange,33.70442,-117.98895
+106301234,2011-2012,2011,2012,10.3,8.0,80.0,As Expected,5.37,3.0,81.0,As Expected,La Palma Intercommunity Hospital,Orange,33.8485,-118.03737
+106301234,2012-2013,2012,2013,5.1,4.0,76.0,As Expected,6.96,4.0,78.0,As Expected,La Palma Intercommunity Hospital,Orange,33.8485,-118.03737
+106301234,2013-2014,2013,2014,8.78,6.0,64.0,As Expected,8.02,4.0,66.0,As Expected,La Palma Intercommunity Hospital,Orange,33.8485,-118.03737
+106301234,2014-2015,2014,2015,13.27,6.0,46.0,As Expected,3.17,1.0,47.0,As Expected,La Palma Intercommunity Hospital,Orange,33.8485,-118.03737
+106301248,2011-2012,2011,2012,10.27,42.0,438.0,As Expected,11.22,57.0,454.0,As Expected,Los Alamitos Medical Center,Orange,33.80327,-118.0674
+106301248,2012-2013,2012,2013,12.5,44.0,381.0,As Expected,10.56,49.0,397.0,As Expected,Los Alamitos Medical Center,Orange,33.80327,-118.0674
+106301248,2013-2014,2013,2014,12.34,45.0,384.0,As Expected,10.84,51.0,412.0,As Expected,Los Alamitos Medical Center,Orange,33.80327,-118.0674
+106301248,2014-2015,2014,2015,9.46,35.0,376.0,As Expected,14.44,61.0,388.0,Worse,Los Alamitos Medical Center,Orange,33.80327,-118.0674
+106301258,2011-2012,2011,2012,,,,,14.73,4.0,30.0,As Expected,Coastal Communities Hospital,Orange,33.71112,-117.88539
+106301262,2011-2012,2011,2012,13.68,59.0,471.0,As Expected,10.15,60.0,508.0,As Expected,Mission Hospital Regional Medical Center,Orange,33.56279,-117.66768
+106301262,2012-2013,2012,2013,13.48,55.0,438.0,As Expected,9.77,57.0,470.0,As Expected,Mission Hospital Regional Medical Center,Orange,33.56279,-117.66768
+106301262,2013-2014,2013,2014,11.01,47.0,445.0,As Expected,7.32,44.0,482.0,Better,Mission Hospital Regional Medical Center,Orange,33.56279,-117.66768
+106301262,2014-2015,2014,2015,8.71,34.0,402.0,As Expected,7.6,43.0,427.0,As Expected,Mission Hospital Regional Medical Center,Orange,33.56279,-117.66768
+106301279,2011-2012,2011,2012,12.64,39.0,319.0,As Expected,14.52,47.0,354.0,Worse,UC Irvine Medical Center,Orange,33.7889,-117.89064
+106301279,2012-2013,2012,2013,12.05,41.0,338.0,As Expected,11.71,47.0,369.0,As Expected,UC Irvine Medical Center,Orange,33.7889,-117.89064
+106301279,2013-2014,2013,2014,12.77,50.0,376.0,As Expected,9.29,45.0,417.0,As Expected,UC Irvine Medical Center,Orange,33.7889,-117.89064
+106301279,2014-2015,2014,2015,12.39,44.0,351.0,As Expected,10.12,48.0,384.0,As Expected,UC Irvine Medical Center,Orange,33.7889,-117.89064
+106301283,2011-2012,2011,2012,13.56,12.0,87.0,As Expected,6.83,6.0,91.0,As Expected,Garden Grove Hospital and Medical Center,Orange,33.7745089,-117.9130315
+106301283,2012-2013,2012,2013,8.82,7.0,79.0,As Expected,6.3,4.0,81.0,As Expected,Garden Grove Hospital and Medical Center,Orange,33.7745089,-117.9130315
+106301283,2013-2014,2013,2014,6.89,5.0,66.0,As Expected,8.6,5.0,68.0,As Expected,Garden Grove Hospital and Medical Center,Orange,33.7745089,-117.9130315
+106301283,2014-2015,2014,2015,8.89,7.0,65.0,As Expected,6.84,4.0,67.0,As Expected,Garden Grove Hospital and Medical Center,Orange,33.7745089,-117.9130315
+106301297,2011-2012,2011,2012,14.84,10.0,76.0,As Expected,10.82,7.0,78.0,As Expected,Placentia Linda Hospital,Orange,33.88704521,-117.8431129
+106301297,2012-2013,2012,2013,17.6,12.0,77.0,As Expected,14.18,11.0,78.0,As Expected,Placentia Linda Hospital,Orange,33.88704521,-117.8431129
+106301297,2013-2014,2013,2014,14.69,9.0,70.0,As Expected,18.81,13.0,74.0,Worse,Placentia Linda Hospital,Orange,33.88704521,-117.8431129
+106301297,2014-2015,2014,2015,9.89,5.0,62.0,As Expected,14.23,7.0,65.0,As Expected,Placentia Linda Hospital,Orange,33.88704521,-117.8431129
+106301317,2011-2012,2011,2012,15.19,63.0,425.0,As Expected,10.46,66.0,440.0,As Expected,Saddleback Memorial Medical Center,Orange,33.60796,-117.70837
+106301317,2012-2013,2012,2013,14.31,54.0,405.0,As Expected,12.12,72.0,432.0,As Expected,Saddleback Memorial Medical Center,Orange,33.60796,-117.70837
+106301317,2013-2014,2013,2014,10.92,46.0,452.0,As Expected,11.46,84.0,503.0,As Expected,Saddleback Memorial Medical Center,Orange,33.60796,-117.70837
+106301317,2014-2015,2014,2015,8.43,34.0,416.0,As Expected,9.47,58.0,434.0,As Expected,Saddleback Memorial Medical Center,Orange,33.60796,-117.70837
+106301340,2011-2012,2011,2012,12.07,51.0,440.0,As Expected,9.28,42.0,454.0,As Expected,Saint Joseph Hospital - Orange,Orange,33.7823,-117.86516
+106301340,2012-2013,2012,2013,14.31,56.0,426.0,As Expected,11.65,53.0,447.0,As Expected,Saint Joseph Hospital - Orange,Orange,33.7823,-117.86516
+106301340,2013-2014,2013,2014,15.06,60.0,425.0,As Expected,10.65,55.0,468.0,As Expected,Saint Joseph Hospital - Orange,Orange,33.7823,-117.86516
+106301340,2014-2015,2014,2015,14.0,54.0,403.0,As Expected,8.48,43.0,421.0,As Expected,Saint Joseph Hospital - Orange,Orange,33.7823,-117.86516
+106301342,2011-2012,2011,2012,14.11,70.0,500.0,As Expected,8.11,51.0,519.0,As Expected,Saint Jude Medical Center,Orange,33.89349,-117.92851
+106301342,2012-2013,2012,2013,11.42,62.0,533.0,As Expected,9.12,70.0,560.0,As Expected,Saint Jude Medical Center,Orange,33.89349,-117.92851
+106301342,2013-2014,2013,2014,9.3,51.0,535.0,As Expected,8.9,75.0,592.0,As Expected,Saint Jude Medical Center,Orange,33.89349,-117.92851
+106301342,2014-2015,2014,2015,11.06,54.0,458.0,As Expected,7.76,54.0,486.0,As Expected,Saint Jude Medical Center,Orange,33.89349,-117.92851
+106301379,2011-2012,2011,2012,11.89,19.0,145.0,As Expected,8.21,12.0,148.0,As Expected,West Anaheim Medical Center,Orange,33.82482,-117.99492
+106301379,2012-2013,2012,2013,12.06,16.0,118.0,As Expected,10.0,14.0,123.0,As Expected,West Anaheim Medical Center,Orange,33.82482,-117.99492
+106301379,2013-2014,2013,2014,11.12,12.0,104.0,As Expected,8.67,10.0,114.0,As Expected,West Anaheim Medical Center,Orange,33.82482,-117.99492
+106301379,2014-2015,2014,2015,8.8,11.0,115.0,As Expected,9.74,9.0,118.0,As Expected,West Anaheim Medical Center,Orange,33.82482,-117.99492
+106301566,2011-2012,2011,2012,9.46,15.0,158.0,As Expected,14.77,23.0,172.0,As Expected,Orange County Global Medical Center,Orange,33.75361,-117.83398
+106301566,2012-2013,2012,2013,9.92,16.0,173.0,As Expected,11.98,24.0,190.0,As Expected,Orange County Global Medical Center,Orange,33.75361,-117.83398
+106301566,2013-2014,2013,2014,12.82,24.0,201.0,As Expected,12.78,33.0,228.0,As Expected,Orange County Global Medical Center,Orange,33.75361,-117.83398
+106301566,2014-2015,2014,2015,12.57,20.0,169.0,As Expected,12.27,28.0,185.0,As Expected,Orange County Global Medical Center,Orange,33.75361,-117.83398
+106304409,2012-2013,2012,2013,13.56,32.0,250.0,As Expected,9.97,23.0,259.0,As Expected,Kaiser Foundation Hospital - Orange County - Anaheim,Orange,33.8544317,-117.8439815
+106304409,2013-2014,2013,2014,11.86,64.0,537.0,As Expected,9.91,51.0,575.0,As Expected,Kaiser Foundation Hospital - Orange County - Anaheim,Orange,33.8544317,-117.8439815
+106304409,2014-2015,2014,2015,10.05,57.0,553.0,As Expected,9.31,46.0,570.0,As Expected,Kaiser Foundation Hospital - Orange County - Anaheim,Orange,33.8544317,-117.8439815
+106310791,2011-2012,2011,2012,7.91,14.0,175.0,As Expected,10.4,23.0,180.0,As Expected,Sutter Auburn Faith Hospital,Placer,38.94452,-121.0982
+106310791,2012-2013,2012,2013,6.57,11.0,174.0,Better,9.78,20.0,177.0,As Expected,Sutter Auburn Faith Hospital,Placer,38.94452,-121.0982
+106310791,2013-2014,2013,2014,5.75,8.0,160.0,As Expected,11.4,17.0,163.0,As Expected,Sutter Auburn Faith Hospital,Placer,38.94452,-121.0982
+106310791,2014-2015,2014,2015,8.27,9.0,129.0,As Expected,12.4,14.0,133.0,As Expected,Sutter Auburn Faith Hospital,Placer,38.94452,-121.0982
+106311000,2011-2012,2011,2012,13.16,59.0,438.0,As Expected,12.38,66.0,466.0,As Expected,Sutter Roseville Medical Center,Placer,38.76439,-121.25055
+106311000,2012-2013,2012,2013,10.04,47.0,469.0,As Expected,12.96,73.0,501.0,As Expected,Sutter Roseville Medical Center,Placer,38.76439,-121.25055
+106311000,2013-2014,2013,2014,9.12,43.0,478.0,As Expected,11.38,65.0,528.0,As Expected,Sutter Roseville Medical Center,Placer,38.76439,-121.25055
+106311000,2014-2015,2014,2015,9.65,42.0,439.0,As Expected,7.73,37.0,459.0,As Expected,Sutter Roseville Medical Center,Placer,38.76439,-121.25055
+106314024,2011-2012,2011,2012,11.12,51.0,448.0,As Expected,9.33,57.0,476.0,As Expected,Kaiser Foundation Hospital - Roseville,Placer,38.74636,-121.25107
+106314024,2012-2013,2012,2013,9.67,49.0,479.0,As Expected,10.33,66.0,500.0,As Expected,Kaiser Foundation Hospital - Roseville,Placer,38.74636,-121.25107
+106314024,2013-2014,2013,2014,9.06,48.0,500.0,As Expected,8.31,57.0,531.0,As Expected,Kaiser Foundation Hospital - Roseville,Placer,38.74636,-121.25107
+106314024,2014-2015,2014,2015,8.74,40.0,439.0,As Expected,10.23,56.0,462.0,As Expected,Kaiser Foundation Hospital - Roseville,Placer,38.74636,-121.25107
+106331152,2011-2012,2011,2012,14.21,21.0,146.0,As Expected,14.97,22.0,154.0,As Expected,Corona Regional Medical Center - Main,Riverside,33.8733354,-117.5668015
+106331152,2012-2013,2012,2013,10.13,14.0,140.0,As Expected,12.24,19.0,147.0,As Expected,Corona Regional Medical Center - Main,Riverside,33.8733354,-117.5668015
+106331152,2013-2014,2013,2014,15.59,18.0,122.0,As Expected,4.61,4.0,126.0,As Expected,Corona Regional Medical Center - Main,Riverside,33.8733354,-117.5668015
+106331152,2014-2015,2014,2015,16.55,18.0,104.0,As Expected,4.08,3.0,105.0,As Expected,Corona Regional Medical Center - Main,Riverside,33.8733354,-117.5668015
+106331164,2011-2012,2011,2012,12.39,49.0,432.0,As Expected,10.95,46.0,453.0,As Expected,Desert Regional Medical Center,Riverside,33.83932,-116.54549
+106331164,2012-2013,2012,2013,12.43,61.0,536.0,As Expected,11.16,60.0,556.0,As Expected,Desert Regional Medical Center,Riverside,33.83932,-116.54549
+106331164,2013-2014,2013,2014,13.43,68.0,551.0,As Expected,14.21,90.0,616.0,Worse,Desert Regional Medical Center,Riverside,33.83932,-116.54549
+106331164,2014-2015,2014,2015,11.74,56.0,517.0,As Expected,15.23,78.0,555.0,Worse,Desert Regional Medical Center,Riverside,33.83932,-116.54549
+106331168,2011-2012,2011,2012,10.82,78.0,796.0,As Expected,12.95,98.0,826.0,As Expected,Eisenhower Medical Center,Riverside,33.76418,-116.40808
+106331168,2012-2013,2012,2013,11.17,82.0,807.0,As Expected,11.75,95.0,831.0,As Expected,Eisenhower Medical Center,Riverside,33.76418,-116.40808
+106331168,2013-2014,2013,2014,12.16,86.0,786.0,As Expected,8.8,75.0,843.0,As Expected,Eisenhower Medical Center,Riverside,33.76418,-116.40808
+106331168,2014-2015,2014,2015,12.81,84.0,736.0,As Expected,8.93,68.0,759.0,As Expected,Eisenhower Medical Center,Riverside,33.76418,-116.40808
+106331194,2011-2012,2011,2012,14.4,58.0,385.0,As Expected,12.85,73.0,412.0,As Expected,Hemet Valley Medical Center,Riverside,33.75113,-116.95958
+106331194,2012-2013,2012,2013,13.76,49.0,351.0,As Expected,12.0,61.0,374.0,As Expected,Hemet Valley Medical Center,Riverside,33.75113,-116.95958
+106331194,2013-2014,2013,2014,10.38,30.0,278.0,As Expected,12.46,48.0,304.0,As Expected,Hemet Valley Medical Center,Riverside,33.75113,-116.95958
+106331194,2014-2015,2014,2015,13.69,26.0,189.0,As Expected,13.09,26.0,201.0,As Expected,Hemet Valley Medical Center,Riverside,33.75113,-116.95958
+106331216,2011-2012,2011,2012,12.9,15.0,115.0,As Expected,13.24,14.0,120.0,As Expected,John F. Kennedy Memorial Hospital,Riverside,33.70677,-116.23391
+106331216,2012-2013,2012,2013,20.04,17.0,87.0,As Expected,10.04,8.0,90.0,As Expected,John F. Kennedy Memorial Hospital,Riverside,33.70677,-116.23391
+106331216,2013-2014,2013,2014,13.34,10.0,77.0,As Expected,10.27,7.0,83.0,As Expected,John F. Kennedy Memorial Hospital,Riverside,33.70677,-116.23391
+106331216,2014-2015,2014,2015,8.81,8.0,92.0,As Expected,19.25,14.0,98.0,Worse,John F. Kennedy Memorial Hospital,Riverside,33.70677,-116.23391
+106331293,2011-2012,2011,2012,18.42,27.0,146.0,As Expected,13.88,20.0,154.0,As Expected,Parkview Community Hospital Medical Center,Riverside,33.92573,-117.43996
+106331293,2012-2013,2012,2013,18.67,32.0,176.0,As Expected,12.16,18.0,186.0,As Expected,Parkview Community Hospital Medical Center,Riverside,33.92573,-117.43996
+106331293,2013-2014,2013,2014,15.35,25.0,163.0,As Expected,10.53,14.0,173.0,As Expected,Parkview Community Hospital Medical Center,Riverside,33.92573,-117.43996
+106331293,2014-2015,2014,2015,16.03,18.0,112.0,As Expected,15.87,12.0,117.0,As Expected,Parkview Community Hospital Medical Center,Riverside,33.92573,-117.43996
+106331312,2011-2012,2011,2012,15.43,70.0,438.0,As Expected,10.67,43.0,458.0,As Expected,Riverside Community Hospital,Riverside,33.97641,-117.37997
+106331312,2012-2013,2012,2013,14.96,72.0,470.0,As Expected,12.0,50.0,487.0,As Expected,Riverside Community Hospital,Riverside,33.97641,-117.37997
+106331312,2013-2014,2013,2014,11.62,58.0,515.0,As Expected,10.05,46.0,550.0,As Expected,Riverside Community Hospital,Riverside,33.97641,-117.37997
+106331312,2014-2015,2014,2015,11.71,55.0,482.0,As Expected,9.88,41.0,499.0,As Expected,Riverside Community Hospital,Riverside,33.97641,-117.37997
+106331326,2011-2012,2011,2012,11.14,12.0,106.0,As Expected,13.47,18.0,113.0,As Expected,San Gorgonio Memorial Hospital,Riverside,33.9295,-116.94678
+106331326,2012-2013,2012,2013,11.73,10.0,89.0,As Expected,10.57,10.0,93.0,As Expected,San Gorgonio Memorial Hospital,Riverside,33.9295,-116.94678
+106331326,2013-2014,2013,2014,15.88,9.0,61.0,As Expected,10.19,6.0,63.0,As Expected,San Gorgonio Memorial Hospital,Riverside,33.9295,-116.94678
+106331326,2014-2015,2014,2015,12.9,4.0,33.0,As Expected,21.0,7.0,34.0,As Expected,San Gorgonio Memorial Hospital,Riverside,33.9295,-116.94678
+106334018,2011-2012,2011,2012,19.84,24.0,117.0,As Expected,15.08,24.0,122.0,As Expected,Menifee Valley Medical Center,Riverside,33.72146,-117.15691
+106334018,2012-2013,2012,2013,20.01,16.0,82.0,As Expected,11.44,12.0,85.0,As Expected,Menifee Valley Medical Center,Riverside,33.72146,-117.15691
+106334018,2013-2014,2013,2014,15.81,12.0,75.0,As Expected,15.77,15.0,83.0,As Expected,Menifee Valley Medical Center,Riverside,33.72146,-117.15691
+106334018,2014-2015,2014,2015,7.45,4.0,58.0,As Expected,14.63,9.0,63.0,As Expected,Menifee Valley Medical Center,Riverside,33.72146,-117.15691
+106334025,2011-2012,2011,2012,6.28,14.0,217.0,Better,9.58,16.0,225.0,As Expected,Kaiser Foundation Hospital - Riverside,Riverside,33.9063,-117.47082
+106334025,2012-2013,2012,2013,8.92,21.0,227.0,As Expected,13.25,23.0,237.0,As Expected,Kaiser Foundation Hospital - Riverside,Riverside,33.9063,-117.47082
+106334025,2013-2014,2013,2014,10.96,25.0,226.0,As Expected,13.66,25.0,245.0,As Expected,Kaiser Foundation Hospital - Riverside,Riverside,33.9063,-117.47082
+106334025,2014-2015,2014,2015,10.96,26.0,233.0,As Expected,13.39,29.0,247.0,As Expected,Kaiser Foundation Hospital - Riverside,Riverside,33.9063,-117.47082
+106334048,2011-2012,2011,2012,13.55,14.0,91.0,As Expected,11.49,9.0,93.0,As Expected,Kaiser Foundation Hospital - Moreno Valley,Riverside,33.89519,-117.18094
+106334048,2012-2013,2012,2013,12.63,14.0,100.0,As Expected,15.9,13.0,104.0,As Expected,Kaiser Foundation Hospital - Moreno Valley,Riverside,33.89519,-117.18094
+106334048,2013-2014,2013,2014,13.93,19.0,125.0,As Expected,14.84,17.0,134.0,As Expected,Kaiser Foundation Hospital - Moreno Valley,Riverside,33.89519,-117.18094
+106334048,2014-2015,2014,2015,14.21,15.0,102.0,As Expected,15.44,13.0,105.0,As Expected,Kaiser Foundation Hospital - Moreno Valley,Riverside,33.89519,-117.18094
+106334068,2011-2012,2011,2012,16.14,62.0,407.0,As Expected,13.3,50.0,426.0,As Expected,Southwest Healthcare System - Murrieta,Riverside,33.55788,-117.18488
+106334068,2012-2013,2012,2013,14.35,51.0,399.0,As Expected,11.72,40.0,409.0,As Expected,Southwest Healthcare System - Murrieta,Riverside,33.55788,-117.18488
+106334068,2013-2014,2013,2014,12.72,41.0,356.0,As Expected,11.25,37.0,380.0,As Expected,Southwest Healthcare System - Murrieta,Riverside,33.55788,-117.18488
+106334068,2014-2015,2014,2015,12.04,35.0,318.0,As Expected,11.69,34.0,332.0,As Expected,Southwest Healthcare System - Murrieta,Riverside,33.55788,-117.18488
+106334487,2011-2012,2011,2012,13.82,35.0,270.0,As Expected,13.18,21.0,289.0,As Expected,Riverside County Regional Medical Center,Riverside,33.91187,-117.19525
+106334487,2012-2013,2012,2013,12.17,32.0,276.0,As Expected,9.13,16.0,286.0,As Expected,Riverside County Regional Medical Center,Riverside,33.91187,-117.19525
+106334487,2013-2014,2013,2014,9.71,27.0,298.0,As Expected,9.33,21.0,325.0,As Expected,Riverside County Regional Medical Center,Riverside,33.91187,-117.19525
+106334487,2014-2015,2014,2015,12.21,36.0,303.0,As Expected,10.0,27.0,321.0,As Expected,Riverside County Regional Medical Center,Riverside,33.91187,-117.19525
+106334564,2013-2014,2013,2014,13.84,9.0,71.0,As Expected,6.83,5.0,78.0,As Expected,Temecula Valley Hospital,Riverside,33.4795943,-117.1048018
+106334564,2014-2015,2014,2015,13.9,20.0,164.0,As Expected,7.0,11.0,170.0,As Expected,Temecula Valley Hospital,Riverside,33.4795943,-117.1048018
+106334589,2012-2013,2012,2013,25.99,14.0,63.0,Worse,4.97,2.0,63.0,As Expected,Loma Linda University Medical Center - Murrieta,Riverside,33.6122263,-117.1624483
+106334589,2013-2014,2013,2014,20.32,24.0,136.0,Worse,5.6,6.0,144.0,As Expected,Loma Linda University Medical Center - Murrieta,Riverside,33.6122263,-117.1624483
+106334589,2014-2015,2014,2015,11.69,15.0,152.0,As Expected,7.39,8.0,155.0,As Expected,Loma Linda University Medical Center - Murrieta,Riverside,33.6122263,-117.1624483
+106340913,2011-2012,2011,2012,8.87,39.0,415.0,Better,12.16,64.0,451.0,As Expected,Kaiser Foundation Hospital - Sacramento,Sacramento,38.60197,-121.39232
+106340913,2012-2013,2012,2013,9.9,44.0,408.0,As Expected,11.71,65.0,447.0,As Expected,Kaiser Foundation Hospital - Sacramento,Sacramento,38.60197,-121.39232
+106340913,2013-2014,2013,2014,11.2,46.0,389.0,As Expected,12.22,68.0,439.0,As Expected,Kaiser Foundation Hospital - Sacramento,Sacramento,38.60197,-121.39232
+106340913,2014-2015,2014,2015,10.36,41.0,367.0,As Expected,12.28,69.0,400.0,As Expected,Kaiser Foundation Hospital - Sacramento,Sacramento,38.60197,-121.39232
+106340947,2011-2012,2011,2012,8.81,27.0,310.0,As Expected,12.78,44.0,339.0,As Expected,Mercy General Hospital,Sacramento,38.56955,-121.45271
+106340947,2012-2013,2012,2013,10.11,36.0,325.0,As Expected,9.41,35.0,345.0,As Expected,Mercy General Hospital,Sacramento,38.56955,-121.45271
+106340947,2013-2014,2013,2014,11.15,40.0,341.0,As Expected,7.31,27.0,370.0,As Expected,Mercy General Hospital,Sacramento,38.56955,-121.45271
+106340947,2014-2015,2014,2015,11.49,35.0,301.0,As Expected,7.84,23.0,311.0,As Expected,Mercy General Hospital,Sacramento,38.56955,-121.45271
+106340950,2011-2012,2011,2012,12.51,74.0,597.0,As Expected,10.41,84.0,642.0,As Expected,Mercy San Juan Hospital,Sacramento,38.66818,-121.31261
+106340950,2012-2013,2012,2013,10.87,70.0,633.0,As Expected,11.63,109.0,690.0,As Expected,Mercy San Juan Hospital,Sacramento,38.66818,-121.31261
+106340950,2013-2014,2013,2014,11.95,80.0,689.0,As Expected,11.02,99.0,771.0,As Expected,Mercy San Juan Hospital,Sacramento,38.66818,-121.31261
+106340950,2014-2015,2014,2015,12.98,83.0,690.0,As Expected,11.8,91.0,746.0,As Expected,Mercy San Juan Hospital,Sacramento,38.66818,-121.31261
+106340951,2011-2012,2011,2012,14.47,49.0,312.0,As Expected,7.99,22.0,323.0,As Expected,Methodist Hospital of Sacramento,Sacramento,38.46416,-121.41744
+106340951,2012-2013,2012,2013,13.66,49.0,331.0,As Expected,11.39,38.0,350.0,As Expected,Methodist Hospital of Sacramento,Sacramento,38.46416,-121.41744
+106340951,2013-2014,2013,2014,14.4,57.0,374.0,As Expected,12.53,44.0,404.0,As Expected,Methodist Hospital of Sacramento,Sacramento,38.46416,-121.41744
+106340951,2014-2015,2014,2015,13.02,49.0,357.0,As Expected,10.51,31.0,369.0,As Expected,Methodist Hospital of Sacramento,Sacramento,38.46416,-121.41744
+106341006,2011-2012,2011,2012,12.99,45.0,372.0,As Expected,13.22,37.0,397.0,As Expected,UC Davis Medical Center,Sacramento,38.55438,-121.45738
+106341006,2012-2013,2012,2013,13.02,51.0,413.0,As Expected,11.64,37.0,439.0,As Expected,UC Davis Medical Center,Sacramento,38.55438,-121.45738
+106341006,2013-2014,2013,2014,11.85,52.0,462.0,As Expected,10.17,41.0,509.0,As Expected,UC Davis Medical Center,Sacramento,38.55438,-121.45738
+106341006,2014-2015,2014,2015,11.37,50.0,449.0,As Expected,9.94,40.0,476.0,As Expected,UC Davis Medical Center,Sacramento,38.55438,-121.45738
+106341051,2011-2012,2011,2012,12.19,45.0,363.0,As Expected,12.89,47.0,387.0,As Expected,"Sutter Medical Center, Sacramento",Sacramento,38.57176,-121.47008
+106341051,2012-2013,2012,2013,11.17,46.0,419.0,As Expected,11.91,42.0,437.0,As Expected,"Sutter Medical Center, Sacramento",Sacramento,38.57176,-121.47008
+106341051,2013-2014,2013,2014,7.64,30.0,417.0,Better,10.73,38.0,445.0,As Expected,"Sutter Medical Center, Sacramento",Sacramento,38.57176,-121.47008
+106341051,2014-2015,2014,2015,5.68,20.0,366.0,Better,11.97,43.0,384.0,As Expected,"Sutter Medical Center, Sacramento",Sacramento,38.57176,-121.47008
+106341052,2011-2012,2011,2012,10.96,18.0,163.0,As Expected,9.15,14.0,172.0,As Expected,Sutter Memorial Hospital,Sacramento,38.57071,-121.43948
+106341052,2012-2013,2012,2013,10.28,16.0,154.0,As Expected,9.58,14.0,162.0,As Expected,Sutter Memorial Hospital,Sacramento,38.57071,-121.43948
+106341052,2013-2014,2013,2014,11.76,17.0,141.0,As Expected,10.49,16.0,158.0,As Expected,Sutter Memorial Hospital,Sacramento,38.57071,-121.43948
+106341052,2014-2015,2014,2015,12.19,16.0,128.0,As Expected,9.29,12.0,133.0,As Expected,Sutter Memorial Hospital,Sacramento,38.57071,-121.43948
+106342344,2011-2012,2011,2012,8.07,39.0,425.0,Better,9.37,44.0,448.0,As Expected,Kaiser Foundation Hospital - South Sacramento,Sacramento,38.47144,-121.42409
+106342344,2012-2013,2012,2013,10.3,54.0,445.0,As Expected,9.49,46.0,463.0,As Expected,Kaiser Foundation Hospital - South Sacramento,Sacramento,38.47144,-121.42409
+106342344,2013-2014,2013,2014,9.4,52.0,470.0,As Expected,8.38,42.0,502.0,As Expected,Kaiser Foundation Hospital - South Sacramento,Sacramento,38.47144,-121.42409
+106342344,2014-2015,2014,2015,9.76,44.0,396.0,As Expected,8.56,38.0,414.0,As Expected,Kaiser Foundation Hospital - South Sacramento,Sacramento,38.47144,-121.42409
+106344029,2011-2012,2011,2012,12.88,13.0,116.0,As Expected,9.12,9.0,120.0,As Expected,Mercy Hospital of Folsom,Sacramento,38.67223,-121.1428
+106344029,2012-2013,2012,2013,16.98,18.0,123.0,As Expected,6.82,7.0,126.0,As Expected,Mercy Hospital of Folsom,Sacramento,38.67223,-121.1428
+106344029,2013-2014,2013,2014,14.98,18.0,138.0,As Expected,9.16,11.0,149.0,As Expected,Mercy Hospital of Folsom,Sacramento,38.67223,-121.1428
+106344029,2014-2015,2014,2015,10.37,13.0,143.0,As Expected,7.44,9.0,147.0,As Expected,Mercy Hospital of Folsom,Sacramento,38.67223,-121.1428
+106350784,2011-2012,2011,2012,12.84,5.0,45.0,As Expected,22.12,9.0,48.0,As Expected,Hazel Hawkins Memorial Hospital,San Benito,36.835,-121.38609
+106350784,2012-2013,2012,2013,12.01,4.0,38.0,As Expected,14.6,7.0,41.0,As Expected,Hazel Hawkins Memorial Hospital,San Benito,36.835,-121.38609
+106350784,2013-2014,2013,2014,13.6,4.0,36.0,As Expected,13.3,5.0,40.0,As Expected,Hazel Hawkins Memorial Hospital,San Benito,36.835,-121.38609
+106350784,2014-2015,2014,2015,14.1,5.0,42.0,As Expected,12.94,4.0,43.0,As Expected,Hazel Hawkins Memorial Hospital,San Benito,36.835,-121.38609
+106361144,2011-2012,2011,2012,11.3,13.0,104.0,As Expected,7.61,5.0,107.0,As Expected,Chino Valley Medical Center,San Bernardino,34.02626,-117.687
+106361144,2012-2013,2012,2013,12.91,12.0,86.0,As Expected,3.56,2.0,88.0,As Expected,Chino Valley Medical Center,San Bernardino,34.02626,-117.687
+106361144,2013-2014,2013,2014,9.85,7.0,65.0,As Expected,6.68,4.0,70.0,As Expected,Chino Valley Medical Center,San Bernardino,34.02626,-117.687
+106361144,2014-2015,2014,2015,9.26,5.0,50.0,As Expected,9.28,4.0,51.0,As Expected,Chino Valley Medical Center,San Bernardino,34.02626,-117.687
+106361166,2011-2012,2011,2012,26.14,9.0,36.0,As Expected,0.0,0.0,36.0,As Expected,Montclair Hospital Medical Center,San Bernardino,34.07774,-117.69603
+106361223,2011-2012,2011,2012,14.13,68.0,457.0,As Expected,9.27,37.0,476.0,As Expected,Kaiser Foundation Hospital - Fontana,San Bernardino,34.0725,-117.43549
+106361223,2012-2013,2012,2013,12.98,64.0,468.0,As Expected,10.59,45.0,491.0,As Expected,Kaiser Foundation Hospital - Fontana,San Bernardino,34.0725,-117.43549
+106361223,2013-2014,2013,2014,10.94,59.0,506.0,As Expected,11.43,56.0,554.0,As Expected,Kaiser Foundation Hospital - Fontana,San Bernardino,34.0725,-117.43549
+106361223,2014-2015,2014,2015,9.27,47.0,482.0,As Expected,11.97,54.0,510.0,As Expected,Kaiser Foundation Hospital - Fontana,San Bernardino,34.0725,-117.43549
+106361246,2011-2012,2011,2012,12.6,62.0,502.0,As Expected,11.47,61.0,534.0,As Expected,Loma Linda University Medical Center,San Bernardino,34.05164,-117.26146
+106361246,2012-2013,2012,2013,10.79,60.0,563.0,As Expected,12.26,72.0,601.0,As Expected,Loma Linda University Medical Center,San Bernardino,34.05164,-117.26146
+106361246,2013-2014,2013,2014,9.22,45.0,514.0,As Expected,13.54,70.0,580.0,Worse,Loma Linda University Medical Center,San Bernardino,34.05164,-117.26146
+106361246,2014-2015,2014,2015,11.86,55.0,482.0,As Expected,11.77,59.0,527.0,As Expected,Loma Linda University Medical Center,San Bernardino,34.05164,-117.26146
+106361308,2011-2012,2011,2012,10.41,26.0,259.0,As Expected,9.55,29.0,271.0,As Expected,Redlands Community Hospital,San Bernardino,34.03699,-117.2044
+106361308,2012-2013,2012,2013,12.08,34.0,288.0,As Expected,10.85,36.0,305.0,As Expected,Redlands Community Hospital,San Bernardino,34.03699,-117.2044
+106361308,2013-2014,2013,2014,9.88,29.0,294.0,As Expected,11.02,40.0,316.0,As Expected,Redlands Community Hospital,San Bernardino,34.03699,-117.2044
+106361308,2014-2015,2014,2015,8.26,22.0,256.0,As Expected,10.65,32.0,261.0,As Expected,Redlands Community Hospital,San Bernardino,34.03699,-117.2044
+106361318,2011-2012,2011,2012,12.06,47.0,438.0,As Expected,12.19,42.0,462.0,As Expected,San Antonio Community Hospital,San Bernardino,34.10056,-117.63828
+106361318,2012-2013,2012,2013,11.07,46.0,449.0,As Expected,11.37,46.0,474.0,As Expected,San Antonio Community Hospital,San Bernardino,34.10056,-117.63828
+106361318,2013-2014,2013,2014,12.37,53.0,462.0,As Expected,11.68,57.0,511.0,As Expected,San Antonio Community Hospital,San Bernardino,34.10056,-117.63828
+106361318,2014-2015,2014,2015,13.13,54.0,441.0,As Expected,12.85,57.0,466.0,As Expected,San Antonio Community Hospital,San Bernardino,34.10056,-117.63828
+106361323,2011-2012,2011,2012,12.11,8.0,65.0,As Expected,15.43,7.0,68.0,As Expected,Community Hospital of San Bernardino,San Bernardino,34.13138,-117.32245
+106361323,2012-2013,2012,2013,13.12,5.0,38.0,As Expected,4.13,1.0,39.0,As Expected,Community Hospital of San Bernardino,San Bernardino,34.13138,-117.32245
+106361323,2013-2014,2013,2014,17.0,5.0,31.0,As Expected,6.74,2.0,38.0,As Expected,Community Hospital of San Bernardino,San Bernardino,34.13138,-117.32245
+106361323,2014-2015,2014,2015,20.5,9.0,49.0,As Expected,11.94,4.0,52.0,As Expected,Community Hospital of San Bernardino,San Bernardino,34.13138,-117.32245
+106361339,2011-2012,2011,2012,9.93,28.0,280.0,As Expected,12.54,27.0,293.0,As Expected,Saint Bernadine Medical Center,San Bernardino,34.1341,-117.27865
+106361339,2012-2013,2012,2013,13.01,30.0,225.0,As Expected,9.68,17.0,232.0,As Expected,Saint Bernadine Medical Center,San Bernardino,34.1341,-117.27865
+106361339,2013-2014,2013,2014,13.35,33.0,249.0,As Expected,11.57,26.0,269.0,As Expected,Saint Bernadine Medical Center,San Bernardino,34.1341,-117.27865
+106361339,2014-2015,2014,2015,12.82,31.0,255.0,As Expected,11.67,24.0,264.0,As Expected,Saint Bernadine Medical Center,San Bernardino,34.1341,-117.27865
+106361343,2011-2012,2011,2012,12.92,51.0,408.0,As Expected,8.48,23.0,416.0,As Expected,Saint Mary Regional Medical Center,San Bernardino,34.54053,-117.26535
+106361343,2012-2013,2012,2013,14.27,53.0,376.0,As Expected,9.54,25.0,388.0,As Expected,Saint Mary Regional Medical Center,San Bernardino,34.54053,-117.26535
+106361343,2013-2014,2013,2014,15.18,54.0,336.0,As Expected,8.78,24.0,361.0,As Expected,Saint Mary Regional Medical Center,San Bernardino,34.54053,-117.26535
+106361343,2014-2015,2014,2015,10.1,31.0,296.0,As Expected,8.02,19.0,303.0,As Expected,Saint Mary Regional Medical Center,San Bernardino,34.54053,-117.26535
+106361370,2011-2012,2011,2012,11.09,9.0,85.0,As Expected,3.95,2.0,87.0,As Expected,Victor Valley Global Medical Center,San Bernardino,34.5281768,-117.2925622
+106361370,2012-2013,2012,2013,15.8,15.0,99.0,As Expected,5.56,4.0,102.0,As Expected,Victor Valley Global Medical Center,San Bernardino,34.5281768,-117.2925622
+106361370,2013-2014,2013,2014,16.24,13.0,84.0,As Expected,12.45,7.0,92.0,As Expected,Victor Valley Global Medical Center,San Bernardino,34.5281768,-117.2925622
+106361370,2014-2015,2014,2015,17.9,13.0,71.0,As Expected,9.43,3.0,72.0,As Expected,Victor Valley Global Medical Center,San Bernardino,34.5281768,-117.2925622
+106362041,2011-2012,2011,2012,18.77,18.0,106.0,As Expected,18.5,18.0,111.0,Worse,Hi-Desert Medical Center,San Bernardino,34.13323,-116.27654
+106362041,2012-2013,2012,2013,18.32,13.0,76.0,As Expected,13.86,9.0,82.0,As Expected,Hi-Desert Medical Center,San Bernardino,34.13323,-116.27654
+106362041,2013-2014,2013,2014,16.49,7.0,44.0,As Expected,9.3,4.0,48.0,As Expected,Hi-Desert Medical Center,San Bernardino,34.13323,-116.27654
+106364144,2011-2012,2011,2012,16.42,42.0,219.0,As Expected,8.29,17.0,223.0,As Expected,Desert Valley Hospital,San Bernardino,34.47093,-117.29778
+106364144,2012-2013,2012,2013,13.22,38.0,241.0,As Expected,4.42,9.0,245.0,Better,Desert Valley Hospital,San Bernardino,34.47093,-117.29778
+106364144,2013-2014,2013,2014,11.9,33.0,226.0,As Expected,4.76,9.0,230.0,Better,Desert Valley Hospital,San Bernardino,34.47093,-117.29778
+106364144,2014-2015,2014,2015,12.41,31.0,195.0,As Expected,5.86,9.0,195.0,As Expected,Desert Valley Hospital,San Bernardino,34.47093,-117.29778
+106364231,2011-2012,2011,2012,15.43,57.0,418.0,As Expected,15.65,25.0,433.0,As Expected,Arrowhead Regional Medical Center,San Bernardino,34.07163215,-117.3527761
+106364231,2012-2013,2012,2013,12.92,50.0,443.0,As Expected,11.63,21.0,452.0,As Expected,Arrowhead Regional Medical Center,San Bernardino,34.07163215,-117.3527761
+106364231,2013-2014,2013,2014,13.08,51.0,427.0,As Expected,10.01,25.0,447.0,As Expected,Arrowhead Regional Medical Center,San Bernardino,34.07163215,-117.3527761
+106364231,2014-2015,2014,2015,12.71,38.0,326.0,As Expected,8.86,18.0,336.0,As Expected,Arrowhead Regional Medical Center,San Bernardino,34.07163215,-117.3527761
+106364430,2011-2012,2011,2012,23.03,13.0,61.0,As Expected,9.32,3.0,61.0,As Expected,Barstow Community Hospital,San Bernardino,34.8935263,-117.0168841
+106364430,2012-2013,2012,2013,16.49,15.0,87.0,As Expected,12.56,7.0,87.0,As Expected,Barstow Community Hospital,San Bernardino,34.8935263,-117.0168841
+106364430,2013-2014,2013,2014,10.14,10.0,93.0,As Expected,17.04,12.0,97.0,As Expected,Barstow Community Hospital,San Bernardino,34.8935263,-117.0168841
+106364430,2014-2015,2014,2015,11.65,9.0,75.0,As Expected,15.14,7.0,77.0,As Expected,Barstow Community Hospital,San Bernardino,34.8935263,-117.0168841
+106370652,2011-2012,2011,2012,9.85,18.0,177.0,As Expected,6.91,14.0,184.0,As Expected,Alvarado Hospital,San Diego,32.77708,-117.05683
+106370652,2012-2013,2012,2013,9.57,14.0,137.0,As Expected,9.76,19.0,149.0,As Expected,Alvarado Hospital,San Diego,32.77708,-117.05683
+106370652,2013-2014,2013,2014,14.72,21.0,132.0,As Expected,10.94,19.0,149.0,As Expected,Alvarado Hospital,San Diego,32.77708,-117.05683
+106370652,2014-2015,2014,2015,13.5,19.0,119.0,As Expected,10.27,12.0,124.0,As Expected,Alvarado Hospital,San Diego,32.77708,-117.05683
+106370689,2011-2012,2011,2012,11.33,4.0,38.0,As Expected,8.36,4.0,39.0,As Expected,Sharp Coronado Hospital and Healthcare Center,San Diego,32.69427,-117.16808
+106370689,2012-2013,2012,2013,19.52,6.0,34.0,As Expected,14.79,6.0,35.0,As Expected,Sharp Coronado Hospital and Healthcare Center,San Diego,32.69427,-117.16808
+106370689,2013-2014,2013,2014,15.52,6.0,40.0,As Expected,12.38,6.0,41.0,As Expected,Sharp Coronado Hospital and Healthcare Center,San Diego,32.69427,-117.16808
+106370689,2014-2015,2014,2015,8.58,3.0,34.0,As Expected,9.39,5.0,36.0,As Expected,Sharp Coronado Hospital and Healthcare Center,San Diego,32.69427,-117.16808
+106370694,2011-2012,2011,2012,13.84,68.0,526.0,As Expected,10.44,54.0,556.0,As Expected,Sharp Memorial Hospital,San Diego,32.80016,-117.15531
+106370694,2012-2013,2012,2013,12.14,64.0,559.0,As Expected,11.38,69.0,602.0,As Expected,Sharp Memorial Hospital,San Diego,32.80016,-117.15531
+106370694,2013-2014,2013,2014,9.86,53.0,569.0,As Expected,10.93,69.0,645.0,As Expected,Sharp Memorial Hospital,San Diego,32.80016,-117.15531
+106370694,2014-2015,2014,2015,12.63,62.0,510.0,As Expected,9.67,52.0,548.0,As Expected,Sharp Memorial Hospital,San Diego,32.80016,-117.15531
+106370714,2011-2012,2011,2012,17.52,138.0,798.0,Worse,11.66,105.0,865.0,As Expected,Grossmont Hospital,San Diego,32.77963,-117.00924
+106370714,2012-2013,2012,2013,15.85,130.0,821.0,Worse,10.74,102.0,887.0,As Expected,Grossmont Hospital,San Diego,32.77963,-117.00924
+106370714,2013-2014,2013,2014,13.85,125.0,879.0,As Expected,9.26,100.0,969.0,As Expected,Grossmont Hospital,San Diego,32.77963,-117.00924
+106370714,2014-2015,2014,2015,13.36,108.0,789.0,As Expected,8.77,83.0,834.0,As Expected,Grossmont Hospital,San Diego,32.77963,-117.00924
+106370730,2011-2012,2011,2012,13.88,67.0,507.0,As Expected,10.77,50.0,531.0,As Expected,Kaiser Foundation Hospital - San Diego,San Diego,32.79287,-117.09447
+106370730,2012-2013,2012,2013,11.32,53.0,494.0,As Expected,8.51,36.0,508.0,As Expected,Kaiser Foundation Hospital - San Diego,San Diego,32.79287,-117.09447
+106370730,2013-2014,2013,2014,10.14,50.0,499.0,As Expected,10.89,57.0,548.0,As Expected,Kaiser Foundation Hospital - San Diego,San Diego,32.79287,-117.09447
+106370730,2014-2015,2014,2015,9.38,42.0,447.0,As Expected,12.07,58.0,474.0,As Expected,Kaiser Foundation Hospital - San Diego,San Diego,32.79287,-117.09447
+106370744,2011-2012,2011,2012,15.16,113.0,734.0,As Expected,11.01,80.0,786.0,As Expected,Scripps Mercy Hospital,San Diego,32.75128,-117.1609
+106370744,2012-2013,2012,2013,14.4,103.0,734.0,As Expected,11.42,82.0,779.0,As Expected,Scripps Mercy Hospital,San Diego,32.75128,-117.1609
+106370744,2013-2014,2013,2014,12.54,85.0,716.0,As Expected,8.97,65.0,781.0,As Expected,Scripps Mercy Hospital,San Diego,32.75128,-117.1609
+106370744,2014-2015,2014,2015,11.53,71.0,622.0,As Expected,6.78,41.0,648.0,Better,Scripps Mercy Hospital,San Diego,32.75128,-117.1609
+106370755,2011-2012,2011,2012,13.9,67.0,532.0,As Expected,12.9,89.0,574.0,As Expected,Palomar Heath Downtown Campus,San Diego,33.12622,-117.07585
+106370755,2012-2013,2012,2013,12.85,70.0,613.0,As Expected,11.51,83.0,657.0,As Expected,Palomar Heath Downtown Campus,San Diego,33.12622,-117.07585
+106370755,2013-2014,2013,2014,10.76,72.0,751.0,As Expected,9.07,79.0,818.0,As Expected,Palomar Heath Downtown Campus,San Diego,33.12622,-117.07585
+106370755,2014-2015,2014,2015,11.56,72.0,707.0,As Expected,10.17,86.0,755.0,As Expected,Palomar Heath Downtown Campus,San Diego,33.12622,-117.07585
+106370759,2011-2012,2011,2012,15.23,27.0,143.0,As Expected,9.23,9.0,145.0,As Expected,Paradise Valley Hospital,San Diego,32.6863293,-117.0830382
+106370759,2012-2013,2012,2013,17.6,25.0,125.0,As Expected,10.19,9.0,127.0,As Expected,Paradise Valley Hospital,San Diego,32.6863293,-117.0830382
+106370759,2013-2014,2013,2014,12.42,14.0,97.0,As Expected,7.49,5.0,98.0,As Expected,Paradise Valley Hospital,San Diego,32.6863293,-117.0830382
+106370759,2014-2015,2014,2015,14.29,14.0,84.0,As Expected,7.05,5.0,86.0,As Expected,Paradise Valley Hospital,San Diego,32.6863293,-117.0830382
+106370771,2011-2012,2011,2012,11.02,37.0,348.0,As Expected,9.11,49.0,383.0,As Expected,Scripps Memorial Hospital - La Jolla,San Diego,32.88506,-117.22279
+106370771,2012-2013,2012,2013,13.4,46.0,362.0,As Expected,9.22,50.0,395.0,As Expected,Scripps Memorial Hospital - La Jolla,San Diego,32.88506,-117.22279
+106370771,2013-2014,2013,2014,15.63,54.0,364.0,As Expected,9.31,57.0,417.0,As Expected,Scripps Memorial Hospital - La Jolla,San Diego,32.88506,-117.22279
+106370771,2014-2015,2014,2015,13.43,49.0,384.0,As Expected,10.06,58.0,422.0,As Expected,Scripps Memorial Hospital - La Jolla,San Diego,32.88506,-117.22279
+106370780,2011-2012,2011,2012,10.06,47.0,528.0,As Expected,14.36,92.0,571.0,Worse,Tri-City Medical Center - Oceanside,San Diego,33.18394,-117.29027
+106370780,2012-2013,2012,2013,9.21,43.0,520.0,As Expected,11.78,74.0,557.0,As Expected,Tri-City Medical Center - Oceanside,San Diego,33.18394,-117.29027
+106370780,2013-2014,2013,2014,12.54,57.0,489.0,As Expected,8.18,50.0,534.0,As Expected,Tri-City Medical Center - Oceanside,San Diego,33.18394,-117.29027
+106370780,2014-2015,2014,2015,13.12,53.0,426.0,As Expected,8.93,44.0,445.0,As Expected,Tri-City Medical Center - Oceanside,San Diego,33.18394,-117.29027
+106370782,2011-2012,2011,2012,16.78,55.0,341.0,As Expected,9.81,28.0,363.0,As Expected,UC San Diego Medical Center,San Diego,32.75387,-117.16498
+106370782,2012-2013,2012,2013,15.23,52.0,355.0,As Expected,9.19,30.0,376.0,As Expected,UC San Diego Medical Center,San Diego,32.75387,-117.16498
+106370782,2013-2014,2013,2014,15.5,50.0,343.0,As Expected,8.05,29.0,370.0,As Expected,UC San Diego Medical Center,San Diego,32.75387,-117.16498
+106370782,2014-2015,2014,2015,14.58,42.0,309.0,As Expected,8.18,28.0,322.0,As Expected,UC San Diego Medical Center,San Diego,32.75387,-117.16498
+106370875,2011-2012,2011,2012,12.74,45.0,339.0,As Expected,9.29,30.0,356.0,As Expected,Sharp Chula Vista Medical Center,San Diego,32.61909,-117.02488
+106370875,2012-2013,2012,2013,12.22,49.0,398.0,As Expected,9.47,35.0,419.0,As Expected,Sharp Chula Vista Medical Center,San Diego,32.61909,-117.02488
+106370875,2013-2014,2013,2014,14.06,64.0,446.0,As Expected,8.74,38.0,481.0,As Expected,Sharp Chula Vista Medical Center,San Diego,32.61909,-117.02488
+106370875,2014-2015,2014,2015,14.08,61.0,407.0,As Expected,7.79,32.0,422.0,As Expected,Sharp Chula Vista Medical Center,San Diego,32.61909,-117.02488
+106370977,2011-2012,2011,2012,10.85,21.0,218.0,As Expected,13.73,41.0,239.0,As Expected,Pomerado Hospital,San Diego,32.99563,-117.05784
+106370977,2012-2013,2012,2013,9.87,17.0,198.0,As Expected,11.26,30.0,216.0,As Expected,Pomerado Hospital,San Diego,32.99563,-117.05784
+106370977,2013-2014,2013,2014,8.43,12.0,170.0,As Expected,11.1,25.0,190.0,As Expected,Pomerado Hospital,San Diego,32.99563,-117.05784
+106370977,2014-2015,2014,2015,7.97,10.0,144.0,As Expected,8.92,18.0,153.0,As Expected,Pomerado Hospital,San Diego,32.99563,-117.05784
+106371256,2011-2012,2011,2012,14.32,26.0,196.0,As Expected,7.83,16.0,205.0,As Expected,Scripps Green Hospital,San Diego,32.89654,-117.2419
+106371256,2012-2013,2012,2013,13.91,23.0,174.0,As Expected,10.06,20.0,185.0,As Expected,Scripps Green Hospital,San Diego,32.89654,-117.2419
+106371256,2013-2014,2013,2014,11.15,19.0,173.0,As Expected,7.15,17.0,188.0,As Expected,Scripps Green Hospital,San Diego,32.89654,-117.2419
+106371256,2014-2015,2014,2015,12.28,19.0,155.0,As Expected,4.95,10.0,158.0,Better,Scripps Green Hospital,San Diego,32.89654,-117.2419
+106371394,2011-2012,2011,2012,8.53,22.0,291.0,As Expected,8.6,41.0,301.0,As Expected,Scripps Memorial Hospital - Encinitas,San Diego,33.0363,-117.28495
+106371394,2012-2013,2012,2013,8.05,21.0,298.0,As Expected,9.12,39.0,311.0,As Expected,Scripps Memorial Hospital - Encinitas,San Diego,33.0363,-117.28495
+106371394,2013-2014,2013,2014,9.93,30.0,322.0,As Expected,7.4,40.0,356.0,As Expected,Scripps Memorial Hospital - Encinitas,San Diego,33.0363,-117.28495
+106371394,2014-2015,2014,2015,10.51,31.0,298.0,As Expected,6.34,30.0,310.0,Better,Scripps Memorial Hospital - Encinitas,San Diego,33.0363,-117.28495
+106380857,2011-2012,2011,2012,7.1,22.0,296.0,Better,8.96,26.0,311.0,As Expected,Kaiser Foundation Hospital - San Francisco,San Francisco,37.78274,-122.44289
+106380857,2012-2013,2012,2013,9.09,27.0,278.0,As Expected,8.91,27.0,292.0,As Expected,Kaiser Foundation Hospital - San Francisco,San Francisco,37.78274,-122.44289
+106380857,2013-2014,2013,2014,12.48,38.0,292.0,As Expected,9.48,28.0,320.0,As Expected,Kaiser Foundation Hospital - San Francisco,San Francisco,37.78274,-122.44289
+106380857,2014-2015,2014,2015,12.91,34.0,269.0,As Expected,10.43,21.0,276.0,As Expected,Kaiser Foundation Hospital - San Francisco,San Francisco,37.78274,-122.44289
+106380929,2011-2012,2011,2012,13.56,48.0,352.0,As Expected,7.68,33.0,375.0,As Expected,California Pacific Medical Center - Pacific Campus,San Francisco,37.79149,-122.43102
+106380929,2012-2013,2012,2013,10.49,30.0,281.0,As Expected,8.78,31.0,296.0,As Expected,California Pacific Medical Center - Pacific Campus,San Francisco,37.79149,-122.43102
+106380929,2013-2014,2013,2014,11.12,37.0,322.0,As Expected,7.57,31.0,352.0,As Expected,California Pacific Medical Center - Pacific Campus,San Francisco,37.79149,-122.43102
+106380929,2014-2015,2014,2015,12.56,38.0,286.0,As Expected,10.0,36.0,306.0,As Expected,California Pacific Medical Center - Pacific Campus,San Francisco,37.79149,-122.43102
+106380933,2011-2012,2011,2012,10.07,12.0,118.0,As Expected,9.34,15.0,131.0,As Expected,California Pacific Medical Center - Davies Campus,San Francisco,37.7691,-122.43465
+106380933,2012-2013,2012,2013,10.67,31.0,277.0,As Expected,6.76,28.0,298.0,Better,California Pacific Medical Center - Davies Campus,San Francisco,37.7691,-122.43465
+106380933,2013-2014,2013,2014,11.59,29.0,245.0,As Expected,6.03,22.0,271.0,Better,California Pacific Medical Center - Davies Campus,San Francisco,37.7691,-122.43465
+106380933,2014-2015,2014,2015,10.78,20.0,190.0,As Expected,8.5,21.0,206.0,As Expected,California Pacific Medical Center - Davies Campus,San Francisco,37.7691,-122.43465
+106380939,2011-2012,2011,2012,13.01,40.0,332.0,As Expected,13.77,28.0,359.0,As Expected,San Francisco General Hospital,San Francisco,37.75657,-122.40637
+106380939,2012-2013,2012,2013,12.55,36.0,306.0,As Expected,18.74,38.0,338.0,Worse,San Francisco General Hospital,San Francisco,37.75657,-122.40637
+106380939,2013-2014,2013,2014,9.81,26.0,274.0,As Expected,19.67,38.0,307.0,Worse,San Francisco General Hospital,San Francisco,37.75657,-122.40637
+106380939,2014-2015,2014,2015,10.76,24.0,226.0,As Expected,11.24,23.0,243.0,As Expected,San Francisco General Hospital,San Francisco,37.75657,-122.40637
+106380960,2011-2012,2011,2012,13.53,24.0,163.0,As Expected,10.01,21.0,179.0,As Expected,Saint Francis Memorial Hospital,San Francisco,37.78917,-122.41695
+106380960,2012-2013,2012,2013,15.46,25.0,157.0,As Expected,9.09,15.0,165.0,As Expected,Saint Francis Memorial Hospital,San Francisco,37.78917,-122.41695
+106380960,2013-2014,2013,2014,13.02,21.0,159.0,As Expected,9.63,19.0,176.0,As Expected,Saint Francis Memorial Hospital,San Francisco,37.78917,-122.41695
+106380960,2014-2015,2014,2015,17.28,25.0,145.0,As Expected,9.1,16.0,155.0,As Expected,Saint Francis Memorial Hospital,San Francisco,37.78917,-122.41695
+106380964,2011-2012,2011,2012,8.59,4.0,38.0,As Expected,13.87,5.0,40.0,As Expected,California Pacific Medical Center - St. Luke’s Campus,San Francisco,37.74799,-122.42052
+106380964,2012-2013,2012,2013,8.96,4.0,38.0,As Expected,18.12,7.0,40.0,As Expected,California Pacific Medical Center - St. Luke’s Campus,San Francisco,37.74799,-122.42052
+106380964,2013-2014,2013,2014,6.26,3.0,48.0,As Expected,13.07,4.0,50.0,As Expected,California Pacific Medical Center - St. Luke’s Campus,San Francisco,37.74799,-122.42052
+106380964,2014-2015,2014,2015,12.53,7.0,48.0,As Expected,10.24,4.0,49.0,As Expected,California Pacific Medical Center - St. Luke’s Campus,San Francisco,37.74799,-122.42052
+106380965,2011-2012,2011,2012,11.11,15.0,139.0,As Expected,8.22,14.0,144.0,As Expected,"Saint Mary’s Medical Center, San Francisco",San Francisco,37.77408,-122.45441
+106380965,2012-2013,2012,2013,11.07,17.0,151.0,As Expected,8.01,15.0,156.0,As Expected,"Saint Mary’s Medical Center, San Francisco",San Francisco,37.77408,-122.45441
+106380965,2013-2014,2013,2014,9.66,13.0,132.0,As Expected,10.03,17.0,145.0,As Expected,"Saint Mary’s Medical Center, San Francisco",San Francisco,37.77408,-122.45441
+106380965,2014-2015,2014,2015,10.18,11.0,109.0,As Expected,12.56,16.0,117.0,As Expected,"Saint Mary’s Medical Center, San Francisco",San Francisco,37.77408,-122.45441
+106381154,2011-2012,2011,2012,11.7,38.0,332.0,As Expected,11.12,37.0,358.0,As Expected,UC San Francisco Medical Center,San Francisco,37.7635148,-122.4576564
+106381154,2012-2013,2012,2013,13.26,41.0,323.0,As Expected,10.2,32.0,337.0,As Expected,UC San Francisco Medical Center,San Francisco,37.7635148,-122.4576564
+106381154,2013-2014,2013,2014,13.91,42.0,323.0,As Expected,10.72,42.0,357.0,As Expected,UC San Francisco Medical Center,San Francisco,37.7635148,-122.4576564
+106381154,2014-2015,2014,2015,11.77,32.0,288.0,As Expected,10.74,38.0,311.0,As Expected,UC San Francisco Medical Center,San Francisco,37.7635148,-122.4576564
+106382715,2011-2012,2011,2012,10.62,10.0,95.0,As Expected,6.16,5.0,98.0,As Expected,Chinese Hospital,San Francisco,37.79565,-122.40926
+106382715,2012-2013,2012,2013,8.92,9.0,94.0,As Expected,4.24,4.0,97.0,As Expected,Chinese Hospital,San Francisco,37.79565,-122.40926
+106382715,2013-2014,2013,2014,13.63,11.0,78.0,As Expected,6.93,4.0,81.0,As Expected,Chinese Hospital,San Francisco,37.79565,-122.40926
+106382715,2014-2015,2014,2015,15.55,8.0,54.0,As Expected,8.44,3.0,54.0,As Expected,Chinese Hospital,San Francisco,37.79565,-122.40926
+106390846,2011-2012,2011,2012,11.4,19.0,162.0,As Expected,16.02,15.0,167.0,As Expected,Dameron Hospital,San Joaquin,37.9613,-121.30061
+106390846,2012-2013,2012,2013,13.01,19.0,143.0,As Expected,12.67,12.0,148.0,As Expected,Dameron Hospital,San Joaquin,37.9613,-121.30061
+106390846,2013-2014,2013,2014,13.49,24.0,167.0,As Expected,9.66,15.0,179.0,As Expected,Dameron Hospital,San Joaquin,37.9613,-121.30061
+106390846,2014-2015,2014,2015,9.06,15.0,157.0,As Expected,10.92,17.0,164.0,As Expected,Dameron Hospital,San Joaquin,37.9613,-121.30061
+106390923,2011-2012,2011,2012,10.93,16.0,160.0,As Expected,11.07,21.0,165.0,As Expected,Lodi Memorial Hospital,San Joaquin,38.12146,-121.2859
+106390923,2012-2013,2012,2013,15.15,18.0,127.0,As Expected,14.47,24.0,132.0,As Expected,Lodi Memorial Hospital,San Joaquin,38.12146,-121.2859
+106390923,2013-2014,2013,2014,11.42,11.0,110.0,As Expected,13.12,20.0,123.0,As Expected,Lodi Memorial Hospital,San Joaquin,38.12146,-121.2859
+106390923,2014-2015,2014,2015,10.17,12.0,132.0,As Expected,14.31,23.0,141.0,As Expected,Lodi Memorial Hospital,San Joaquin,38.12146,-121.2859
+106391010,2011-2012,2011,2012,12.47,15.0,131.0,As Expected,22.9,13.0,137.0,Worse,San Joaquin General Hospital,San Joaquin,37.88594,-121.28918
+106391010,2012-2013,2012,2013,15.14,21.0,147.0,As Expected,19.31,17.0,155.0,Worse,San Joaquin General Hospital,San Joaquin,37.88594,-121.28918
+106391010,2013-2014,2013,2014,13.58,20.0,160.0,As Expected,23.84,22.0,174.0,Worse,San Joaquin General Hospital,San Joaquin,37.88594,-121.28918
+106391010,2014-2015,2014,2015,6.68,8.0,132.0,As Expected,29.72,18.0,139.0,Worse,San Joaquin General Hospital,San Joaquin,37.88594,-121.28918
+106391042,2011-2012,2011,2012,13.94,56.0,404.0,As Expected,11.78,51.0,435.0,As Expected,Saint Joseph’s Medical Center of Stockton,San Joaquin,37.97075,-121.2891
+106391042,2012-2013,2012,2013,10.99,43.0,392.0,As Expected,12.14,50.0,423.0,As Expected,Saint Joseph’s Medical Center of Stockton,San Joaquin,37.97075,-121.2891
+106391042,2013-2014,2013,2014,11.79,43.0,378.0,As Expected,12.1,46.0,419.0,As Expected,Saint Joseph’s Medical Center of Stockton,San Joaquin,37.97075,-121.2891
+106391042,2014-2015,2014,2015,14.0,47.0,349.0,As Expected,8.74,23.0,356.0,As Expected,Saint Joseph’s Medical Center of Stockton,San Joaquin,37.97075,-121.2891
+106391056,2011-2012,2011,2012,14.78,16.0,97.0,As Expected,12.09,14.0,103.0,As Expected,Sutter Tracy Community Hospital,San Joaquin,37.74366,-121.43482
+106391056,2012-2013,2012,2013,16.87,14.0,82.0,As Expected,13.45,12.0,88.0,As Expected,Sutter Tracy Community Hospital,San Joaquin,37.74366,-121.43482
+106391056,2013-2014,2013,2014,17.09,13.0,81.0,As Expected,8.0,6.0,90.0,As Expected,Sutter Tracy Community Hospital,San Joaquin,37.74366,-121.43482
+106391056,2014-2015,2014,2015,14.75,13.0,84.0,As Expected,7.12,5.0,87.0,As Expected,Sutter Tracy Community Hospital,San Joaquin,37.74366,-121.43482
+106392287,2011-2012,2011,2012,14.09,12.0,85.0,As Expected,11.18,10.0,89.0,As Expected,Doctors Hospital of Manteca,San Joaquin,37.80118,-121.19818
+106392287,2012-2013,2012,2013,14.24,12.0,79.0,As Expected,11.87,11.0,86.0,As Expected,Doctors Hospital of Manteca,San Joaquin,37.80118,-121.19818
+106392287,2013-2014,2013,2014,18.12,16.0,88.0,As Expected,7.73,7.0,100.0,As Expected,Doctors Hospital of Manteca,San Joaquin,37.80118,-121.19818
+106392287,2014-2015,2014,2015,14.24,12.0,88.0,As Expected,14.02,9.0,90.0,As Expected,Doctors Hospital of Manteca,San Joaquin,37.80118,-121.19818
+106394009,2011-2012,2011,2012,6.57,9.0,123.0,As Expected,13.11,17.0,128.0,As Expected,Kaiser Foundation Hospital - Manteca,San Joaquin,37.79751,-121.24612
+106394009,2012-2013,2012,2013,7.62,13.0,140.0,As Expected,12.06,20.0,147.0,As Expected,Kaiser Foundation Hospital - Manteca,San Joaquin,37.79751,-121.24612
+106394009,2013-2014,2013,2014,7.61,12.0,134.0,As Expected,10.52,19.0,147.0,As Expected,Kaiser Foundation Hospital - Manteca,San Joaquin,37.79751,-121.24612
+106394009,2014-2015,2014,2015,11.13,15.0,112.0,As Expected,11.45,18.0,122.0,As Expected,Kaiser Foundation Hospital - Manteca,San Joaquin,37.79751,-121.24612
+106400466,2011-2012,2011,2012,9.39,8.0,98.0,As Expected,9.64,9.0,102.0,As Expected,Marian Regional Medical Center - Arroyo Grande,San Luis Obispo,35.11369,-120.59147
+106400466,2012-2013,2012,2013,2.32,2.0,100.0,Better,8.88,9.0,104.0,As Expected,Marian Regional Medical Center - Arroyo Grande,San Luis Obispo,35.11369,-120.59147
+106400466,2013-2014,2013,2014,3.45,3.0,102.0,Better,12.95,14.0,116.0,As Expected,Marian Regional Medical Center - Arroyo Grande,San Luis Obispo,35.11369,-120.59147
+106400466,2014-2015,2014,2015,10.13,8.0,95.0,As Expected,13.1,11.0,98.0,As Expected,Marian Regional Medical Center - Arroyo Grande,San Luis Obispo,35.11369,-120.59147
+106400480,2011-2012,2011,2012,5.42,5.0,101.0,As Expected,11.68,14.0,105.0,As Expected,French Hospital Medical Center,San Luis Obispo,35.27801,-120.64977
+106400480,2012-2013,2012,2013,6.21,5.0,92.0,As Expected,12.28,10.0,94.0,As Expected,French Hospital Medical Center,San Luis Obispo,35.27801,-120.64977
+106400480,2013-2014,2013,2014,8.64,7.0,89.0,As Expected,11.35,13.0,103.0,As Expected,French Hospital Medical Center,San Luis Obispo,35.27801,-120.64977
+106400480,2014-2015,2014,2015,8.35,7.0,85.0,As Expected,10.2,11.0,90.0,As Expected,French Hospital Medical Center,San Luis Obispo,35.27801,-120.64977
+106400524,2011-2012,2011,2012,13.51,16.0,147.0,As Expected,10.94,18.0,153.0,As Expected,Sierra Vista Regional Medical Center,San Luis Obispo,35.29105,-120.66576
+106400524,2012-2013,2012,2013,11.43,13.0,137.0,As Expected,14.76,21.0,143.0,As Expected,Sierra Vista Regional Medical Center,San Luis Obispo,35.29105,-120.66576
+106400524,2013-2014,2013,2014,12.14,13.0,124.0,As Expected,15.23,20.0,136.0,As Expected,Sierra Vista Regional Medical Center,San Luis Obispo,35.29105,-120.66576
+106400524,2014-2015,2014,2015,15.84,15.0,114.0,As Expected,17.88,19.0,120.0,Worse,Sierra Vista Regional Medical Center,San Luis Obispo,35.29105,-120.66576
+106400548,2011-2012,2011,2012,9.53,12.0,150.0,As Expected,14.46,26.0,160.0,As Expected,Twin Cities Community Hospital,San Luis Obispo,35.5543,-120.71967
+106400548,2012-2013,2012,2013,13.84,19.0,165.0,As Expected,14.92,22.0,171.0,As Expected,Twin Cities Community Hospital,San Luis Obispo,35.5543,-120.71967
+106400548,2013-2014,2013,2014,17.46,26.0,173.0,As Expected,14.69,23.0,185.0,As Expected,Twin Cities Community Hospital,San Luis Obispo,35.5543,-120.71967
+106400548,2014-2015,2014,2015,13.93,19.0,160.0,As Expected,16.01,23.0,167.0,Worse,Twin Cities Community Hospital,San Luis Obispo,35.5543,-120.71967
+106410782,2011-2012,2011,2012,9.61,4.0,46.0,As Expected,12.71,3.0,47.0,As Expected,San Mateo Medical Center,San Mateo,37.53017,-122.29951
+106410782,2012-2013,2012,2013,3.35,1.0,33.0,As Expected,6.28,1.0,33.0,As Expected,San Mateo Medical Center,San Mateo,37.53017,-122.29951
+106410782,2013-2014,2013,2014,5.32,2.0,45.0,As Expected,0.0,0.0,47.0,As Expected,San Mateo Medical Center,San Mateo,37.53017,-122.29951
+106410782,2014-2015,2014,2015,5.31,2.0,47.0,As Expected,5.25,1.0,48.0,As Expected,San Mateo Medical Center,San Mateo,37.53017,-122.29951
+106410804,2011-2012,2011,2012,8.88,23.0,254.0,As Expected,8.9,32.0,280.0,As Expected,Kaiser Foundation Hospital - Redwood City,San Mateo,37.48948,-122.2232
+106410804,2012-2013,2012,2013,9.76,29.0,290.0,As Expected,11.87,43.0,315.0,As Expected,Kaiser Foundation Hospital - Redwood City,San Mateo,37.48948,-122.2232
+106410804,2013-2014,2013,2014,11.79,38.0,312.0,As Expected,9.22,38.0,346.0,As Expected,Kaiser Foundation Hospital - Redwood City,San Mateo,37.48948,-122.2232
+106410804,2014-2015,2014,2015,12.4,38.0,288.0,As Expected,10.59,44.0,316.0,As Expected,Kaiser Foundation Hospital - Redwood City,San Mateo,37.48948,-122.2232
+106410806,2011-2012,2011,2012,14.0,31.0,206.0,As Expected,9.5,19.0,217.0,As Expected,Kaiser Foundation Hospital - South San Francisco,San Mateo,37.65806,-122.43837
+106410806,2012-2013,2012,2013,11.34,27.0,216.0,As Expected,8.69,19.0,228.0,As Expected,Kaiser Foundation Hospital - South San Francisco,San Mateo,37.65806,-122.43837
+106410806,2013-2014,2013,2014,12.23,27.0,196.0,As Expected,10.55,23.0,211.0,As Expected,Kaiser Foundation Hospital - South San Francisco,San Mateo,37.65806,-122.43837
+106410806,2014-2015,2014,2015,14.76,26.0,166.0,As Expected,11.4,21.0,177.0,As Expected,Kaiser Foundation Hospital - South San Francisco,San Mateo,37.65806,-122.43837
+106410817,2011-2012,2011,2012,9.34,30.0,290.0,As Expected,12.76,45.0,311.0,As Expected,Seton Medical Center,San Mateo,37.68172,-122.47283
+106410817,2012-2013,2012,2013,7.56,22.0,273.0,Better,10.0,33.0,291.0,As Expected,Seton Medical Center,San Mateo,37.68172,-122.47283
+106410817,2013-2014,2013,2014,12.63,30.0,239.0,As Expected,9.32,26.0,264.0,As Expected,Seton Medical Center,San Mateo,37.68172,-122.47283
+106410817,2014-2015,2014,2015,10.97,25.0,224.0,As Expected,8.03,21.0,232.0,As Expected,Seton Medical Center,San Mateo,37.68172,-122.47283
+106410852,2011-2012,2011,2012,11.06,38.0,347.0,As Expected,9.98,50.0,371.0,As Expected,Mills-Peninsula Medical Center,San Mateo,37.5944692,-122.3832465
+106410852,2012-2013,2012,2013,11.24,42.0,371.0,As Expected,9.46,51.0,398.0,As Expected,Mills-Peninsula Medical Center,San Mateo,37.5944692,-122.3832465
+106410852,2013-2014,2013,2014,10.95,42.0,366.0,As Expected,7.4,42.0,397.0,Better,Mills-Peninsula Medical Center,San Mateo,37.5944692,-122.3832465
+106410852,2014-2015,2014,2015,10.14,34.0,319.0,As Expected,6.48,31.0,330.0,Better,Mills-Peninsula Medical Center,San Mateo,37.5944692,-122.3832465
+106410891,2011-2012,2011,2012,8.13,9.0,118.0,As Expected,13.14,23.0,132.0,As Expected,Sequoia Hospital,San Mateo,37.48129,-122.25377
+106410891,2012-2013,2012,2013,10.47,13.0,131.0,As Expected,8.9,15.0,139.0,As Expected,Sequoia Hospital,San Mateo,37.48129,-122.25377
+106410891,2013-2014,2013,2014,15.92,18.0,124.0,As Expected,9.53,14.0,137.0,As Expected,Sequoia Hospital,San Mateo,37.48129,-122.25377
+106410891,2014-2015,2014,2015,13.6,11.0,92.0,As Expected,11.85,12.0,98.0,As Expected,Sequoia Hospital,San Mateo,37.48129,-122.25377
+106420491,2011-2012,2011,2012,6.61,4.0,72.0,As Expected,13.75,12.0,80.0,As Expected,Lompoc Valley Medical Center,Santa Barbara,34.639252,-120.4396497
+106420491,2012-2013,2012,2013,3.28,2.0,65.0,As Expected,13.96,10.0,71.0,As Expected,Lompoc Valley Medical Center,Santa Barbara,34.639252,-120.4396497
+106420491,2013-2014,2013,2014,10.6,6.0,60.0,As Expected,11.39,7.0,65.0,As Expected,Lompoc Valley Medical Center,Santa Barbara,34.639252,-120.4396497
+106420491,2014-2015,2014,2015,14.83,6.0,44.0,As Expected,4.16,2.0,45.0,As Expected,Lompoc Valley Medical Center,Santa Barbara,34.639252,-120.4396497
+106420493,2011-2012,2011,2012,8.88,21.0,234.0,As Expected,13.56,36.0,250.0,As Expected,Marian Region Medical Center,Santa Barbara,34.95198,-120.41338
+106420493,2012-2013,2012,2013,10.36,24.0,240.0,As Expected,14.06,34.0,256.0,As Expected,Marian Region Medical Center,Santa Barbara,34.95198,-120.41338
+106420493,2013-2014,2013,2014,9.24,21.0,249.0,As Expected,15.28,39.0,280.0,Worse,Marian Region Medical Center,Santa Barbara,34.95198,-120.41338
+106420493,2014-2015,2014,2015,7.82,17.0,228.0,As Expected,10.86,30.0,245.0,As Expected,Marian Region Medical Center,Santa Barbara,34.95198,-120.41338
+106420514,2011-2012,2011,2012,8.78,36.0,482.0,Better,11.66,64.0,514.0,As Expected,Santa Barbara Cottage Hospital,Santa Barbara,34.42943,-119.72318
+106420514,2012-2013,2012,2013,10.02,45.0,517.0,As Expected,11.55,81.0,558.0,As Expected,Santa Barbara Cottage Hospital,Santa Barbara,34.42943,-119.72318
+106420514,2013-2014,2013,2014,8.47,39.0,522.0,As Expected,10.88,77.0,579.0,As Expected,Santa Barbara Cottage Hospital,Santa Barbara,34.42943,-119.72318
+106420514,2014-2015,2014,2015,8.55,34.0,442.0,As Expected,11.51,66.0,476.0,As Expected,Santa Barbara Cottage Hospital,Santa Barbara,34.42943,-119.72318
+106430705,2011-2012,2011,2012,13.96,58.0,377.0,As Expected,9.76,38.0,396.0,As Expected,Regional Medical of San Jose,Santa Clara,37.36332,-121.84837
+106430705,2012-2013,2012,2013,12.63,58.0,424.0,As Expected,10.09,41.0,444.0,As Expected,Regional Medical of San Jose,Santa Clara,37.36332,-121.84837
+106430705,2013-2014,2013,2014,11.81,55.0,458.0,As Expected,10.82,49.0,503.0,As Expected,Regional Medical of San Jose,Santa Clara,37.36332,-121.84837
+106430705,2014-2015,2014,2015,13.77,56.0,416.0,As Expected,11.71,54.0,453.0,As Expected,Regional Medical of San Jose,Santa Clara,37.36332,-121.84837
+106430763,2011-2012,2011,2012,10.8,39.0,373.0,As Expected,7.68,37.0,394.0,As Expected,El Camino Hospital,Santa Clara,37.36779,-122.07801
+106430763,2012-2013,2012,2013,10.69,35.0,350.0,As Expected,8.09,36.0,369.0,As Expected,El Camino Hospital,Santa Clara,37.36779,-122.07801
+106430763,2013-2014,2013,2014,8.74,29.0,367.0,As Expected,9.58,48.0,413.0,As Expected,El Camino Hospital,Santa Clara,37.36779,-122.07801
+106430763,2014-2015,2014,2015,12.18,39.0,358.0,As Expected,10.66,50.0,390.0,As Expected,El Camino Hospital,Santa Clara,37.36779,-122.07801
+106430779,2011-2012,2011,2012,9.23,36.0,430.0,As Expected,10.24,55.0,463.0,As Expected,Good Samaritan Hospital - San Jose,Santa Clara,37.25116,-121.9449
+106430779,2012-2013,2012,2013,12.61,49.0,440.0,As Expected,10.74,52.0,474.0,As Expected,Good Samaritan Hospital - San Jose,Santa Clara,37.25116,-121.9449
+106430779,2013-2014,2013,2014,12.36,53.0,482.0,As Expected,11.0,56.0,528.0,As Expected,Good Samaritan Hospital - San Jose,Santa Clara,37.25116,-121.9449
+106430779,2014-2015,2014,2015,11.15,40.0,407.0,As Expected,10.28,43.0,431.0,As Expected,Good Samaritan Hospital - San Jose,Santa Clara,37.25116,-121.9449
+106430837,2011-2012,2011,2012,14.19,29.0,215.0,As Expected,11.81,30.0,226.0,As Expected,O’Connor Hospital,Santa Clara,37.32714,-121.93727
+106430837,2012-2013,2012,2013,11.74,26.0,232.0,As Expected,11.93,33.0,245.0,As Expected,O’Connor Hospital,Santa Clara,37.32714,-121.93727
+106430837,2013-2014,2013,2014,11.78,24.0,218.0,As Expected,10.68,30.0,241.0,As Expected,O’Connor Hospital,Santa Clara,37.32714,-121.93727
+106430837,2014-2015,2014,2015,7.64,14.0,194.0,As Expected,8.06,18.0,203.0,As Expected,O’Connor Hospital,Santa Clara,37.32714,-121.93727
+106430883,2011-2012,2011,2012,13.5,42.0,358.0,As Expected,12.33,19.0,371.0,As Expected,Santa Clara Valley Medical Center,Santa Clara,37.31346,-121.93202
+106430883,2012-2013,2012,2013,14.82,48.0,355.0,As Expected,9.19,13.0,360.0,As Expected,Santa Clara Valley Medical Center,Santa Clara,37.31346,-121.93202
+106430883,2013-2014,2013,2014,15.27,55.0,384.0,As Expected,10.82,18.0,407.0,As Expected,Santa Clara Valley Medical Center,Santa Clara,37.31346,-121.93202
+106430883,2014-2015,2014,2015,14.79,47.0,343.0,As Expected,11.81,20.0,356.0,As Expected,Santa Clara Valley Medical Center,Santa Clara,37.31346,-121.93202
+106430905,2011-2012,2011,2012,10.76,35.0,366.0,As Expected,10.65,46.0,387.0,As Expected,Stanford Hospital,Santa Clara,37.43342,-122.17827
+106430905,2012-2013,2012,2013,10.62,36.0,374.0,As Expected,9.05,38.0,392.0,As Expected,Stanford Hospital,Santa Clara,37.43342,-122.17827
+106430905,2013-2014,2013,2014,10.41,32.0,341.0,As Expected,8.31,38.0,375.0,As Expected,Stanford Hospital,Santa Clara,37.43342,-122.17827
+106430905,2014-2015,2014,2015,8.24,23.0,303.0,As Expected,9.79,39.0,317.0,As Expected,Stanford Hospital,Santa Clara,37.43342,-122.17827
+106431506,2011-2012,2011,2012,12.48,44.0,335.0,As Expected,8.99,27.0,345.0,As Expected,Kaiser Foundation Hospital - San Jose,Santa Clara,37.23924,-121.80269
+106431506,2012-2013,2012,2013,12.08,42.0,326.0,As Expected,11.27,41.0,342.0,As Expected,Kaiser Foundation Hospital - San Jose,Santa Clara,37.23924,-121.80269
+106431506,2013-2014,2013,2014,11.24,39.0,313.0,As Expected,9.75,42.0,350.0,As Expected,Kaiser Foundation Hospital - San Jose,Santa Clara,37.23924,-121.80269
+106431506,2014-2015,2014,2015,10.48,34.0,304.0,As Expected,7.87,27.0,315.0,As Expected,Kaiser Foundation Hospital - San Jose,Santa Clara,37.23924,-121.80269
+106434138,2011-2012,2011,2012,5.78,6.0,96.0,As Expected,11.4,16.0,102.0,As Expected,Saint Louise Regional Hospital,Santa Clara,37.03731,-121.57411
+106434138,2012-2013,2012,2013,6.56,7.0,95.0,As Expected,8.16,9.0,98.0,As Expected,Saint Louise Regional Hospital,Santa Clara,37.03731,-121.57411
+106434138,2013-2014,2013,2014,4.63,4.0,89.0,As Expected,13.4,10.0,100.0,As Expected,Saint Louise Regional Hospital,Santa Clara,37.03731,-121.57411
+106434138,2014-2015,2014,2015,9.81,6.0,72.0,As Expected,14.57,8.0,76.0,As Expected,Saint Louise Regional Hospital,Santa Clara,37.03731,-121.57411
+106434153,2011-2012,2011,2012,15.57,62.0,396.0,As Expected,8.85,36.0,415.0,As Expected,Kaiser Foundation Hospital - Santa Clara,Santa Clara,37.334597,-121.995774
+106434153,2012-2013,2012,2013,11.8,53.0,436.0,As Expected,8.04,35.0,452.0,As Expected,Kaiser Foundation Hospital - Santa Clara,Santa Clara,37.334597,-121.995774
+106434153,2013-2014,2013,2014,10.53,48.0,416.0,As Expected,8.78,53.0,465.0,As Expected,Kaiser Foundation Hospital - Santa Clara,Santa Clara,37.334597,-121.995774
+106434153,2014-2015,2014,2015,11.02,38.0,306.0,As Expected,11.55,52.0,333.0,As Expected,Kaiser Foundation Hospital - Santa Clara,Santa Clara,37.334597,-121.995774
+106440755,2011-2012,2011,2012,7.04,18.0,284.0,Better,9.04,32.0,301.0,As Expected,Dominican Hospital,Santa Cruz,36.98806,-121.98489
+106440755,2012-2013,2012,2013,8.71,20.0,269.0,As Expected,9.29,29.0,284.0,As Expected,Dominican Hospital,Santa Cruz,36.98806,-121.98489
+106440755,2013-2014,2013,2014,11.68,28.0,278.0,As Expected,9.5,32.0,307.0,As Expected,Dominican Hospital,Santa Cruz,36.98806,-121.98489
+106440755,2014-2015,2014,2015,10.06,25.0,284.0,As Expected,9.68,31.0,295.0,As Expected,Dominican Hospital,Santa Cruz,36.98806,-121.98489
+106444013,2011-2012,2011,2012,12.6,12.0,97.0,As Expected,9.83,10.0,103.0,As Expected,Watsonville Community Hospital,Santa Cruz,36.92839,-121.79173
+106444013,2012-2013,2012,2013,10.84,11.0,107.0,As Expected,14.02,15.0,111.0,As Expected,Watsonville Community Hospital,Santa Cruz,36.92839,-121.79173
+106444013,2013-2014,2013,2014,7.81,7.0,90.0,As Expected,12.73,12.0,96.0,As Expected,Watsonville Community Hospital,Santa Cruz,36.92839,-121.79173
+106444013,2014-2015,2014,2015,12.41,9.0,76.0,As Expected,17.24,12.0,78.0,As Expected,Watsonville Community Hospital,Santa Cruz,36.92839,-121.79173
+106450940,2011-2012,2011,2012,14.84,32.0,248.0,As Expected,12.63,27.0,263.0,As Expected,Shasta Regional Medical Center,Shasta,40.5855423,-122.3862952
+106450940,2012-2013,2012,2013,14.34,27.0,221.0,As Expected,12.28,24.0,233.0,As Expected,Shasta Regional Medical Center,Shasta,40.5855423,-122.3862952
+106450940,2013-2014,2013,2014,9.96,21.0,235.0,As Expected,8.81,17.0,256.0,As Expected,Shasta Regional Medical Center,Shasta,40.5855423,-122.3862952
+106450940,2014-2015,2014,2015,6.82,15.0,234.0,As Expected,9.46,19.0,245.0,As Expected,Shasta Regional Medical Center,Shasta,40.5855423,-122.3862952
+106450949,2011-2012,2011,2012,11.02,38.0,376.0,As Expected,14.3,72.0,415.0,Worse,Mercy Medical Center - Redding,Shasta,40.57204,-122.39742
+106450949,2012-2013,2012,2013,10.29,33.0,348.0,As Expected,14.35,63.0,382.0,Worse,Mercy Medical Center - Redding,Shasta,40.57204,-122.39742
+106450949,2013-2014,2013,2014,11.73,37.0,327.0,As Expected,13.19,54.0,367.0,As Expected,Mercy Medical Center - Redding,Shasta,40.57204,-122.39742
+106450949,2014-2015,2014,2015,10.28,31.0,303.0,As Expected,11.52,45.0,327.0,As Expected,Mercy Medical Center - Redding,Shasta,40.57204,-122.39742
+106470871,2013-2014,2013,2014,,,,,28.4,7.0,30.0,Worse,Mercy Medical Center Mt. Shasta,Siskiyou,41.31896,-122.323
+106474007,2011-2012,2011,2012,3.17,1.0,37.0,As Expected,17.63,6.0,39.0,As Expected,Fairchild Medical Center,Siskiyou,41.71865,-122.64353
+106474007,2012-2013,2012,2013,10.34,4.0,48.0,As Expected,3.93,2.0,49.0,As Expected,Fairchild Medical Center,Siskiyou,41.71865,-122.64353
+106474007,2013-2014,2013,2014,4.22,2.0,58.0,As Expected,9.32,6.0,60.0,As Expected,Fairchild Medical Center,Siskiyou,41.71865,-122.64353
+106474007,2014-2015,2014,2015,2.38,1.0,49.0,As Expected,16.92,9.0,51.0,As Expected,Fairchild Medical Center,Siskiyou,41.71865,-122.64353
+106480989,2011-2012,2011,2012,7.21,25.0,302.0,Better,7.93,29.0,310.0,As Expected,Kaiser Foundation Hospital - Rehabilitation Center Vallejo,Solano,38.12839,-122.24761
+106480989,2012-2013,2012,2013,8.85,32.0,304.0,As Expected,7.32,27.0,313.0,As Expected,Kaiser Foundation Hospital - Rehabilitation Center Vallejo,Solano,38.12839,-122.24761
+106480989,2013-2014,2013,2014,10.29,42.0,338.0,As Expected,5.33,22.0,361.0,Better,Kaiser Foundation Hospital - Rehabilitation Center Vallejo,Solano,38.12839,-122.24761
+106480989,2014-2015,2014,2015,12.3,43.0,304.0,As Expected,6.32,21.0,310.0,Better,Kaiser Foundation Hospital - Rehabilitation Center Vallejo,Solano,38.12839,-122.24761
+106481094,2011-2012,2011,2012,8.41,12.0,129.0,As Expected,9.36,13.0,133.0,As Expected,Sutter Solano Medical Center,Solano,38.13117,-122.23912
+106481094,2012-2013,2012,2013,8.3,13.0,144.0,As Expected,8.23,11.0,148.0,As Expected,Sutter Solano Medical Center,Solano,38.13117,-122.23912
+106481094,2013-2014,2013,2014,10.11,15.0,140.0,As Expected,6.59,7.0,148.0,As Expected,Sutter Solano Medical Center,Solano,38.13117,-122.23912
+106481094,2014-2015,2014,2015,13.57,16.0,110.0,As Expected,10.63,8.0,113.0,As Expected,Sutter Solano Medical Center,Solano,38.13117,-122.23912
+106481357,2011-2012,2011,2012,11.43,16.0,140.0,As Expected,9.93,12.0,147.0,As Expected,North Bay Medical Center,Solano,38.26097,-122.05076
+106481357,2012-2013,2012,2013,14.42,34.0,221.0,As Expected,6.67,14.0,230.0,As Expected,North Bay Medical Center,Solano,38.26097,-122.05076
+106481357,2013-2014,2013,2014,9.64,27.0,260.0,As Expected,10.09,32.0,284.0,As Expected,North Bay Medical Center,Solano,38.26097,-122.05076
+106481357,2014-2015,2014,2015,9.18,22.0,223.0,As Expected,11.33,29.0,238.0,As Expected,North Bay Medical Center,Solano,38.26097,-122.05076
+106484001,2011-2012,2011,2012,,,,,6.96,2.0,30.0,As Expected,North Bay VacaValley Hospital,Solano,38.35509,-121.95293
+106484044,2011-2012,2011,2012,9.15,17.0,187.0,As Expected,7.21,12.0,191.0,As Expected,Kaiser Foundation Hospital - Vacaville,Solano,38.3894968,-121.9373177
+106484044,2012-2013,2012,2013,7.56,15.0,191.0,As Expected,7.73,16.0,200.0,As Expected,Kaiser Foundation Hospital - Vacaville,Solano,38.3894968,-121.9373177
+106484044,2013-2014,2013,2014,8.7,17.0,181.0,As Expected,6.43,15.0,202.0,As Expected,Kaiser Foundation Hospital - Vacaville,Solano,38.3894968,-121.9373177
+106484044,2014-2015,2014,2015,8.02,18.0,216.0,As Expected,6.53,17.0,230.0,As Expected,Kaiser Foundation Hospital - Vacaville,Solano,38.3894968,-121.9373177
+106490919,2011-2012,2011,2012,13.87,9.0,73.0,As Expected,11.25,8.0,77.0,As Expected,Sutter Medical Center of Santa Rosa,Sonoma,38.46855,-122.70739
+106490919,2012-2013,2012,2013,6.14,5.0,96.0,As Expected,10.94,10.0,98.0,As Expected,Sutter Medical Center of Santa Rosa,Sonoma,38.46855,-122.70739
+106490919,2013-2014,2013,2014,10.98,10.0,103.0,As Expected,9.92,9.0,107.0,As Expected,Sutter Medical Center of Santa Rosa,Sonoma,38.46855,-122.70739
+106490919,2014-2015,2014,2015,14.08,6.0,48.0,As Expected,7.47,3.0,50.0,As Expected,Sutter Medical Center of Santa Rosa,Sonoma,38.46855,-122.70739
+106490964,2011-2012,2011,2012,11.1,5.0,51.0,As Expected,17.02,12.0,54.0,As Expected,Healdsburg District Hospital,Sonoma,38.62764,-122.86385
+106490964,2012-2013,2012,2013,10.54,4.0,47.0,As Expected,11.18,5.0,47.0,As Expected,Healdsburg District Hospital,Sonoma,38.62764,-122.86385
+106490964,2013-2014,2013,2014,14.62,4.0,34.0,As Expected,5.22,2.0,36.0,As Expected,Healdsburg District Hospital,Sonoma,38.62764,-122.86385
+106491001,2011-2012,2011,2012,5.73,4.0,76.0,As Expected,11.15,12.0,83.0,As Expected,Petaluma Valley Hospital,Sonoma,38.25323,-122.63302
+106491001,2012-2013,2012,2013,10.4,6.0,64.0,As Expected,8.19,7.0,69.0,As Expected,Petaluma Valley Hospital,Sonoma,38.25323,-122.63302
+106491001,2013-2014,2013,2014,10.53,7.0,71.0,As Expected,7.36,5.0,75.0,As Expected,Petaluma Valley Hospital,Sonoma,38.25323,-122.63302
+106491001,2014-2015,2014,2015,12.68,8.0,70.0,As Expected,8.68,5.0,71.0,As Expected,Petaluma Valley Hospital,Sonoma,38.25323,-122.63302
+106491064,2011-2012,2011,2012,10.26,25.0,255.0,As Expected,14.63,43.0,279.0,As Expected,Santa Rosa Memorial Hospital - Montgomery,Sonoma,38.44304,-122.70114
+106491064,2012-2013,2012,2013,8.91,22.0,262.0,As Expected,13.08,44.0,285.0,As Expected,Santa Rosa Memorial Hospital - Montgomery,Sonoma,38.44304,-122.70114
+106491064,2013-2014,2013,2014,7.47,22.0,310.0,Better,11.23,49.0,344.0,As Expected,Santa Rosa Memorial Hospital - Montgomery,Sonoma,38.44304,-122.70114
+106491064,2014-2015,2014,2015,7.76,22.0,296.0,As Expected,12.77,49.0,323.0,As Expected,Santa Rosa Memorial Hospital - Montgomery,Sonoma,38.44304,-122.70114
+106491076,2011-2012,2011,2012,1.93,1.0,54.0,Better,7.67,8.0,56.0,As Expected,Sonoma Valley Hospital,Sonoma,38.28841,-122.46524
+106491076,2012-2013,2012,2013,2.2,1.0,53.0,As Expected,12.46,10.0,54.0,As Expected,Sonoma Valley Hospital,Sonoma,38.28841,-122.46524
+106491076,2013-2014,2013,2014,4.04,2.0,57.0,As Expected,9.05,8.0,60.0,As Expected,Sonoma Valley Hospital,Sonoma,38.28841,-122.46524
+106491076,2014-2015,2014,2015,6.02,2.0,39.0,As Expected,3.77,2.0,40.0,As Expected,Sonoma Valley Hospital,Sonoma,38.28841,-122.46524
+106491338,2011-2012,2011,2012,11.93,5.0,43.0,As Expected,5.33,3.0,44.0,As Expected,Palm Drive Hospital,Sonoma,38.39836,-122.82111
+106491338,2012-2013,2012,2013,8.29,4.0,47.0,As Expected,8.87,6.0,48.0,As Expected,Palm Drive Hospital,Sonoma,38.39836,-122.82111
+106491338,2013-2014,2013,2014,2.9,1.0,36.0,As Expected,6.39,4.0,36.0,As Expected,Palm Drive Hospital,Sonoma,38.39836,-122.82111
+106494019,2011-2012,2011,2012,5.18,14.0,270.0,Better,11.2,41.0,283.0,As Expected,Kaiser Foundation Hospital - Santa Rosa,Sonoma,38.47087,-122.73119
+106494019,2012-2013,2012,2013,8.71,23.0,238.0,As Expected,11.92,46.0,257.0,As Expected,Kaiser Foundation Hospital - Santa Rosa,Sonoma,38.47087,-122.73119
+106494019,2013-2014,2013,2014,8.07,21.0,251.0,As Expected,12.73,51.0,286.0,As Expected,Kaiser Foundation Hospital - Santa Rosa,Sonoma,38.47087,-122.73119
+106494019,2014-2015,2014,2015,6.27,14.0,230.0,Better,10.91,35.0,250.0,As Expected,Kaiser Foundation Hospital - Santa Rosa,Sonoma,38.47087,-122.73119
+106494106,2014-2015,2014,2015,2.03,1.0,52.0,As Expected,8.5,5.0,54.0,As Expected,Sutter Santa Rosa Regional Hospital,Sonoma,38.49636,-122.7514
+106500852,2011-2012,2011,2012,7.69,33.0,437.0,Better,10.97,45.0,459.0,As Expected,Doctors Medical Center,Stanislaus,37.66439,-120.99631
+106500852,2012-2013,2012,2013,9.38,41.0,451.0,As Expected,13.55,53.0,471.0,As Expected,Doctors Medical Center,Stanislaus,37.66439,-120.99631
+106500852,2013-2014,2013,2014,11.85,55.0,490.0,As Expected,13.85,56.0,538.0,Worse,Doctors Medical Center,Stanislaus,37.66439,-120.99631
+106500852,2014-2015,2014,2015,14.98,71.0,513.0,As Expected,10.97,46.0,532.0,As Expected,Doctors Medical Center,Stanislaus,37.66439,-120.99631
+106500867,2011-2012,2011,2012,10.95,15.0,157.0,As Expected,14.66,19.0,162.0,As Expected,"Emanuel Medical Center, Inc.",Stanislaus,37.51052,-120.83966
+106500867,2012-2013,2012,2013,8.99,10.0,129.0,As Expected,15.2,16.0,133.0,As Expected,"Emanuel Medical Center, Inc.",Stanislaus,37.51052,-120.83966
+106500867,2013-2014,2013,2014,7.94,10.0,130.0,As Expected,9.35,13.0,138.0,As Expected,"Emanuel Medical Center, Inc.",Stanislaus,37.51052,-120.83966
+106500867,2014-2015,2014,2015,9.71,12.0,128.0,As Expected,10.74,16.0,134.0,As Expected,"Emanuel Medical Center, Inc.",Stanislaus,37.51052,-120.83966
+106500939,2011-2012,2011,2012,12.26,48.0,397.0,As Expected,11.43,49.0,417.0,As Expected,Memorial Hospital Medical Center - Modesto,Stanislaus,37.66727,-120.97546
+106500939,2012-2013,2012,2013,13.99,57.0,422.0,As Expected,12.66,57.0,441.0,As Expected,Memorial Hospital Medical Center - Modesto,Stanislaus,37.66727,-120.97546
+106500939,2013-2014,2013,2014,15.67,75.0,484.0,Worse,9.25,48.0,518.0,As Expected,Memorial Hospital Medical Center - Modesto,Stanislaus,37.66727,-120.97546
+106500939,2014-2015,2014,2015,13.73,69.0,487.0,As Expected,8.42,42.0,496.0,As Expected,Memorial Hospital Medical Center - Modesto,Stanislaus,37.66727,-120.97546
+106500967,2011-2012,2011,2012,9.87,3.0,39.0,As Expected,8.76,3.0,40.0,As Expected,Oak Valley District Hospital,Stanislaus,37.75782,-120.86031
+106500967,2012-2013,2012,2013,13.6,4.0,36.0,As Expected,11.52,3.0,37.0,As Expected,Oak Valley District Hospital,Stanislaus,37.75782,-120.86031
+106500967,2013-2014,2013,2014,3.62,1.0,31.0,As Expected,3.12,1.0,33.0,As Expected,Oak Valley District Hospital,Stanislaus,37.75782,-120.86031
+106521041,2011-2012,2011,2012,10.34,7.0,79.0,As Expected,10.79,10.0,84.0,As Expected,Saint Elizabeth Community Hospital,Tehama,40.1495,-122.21887
+106521041,2012-2013,2012,2013,7.93,5.0,68.0,As Expected,11.42,10.0,72.0,As Expected,Saint Elizabeth Community Hospital,Tehama,40.1495,-122.21887
+106521041,2013-2014,2013,2014,13.8,11.0,85.0,As Expected,10.58,12.0,93.0,As Expected,Saint Elizabeth Community Hospital,Tehama,40.1495,-122.21887
+106521041,2014-2015,2014,2015,14.77,11.0,81.0,As Expected,10.95,10.0,83.0,As Expected,Saint Elizabeth Community Hospital,Tehama,40.1495,-122.21887
+106540734,2011-2012,2011,2012,13.23,57.0,454.0,As Expected,14.18,62.0,493.0,Worse,Kaweah Delta Medical Center,Tulare,36.32753,-119.29345
+106540734,2012-2013,2012,2013,11.72,50.0,446.0,As Expected,13.93,58.0,475.0,Worse,Kaweah Delta Medical Center,Tulare,36.32753,-119.29345
+106540734,2013-2014,2013,2014,9.92,48.0,507.0,As Expected,13.31,66.0,567.0,Worse,Kaweah Delta Medical Center,Tulare,36.32753,-119.29345
+106540734,2014-2015,2014,2015,9.75,47.0,504.0,As Expected,11.27,54.0,537.0,As Expected,Kaweah Delta Medical Center,Tulare,36.32753,-119.29345
+106540798,2011-2012,2011,2012,12.48,27.0,220.0,As Expected,14.55,35.0,237.0,As Expected,Sierra View District Hospital,Tulare,36.06948,-119.02727
+106540798,2012-2013,2012,2013,12.05,22.0,179.0,As Expected,13.78,26.0,193.0,As Expected,Sierra View District Hospital,Tulare,36.06948,-119.02727
+106540798,2013-2014,2013,2014,13.03,23.0,167.0,As Expected,12.56,20.0,184.0,As Expected,Sierra View District Hospital,Tulare,36.06948,-119.02727
+106540798,2014-2015,2014,2015,13.65,24.0,171.0,As Expected,9.12,13.0,177.0,As Expected,Sierra View District Hospital,Tulare,36.06948,-119.02727
+106540816,2011-2012,2011,2012,22.37,20.0,100.0,Worse,14.57,12.0,104.0,As Expected,Tulare Regional Medical Center,Tulare,36.22217,-119.33775
+106540816,2012-2013,2012,2013,17.67,12.0,71.0,As Expected,17.96,12.0,74.0,As Expected,Tulare Regional Medical Center,Tulare,36.22217,-119.33775
+106540816,2013-2014,2013,2014,16.27,7.0,42.0,As Expected,14.65,10.0,47.0,As Expected,Tulare Regional Medical Center,Tulare,36.22217,-119.33775
+106554011,2011-2012,2011,2012,8.78,12.0,136.0,As Expected,9.09,18.0,146.0,As Expected,Sonora Regional Medical Center - Greenley,Tuolumne,37.98811,-120.36965
+106554011,2012-2013,2012,2013,9.76,13.0,137.0,As Expected,13.01,24.0,149.0,As Expected,Sonora Regional Medical Center - Greenley,Tuolumne,37.98811,-120.36965
+106554011,2013-2014,2013,2014,10.63,13.0,131.0,As Expected,14.03,22.0,144.0,As Expected,Sonora Regional Medical Center - Greenley,Tuolumne,37.98811,-120.36965
+106554011,2014-2015,2014,2015,9.95,12.0,122.0,As Expected,13.71,22.0,131.0,As Expected,Sonora Regional Medical Center - Greenley,Tuolumne,37.98811,-120.36965
+106560473,2011-2012,2011,2012,11.97,34.0,322.0,As Expected,9.78,34.0,333.0,As Expected,Community Memorial Hospital - San Buenaventura,Ventura,34.274589,-119.258124
+106560473,2012-2013,2012,2013,13.06,38.0,316.0,As Expected,9.17,33.0,327.0,As Expected,Community Memorial Hospital - San Buenaventura,Ventura,34.274589,-119.258124
+106560473,2013-2014,2013,2014,9.4,30.0,329.0,As Expected,7.51,32.0,354.0,As Expected,Community Memorial Hospital - San Buenaventura,Ventura,34.274589,-119.258124
+106560473,2014-2015,2014,2015,8.43,22.0,280.0,As Expected,9.14,32.0,291.0,As Expected,Community Memorial Hospital - San Buenaventura,Ventura,34.274589,-119.258124
+106560481,2011-2012,2011,2012,11.46,15.0,131.0,As Expected,8.56,10.0,140.0,As Expected,Ventura County Medical Center,Ventura,34.27634,-119.2517
+106560481,2012-2013,2012,2013,9.63,12.0,125.0,As Expected,14.89,17.0,134.0,As Expected,Ventura County Medical Center,Ventura,34.27634,-119.2517
+106560481,2013-2014,2013,2014,10.54,14.0,138.0,As Expected,10.99,13.0,151.0,As Expected,Ventura County Medical Center,Ventura,34.27634,-119.2517
+106560481,2014-2015,2014,2015,12.26,13.0,110.0,As Expected,7.7,8.0,116.0,As Expected,Ventura County Medical Center,Ventura,34.27634,-119.2517
+106560492,2011-2012,2011,2012,13.0,33.0,280.0,As Expected,10.02,37.0,297.0,As Expected,Los Robles Hospital and Medical Center,Ventura,34.20539,-118.89297
+106560492,2012-2013,2012,2013,12.27,29.0,267.0,As Expected,12.29,39.0,285.0,As Expected,Los Robles Hospital and Medical Center,Ventura,34.20539,-118.89297
+106560492,2013-2014,2013,2014,14.6,36.0,270.0,As Expected,11.28,34.0,297.0,As Expected,Los Robles Hospital and Medical Center,Ventura,34.20539,-118.89297
+106560492,2014-2015,2014,2015,16.28,44.0,290.0,As Expected,7.62,23.0,300.0,As Expected,Los Robles Hospital and Medical Center,Ventura,34.20539,-118.89297
+106560501,2012-2013,2012,2013,6.29,2.0,31.0,As Expected,10.66,5.0,32.0,As Expected,Ojai Valley Community Hospital,Ventura,34.44221,-119.26311
+106560501,2014-2015,2014,2015,3.51,1.0,31.0,As Expected,5.8,3.0,32.0,As Expected,Ojai Valley Community Hospital,Ventura,34.44221,-119.26311
+106560508,2011-2012,2011,2012,11.84,16.0,146.0,As Expected,13.17,25.0,151.0,As Expected,Saint John’s Pleasant Valley Hospital,Ventura,34.24177,-119.018
+106560508,2012-2013,2012,2013,9.76,12.0,129.0,As Expected,12.52,22.0,137.0,As Expected,Saint John’s Pleasant Valley Hospital,Ventura,34.24177,-119.018
+106560508,2013-2014,2013,2014,7.96,9.0,118.0,As Expected,12.9,19.0,133.0,As Expected,Saint John’s Pleasant Valley Hospital,Ventura,34.24177,-119.018
+106560508,2014-2015,2014,2015,12.67,13.0,115.0,As Expected,9.36,11.0,119.0,As Expected,Saint John’s Pleasant Valley Hospital,Ventura,34.24177,-119.018
+106560525,2011-2012,2011,2012,15.84,18.0,115.0,As Expected,11.41,15.0,123.0,As Expected,Simi Valley Hospital and Healthcare Services - Sycamore,Ventura,34.28945,-118.74405
+106560525,2012-2013,2012,2013,20.27,23.0,118.0,As Expected,14.26,18.0,131.0,As Expected,Simi Valley Hospital and Healthcare Services - Sycamore,Ventura,34.28945,-118.74405
+106560525,2013-2014,2013,2014,13.21,19.0,139.0,As Expected,10.21,16.0,157.0,As Expected,Simi Valley Hospital and Healthcare Services - Sycamore,Ventura,34.28945,-118.74405
+106560525,2014-2015,2014,2015,11.74,19.0,155.0,As Expected,8.6,15.0,165.0,As Expected,Simi Valley Hospital and Healthcare Services - Sycamore,Ventura,34.28945,-118.74405
+106560529,2011-2012,2011,2012,12.39,37.0,286.0,As Expected,12.33,34.0,305.0,As Expected,Saint John’s Regional Medical Center,Ventura,34.21687,-119.15819
+106560529,2012-2013,2012,2013,10.55,28.0,251.0,As Expected,11.07,27.0,264.0,As Expected,Saint John’s Regional Medical Center,Ventura,34.21687,-119.15819
+106560529,2013-2014,2013,2014,6.63,16.0,240.0,Better,10.29,28.0,267.0,As Expected,Saint John’s Regional Medical Center,Ventura,34.21687,-119.15819
+106560529,2014-2015,2014,2015,12.72,25.0,202.0,As Expected,10.04,18.0,214.0,As Expected,Saint John’s Regional Medical Center,Ventura,34.21687,-119.15819
+106571086,2011-2012,2011,2012,8.05,8.0,112.0,As Expected,17.96,24.0,118.0,Worse,Woodland Memorial Hospital,Yolo,38.66284,-121.7933
+106571086,2012-2013,2012,2013,8.29,7.0,98.0,As Expected,17.63,20.0,107.0,Worse,Woodland Memorial Hospital,Yolo,38.66284,-121.7933
+106571086,2013-2014,2013,2014,9.0,6.0,76.0,As Expected,20.72,19.0,91.0,Worse,Woodland Memorial Hospital,Yolo,38.66284,-121.7933
+106571086,2014-2015,2014,2015,4.55,3.0,74.0,As Expected,15.18,13.0,79.0,As Expected,Woodland Memorial Hospital,Yolo,38.66284,-121.7933
+106574010,2011-2012,2011,2012,7.14,6.0,82.0,As Expected,12.08,12.0,87.0,As Expected,Sutter Davis Hospital,Yolo,38.56154,-121.77244
+106574010,2012-2013,2012,2013,5.79,4.0,69.0,As Expected,10.23,9.0,72.0,As Expected,Sutter Davis Hospital,Yolo,38.56154,-121.77244
+106574010,2013-2014,2013,2014,6.8,5.0,62.0,As Expected,5.0,4.0,67.0,As Expected,Sutter Davis Hospital,Yolo,38.56154,-121.77244
+106574010,2014-2015,2014,2015,12.14,9.0,61.0,As Expected,8.96,8.0,62.0,As Expected,Sutter Davis Hospital,Yolo,38.56154,-121.77244
+106580996,2011-2012,2011,2012,11.66,37.0,315.0,As Expected,11.0,36.0,331.0,As Expected,Rideout Memorial Hospital,Yuba,39.138222,-121.594363
+106580996,2012-2013,2012,2013,11.29,37.0,331.0,As Expected,12.2,39.0,348.0,As Expected,Rideout Memorial Hospital,Yuba,39.138222,-121.594363
+106580996,2013-2014,2013,2014,10.85,35.0,315.0,As Expected,11.97,36.0,344.0,As Expected,Rideout Memorial Hospital,Yuba,39.138222,-121.594363
+106580996,2014-2015,2014,2015,10.15,28.0,281.0,As Expected,13.16,32.0,302.0,As Expected,Rideout Memorial Hospital,Yuba,39.138222,-121.594363

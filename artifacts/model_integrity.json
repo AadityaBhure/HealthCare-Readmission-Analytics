@@ -1,0 +1,38 @@
+{
+  "cabg": {
+    "mean_baseline": {
+      "max_abs_diff": 0.0,
+      "match": true
+    },
+    "persistence": {
+      "max_abs_diff": 0.0,
+      "match": true
+    },
+    "linear_regression": {
+      "max_abs_diff": 0.0,
+      "match": true
+    },
+    "random_forest": {
+      "max_abs_diff": 0.0,
+      "match": true
+    }
+  },
+  "stroke": {
+    "mean_baseline": {
+      "max_abs_diff": 0.0,
+      "match": true
+    },
+    "persistence": {
+      "max_abs_diff": 0.0,
+      "match": true
+    },
+    "linear_regression": {
+      "max_abs_diff": 0.0,
+      "match": true
+    },
+    "random_forest": {
+      "max_abs_diff": 0.0,
+      "match": true
+    }
+  }
+}

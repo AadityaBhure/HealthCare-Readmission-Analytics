@@ -1,0 +1,4 @@
+hospital_id,input_period,target_period,input_start,target_start,horizon_years,design,prev_readmit_rate,prev_mortality_rate,prev_stroke_volume,next_readmit_rate,target_cases,features_complete,reason
+106150782,2013-2014,2014-2015,2013,2014,1,one-step rolling window (overlapping 1 year),,17.88,,6.81,36.0,False,missing previous-window rate or volume
+106190696,2012-2013,2013-2014,2012,2013,1,one-step rolling window (overlapping 1 year),,4.42,,22.2,32.0,False,missing previous-window rate or volume
+106231013,2013-2014,2014-2015,2013,2014,1,one-step rolling window (overlapping 1 year),,16.97,,17.23,30.0,False,missing previous-window rate or volume

@@ -1,0 +1,7 @@
+model,feature,importance_mae_increase,importance_sd
+linear_regression,prev_readmit_rate,1.7604031898082266,0.18660804015491644
+linear_regression,prev_cabg_volume,0.1255271830020536,0.075965209055172
+linear_regression,prev_stroke_rate,-9.564135395218424e-05,0.010282124423468153
+random_forest,prev_readmit_rate,1.8172915790214714,0.2099482261570753
+random_forest,prev_cabg_volume,-0.008041051780395995,0.046053853196131436
+random_forest,prev_stroke_rate,-0.045908811341426416,0.028250073858158347

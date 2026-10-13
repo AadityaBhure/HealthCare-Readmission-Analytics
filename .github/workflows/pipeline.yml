@@ -1,0 +1,110 @@
+name: Run analytics pipeline
+
+# Manual trigger: GitHub -> Actions -> "Run analytics pipeline" -> "Run workflow".
+# Also runs automatically (tests + pipeline, no commit) on pushes and pull requests to main.
+on:
+  workflow_dispatch:
+    inputs:
+      generate_report:
+        description: "Regenerate reports/Project_Report.docx and .pdf"
+        type: boolean
+        default: true
+      commit_artifacts:
+        description: "Commit refreshed models/artifacts/report back to the branch (triggers a Streamlit Cloud redeploy)"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths-ignore: ["**.md"]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write   # only used by the optional commit step
+
+concurrency:
+  group: pipeline-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Check required data files
+        run: |
+          missing=0
+          for f in cabg_hospital_performance.csv ischemic_stroke_outcomes.csv california_allcause_readmissions.csv synthetic_cabg_test.csv; do
+            if [ ! -f "data/raw/$f" ]; then echo "::error file=data/raw/$f::Required dataset data/raw/$f is missing"; missing=1; fi
+          done
+          if [ ! -f data/geo/california_counties.geojson ]; then echo "::error::County boundary file data/geo/california_counties.geojson is missing"; missing=1; fi
+          exit $missing
+
+      - name: Run automated tests
+        run: python -m pytest -q --junitxml=test-results.xml
+
+      - name: Run analysis pipeline (validate, clean, train, evaluate)
+        run: python run_pipeline.py
+
+      - name: Generate project report
+        if: github.event_name != 'workflow_dispatch' || inputs.generate_report
+        run: python reports/generate_report.py
+
+      - name: Summarise results
+        if: always()
+        run: |
+          {
+            echo "## Pipeline results"
+            if [ -f artifacts/cabg/metrics_test.csv ]; then
+              echo "### CABG model - held-out window"; echo '```'; cat artifacts/cabg/metrics_test.csv | cut -d, -f1-6; echo '```'
+            fi
+            if [ -f artifacts/stroke/metrics_test.csv ]; then
+              echo "### Stroke model - held-out window"; echo '```'; cat artifacts/stroke/metrics_test.csv | cut -d, -f1-6; echo '```'
+            fi
+            if [ -f artifacts/validation_checks.csv ]; then
+              echo "### Validation"; echo "pass: $(grep -c ',pass,' artifacts/validation_checks.csv) | warn: $(grep -c ',warn,' artifacts/validation_checks.csv) | fail: $(grep -c ',fail,' artifacts/validation_checks.csv)"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload outputs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-outputs-${{ github.run_number }}
+          path: |
+            artifacts/
+            models/
+            data/processed/
+            reports/Project_Report.docx
+            reports/Project_Report.pdf
+            reports/figures/
+            DATA_DICTIONARY.md
+            test-results.xml
+          if-no-files-found: warn
+
+      - name: Commit refreshed outputs
+        if: github.event_name == 'workflow_dispatch' && inputs.commit_artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add artifacts models data/processed reports DATA_DICTIONARY.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Refresh pipeline outputs (workflow run ${{ github.run_number }})"
+            git push
+          fi
