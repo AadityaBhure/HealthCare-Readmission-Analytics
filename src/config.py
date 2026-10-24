@@ -136,7 +136,7 @@ PROJECT_TITLE = (
 # Replace after deploying (see README). Kept as an explicit placeholder on purpose.
 LIVE_DASHBOARD_URL = os.environ.get("LIVE_DASHBOARD_URL", "https://<your-app-name>.streamlit.app")
 GITHUB_REPO_URL = os.environ.get(
-    "GITHUB_REPO_URL", "https://github.com/<your-github-username>/healthcare-readmission-analytics"
+    "GITHUB_REPO_URL", "https://github.com/AadityaBhure/HealthCare-Readmission-Analytics"
 )
 
 

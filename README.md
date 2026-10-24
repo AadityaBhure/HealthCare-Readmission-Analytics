@@ -4,12 +4,11 @@
 <p align="left">
   <a href="https://YOUR-APP-NAME.streamlit.app"><img alt="Open Live Dashboard" src="https://img.shields.io/badge/%E2%96%B6%20Open%20Live%20Dashboard-22D3EE?style=for-the-badge&labelColor=0B1324"></a>
   &nbsp;
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/healthcare-readmission-analytics/actions/workflows/pipeline.yml"><img alt="Run Pipeline on GitHub" src="https://img.shields.io/badge/%E2%9A%99%20Run%20Pipeline%20on%20GitHub-0E7FA0?style=for-the-badge&labelColor=0B1324"></a>
+  <a href="https://github.com/AadityaBhure/HealthCare-Readmission-Analytics/actions/workflows/pipeline.yml"><img alt="Run Pipeline on GitHub" src="https://img.shields.io/badge/%E2%9A%99%20Run%20Pipeline%20on%20GitHub-0E7FA0?style=for-the-badge&labelColor=0B1324"></a>
 </p>
 
-> **Placeholders:** after you push the repository and deploy (steps below), replace
-> `YOUR-APP-NAME.streamlit.app` with the real Streamlit URL and `YOUR-GITHUB-USERNAME` with your
-> GitHub user name in the two links above. The dashboard has **not** been deployed yet.
+> **Placeholder:** after deploying (steps below), replace `YOUR-APP-NAME.streamlit.app` in the
+> **Open Live Dashboard** link with the real Streamlit URL. The dashboard has **not** been deployed yet.
 
 A BTech healthcare-analytics mini-project that turns four California datasets into:
 
@@ -181,21 +180,19 @@ healthcare-readmission-analytics/
 
 ---
 
-## Publishing to GitHub
+## Source code on GitHub
+
+Repository: <https://github.com/AadityaBhure/HealthCare-Readmission-Analytics>
 
 ```powershell
-git remote add origin https://github.com/YOUR-GITHUB-USERNAME/healthcare-readmission-analytics.git
-git branch -M main
-git push -u origin main
+git clone https://github.com/AadityaBhure/HealthCare-Readmission-Analytics.git
+cd HealthCare-Readmission-Analytics
 ```
-
-(Create the empty repository on github.com first. A local Git repository with an initial commit is
-already included in this folder.)
 
 ## Deploying the dashboard (Streamlit Community Cloud)
 
 1. Sign in at <https://share.streamlit.io> with GitHub and click **Create app → Deploy a public app from GitHub**.
-2. Repository: `YOUR-GITHUB-USERNAME/healthcare-readmission-analytics`, branch `main`, main file `app.py`.
+2. Repository: `AadityaBhure/HealthCare-Readmission-Analytics`, branch `main`, main file `app.py`.
 3. **Advanced settings → Python version: 3.12** (3.13 also works).
 4. Click **Deploy**. The repository already contains the trained models and artifacts, so the app
    starts without retraining. If they were missing, the app would run the pipeline once at start-up.
@@ -229,7 +226,7 @@ variables, or root-level keys in `.streamlit/secrets.toml` on Streamlit Cloud):
 
 ```toml
 READMISSION_DATA_SOURCE = "github"
-READMISSION_DATA_BASE_URL = "https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/healthcare-readmission-analytics/main/data/raw"
+READMISSION_DATA_BASE_URL = "https://raw.githubusercontent.com/AadityaBhure/HealthCare-Readmission-Analytics/main/data/raw"
 ```
 
 ## Testing

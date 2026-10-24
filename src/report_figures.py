@@ -277,7 +277,7 @@ def lag_scatter(art: dict, out: Path) -> Path:
     fig, axes = plt.subplots(1, 2, figsize=(10, 4.2), sharey=True)
     for ax, df, title in ((axes[0], tr1, "Consecutive windows (share 1 calendar year)"),
                           (axes[1], tr2, "Non-overlapping windows (t -> t+2)")):
-        d = df.dropna(subset=["prev_readmit_rate", "next_readmit_rate"])
+        d = df[df["primary_features_complete"]].dropna(subset=["prev_readmit_rate", "next_readmit_rate"])
         r = d["prev_readmit_rate"].corr(d["next_readmit_rate"])
         ax.scatter(d["prev_readmit_rate"], d["next_readmit_rate"], s=14, color=SERIES_LIGHT[0], alpha=0.65, edgecolor="none")
         lim = [0, max(d["prev_readmit_rate"].max(), d["next_readmit_rate"].max()) + 1]
